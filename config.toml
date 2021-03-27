@@ -1,0 +1,19 @@
+baseURL = "https://fr.shoogle.net/poitou-charentes"
+languageCode = "fr"
+title = "Poitou-Charentes"
+theme = "ln-base"
+
+disableKinds = ["RSS", "robotsTXT"]
+enableGitInfo = true
+
+[outputs]
+  home = ["HTML", "JSON"]
+  section = ["HTML", "JSON"]
+
+[params]
+  site = "Shoogle"
+  org = "lokal-ninja"
+  repo = "poitou-charentes"
+
+[taxonomies]
+  shop = "shops"
