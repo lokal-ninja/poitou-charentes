@@ -7,5 +7,5 @@ city: Rochefort
 street: "Avenue du 11 Novembre 1918"
 housenumber: 66
 phone: "+33 5 46 99 55 58"
-opening_hours: "Mo-Sa 08:30-19:30"
+opening_hours: "Mo-Th,Sa 08:30-19:30; Fr 08:30-20:00"
 website: ""
