@@ -1,5 +1,5 @@
 ---
-title: "boulangerie patisserie du parc"
+title: "Boulangerie Pâtisserie du parc"
 url: /benon/boulangerie-patisserie-du-parc/
 shop: boulangerie
 ---

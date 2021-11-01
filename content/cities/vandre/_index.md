@@ -1,6 +1,6 @@
 ---
 title: Vandré
 url: /vandre/
-latitude: 46.056389
-longitude: -0.763889
+latitude: 46.05653
+longitude: -0.7633803
 ---

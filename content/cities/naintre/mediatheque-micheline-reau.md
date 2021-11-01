@@ -1,5 +1,5 @@
 ---
-title: "Mediathèque Micheline Réau"
+title: "Médiathèque Micheline Réau"
 url: /naintre/mediatheque-micheline-reau/
 shop: livres
 ---
