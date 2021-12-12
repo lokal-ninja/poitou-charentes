@@ -1,6 +1,6 @@
 ---
 title: Étaules
 url: /etaules/
-latitude: 45.732763000000006
-longitude: -1.0990973000000002
+latitude: 45.7340308
+longitude: -1.0996037
 ---
