@@ -1,6 +1,6 @@
 ---
 title: Sansais
 url: /sansais/
-latitude: 46.2270301
-longitude: 0.0806487
+latitude: 46.305
+longitude: -0.593
 ---

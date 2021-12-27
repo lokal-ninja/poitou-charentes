@@ -1,6 +1,6 @@
 ---
 title: Saint-Martin-d'Ary
 url: /saint-martin-dary/
-latitude: 45.2266667
-longitude: -0.2130556
+latitude: 45.219
+longitude: -0.192
 ---

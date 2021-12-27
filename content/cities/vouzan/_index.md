@@ -1,6 +1,6 @@
 ---
 title: Vouzan
 url: /vouzan/
-latitude: 45.6026475
-longitude: 0.354549
+latitude: 45.603
+longitude: 0.368
 ---

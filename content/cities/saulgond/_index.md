@@ -1,6 +1,6 @@
 ---
 title: Saulgond
 url: /saulgond/
-latitude: 45.949561100000004
-longitude: 0.7832264000000001
+latitude: 45.945
+longitude: 0.78
 ---

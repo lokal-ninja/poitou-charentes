@@ -1,6 +1,6 @@
 ---
 title: L'Houmeau
 url: /lhoumeau/
-latitude: 46.4535683
-longitude: -0.22134350000000003
+latitude: 46.184
+longitude: -1.191
 ---

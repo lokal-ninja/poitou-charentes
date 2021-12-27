@@ -1,6 +1,6 @@
 ---
 title: Chatressac
 url: /chatressac/
-latitude: 45.7369527
-longitude: -1.0604624
+latitude: 45.737
+longitude: -1.06
 ---

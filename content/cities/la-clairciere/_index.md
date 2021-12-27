@@ -1,6 +1,6 @@
 ---
 title: La Claircière
 url: /la-clairciere/
-latitude: 45.9324224
-longitude: -1.3037119000000001
+latitude: 45.935
+longitude: -1.306
 ---

@@ -1,6 +1,6 @@
 ---
 title: Marennes
 url: /marennes/
-latitude: 45.821067500000005
-longitude: -1.108208
+latitude: 45.823
+longitude: -1.106
 ---

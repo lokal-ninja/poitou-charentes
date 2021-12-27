@@ -1,6 +1,6 @@
 ---
 title: ste Verge
 url: /ste-verge/
-latitude: 
-longitude: 
+latitude: 46.999
+longitude: -0.208
 ---

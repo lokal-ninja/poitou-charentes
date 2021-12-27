@@ -1,6 +1,6 @@
 ---
 title: Boisseul
 url: /boisseul/
-latitude: 
-longitude: 
+latitude: 46.1
+longitude: -0.676
 ---

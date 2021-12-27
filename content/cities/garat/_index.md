@@ -1,6 +1,6 @@
 ---
 title: Garat
 url: /garat/
-latitude: 45.626614700000005
-longitude: 0.2635024
+latitude: 45.602
+longitude: 0.294
 ---

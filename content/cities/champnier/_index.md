@@ -1,6 +1,6 @@
 ---
 title: Champnier
 url: /champnier/
-latitude: 
-longitude: 
+latitude: 45.704
+longitude: 0.182
 ---

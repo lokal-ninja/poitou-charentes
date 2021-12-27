@@ -1,6 +1,6 @@
 ---
 title: Marsilly
 url: /marsilly/
-latitude: 46.231389
-longitude: -1.136667
+latitude: 46.233
+longitude: -1.122
 ---

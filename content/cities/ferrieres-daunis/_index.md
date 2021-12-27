@@ -1,6 +1,6 @@
 ---
 title: Ferrières d’Aunis
 url: /ferrieres-daunis/
-latitude: 
-longitude: 
+latitude: 46.229
+longitude: -0.875
 ---

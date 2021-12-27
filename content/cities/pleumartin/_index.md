@@ -1,6 +1,6 @@
 ---
 title: Pleumartin
 url: /pleumartin/
-latitude: 46.5099077
-longitude: 0.6843076
+latitude: 46.738
+longitude: 0.766
 ---

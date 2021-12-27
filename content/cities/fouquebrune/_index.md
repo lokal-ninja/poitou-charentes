@@ -1,6 +1,6 @@
 ---
 title: Fouquebrune
 url: /fouquebrune/
-latitude: 45.527298300000005
-longitude: 0.21107050000000002
+latitude: 45.51
+longitude: 0.17
 ---

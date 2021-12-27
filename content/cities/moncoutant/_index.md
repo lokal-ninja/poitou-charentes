@@ -1,6 +1,6 @@
 ---
 title: Moncoutant
 url: /moncoutant/
-latitude: 46.722672
-longitude: -0.5873908
+latitude: 46.724
+longitude: -0.588
 ---

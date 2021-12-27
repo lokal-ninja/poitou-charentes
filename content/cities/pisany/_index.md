@@ -1,6 +1,6 @@
 ---
 title: Pisany
 url: /pisany/
-latitude: 45.7018308
-longitude: -0.7832002
+latitude: 45.702
+longitude: -0.791
 ---

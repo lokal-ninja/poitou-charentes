@@ -1,6 +1,6 @@
 ---
 title: Hiesse
 url: /hiesse/
-latitude: 46.0556264
-longitude: 0.5911896
+latitude: 46.066
+longitude: 0.585
 ---

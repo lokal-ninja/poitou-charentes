@@ -1,6 +1,6 @@
 ---
 title: Bessines
 url: /bessines/
-latitude: 46.302075
-longitude: -0.5167969
+latitude: 46.302
+longitude: -0.496
 ---

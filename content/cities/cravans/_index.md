@@ -1,6 +1,6 @@
 ---
 title: Cravans
 url: /cravans/
-latitude: 45.5970869
-longitude: -0.7095942000000001
+latitude: 45.597
+longitude: -0.709
 ---

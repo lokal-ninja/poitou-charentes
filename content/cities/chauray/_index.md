@@ -1,6 +1,6 @@
 ---
 title: Chauray
 url: /chauray/
-latitude: 46.3606879
-longitude: -0.3745955
+latitude: 46.341
+longitude: -0.384
 ---

@@ -1,6 +1,6 @@
 ---
 title: Dirac
 url: /dirac/
-latitude: 45.6037175
-longitude: 0.24792240000000001
+latitude: 45.589
+longitude: 0.24
 ---

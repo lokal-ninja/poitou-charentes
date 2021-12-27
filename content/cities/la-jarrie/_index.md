@@ -1,6 +1,6 @@
 ---
 title: La Jarrie
 url: /la-jarrie/
-latitude: 45.950693
-longitude: -0.7519943
+latitude: 46.129
+longitude: -1.007
 ---

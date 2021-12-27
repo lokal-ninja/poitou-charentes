@@ -1,6 +1,6 @@
 ---
 title: Ronsenac
 url: /ronsenac/
-latitude: 45.4760484
-longitude: 0.24806160000000002
+latitude: 45.453
+longitude: 0.249
 ---

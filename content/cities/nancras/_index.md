@@ -1,6 +1,6 @@
 ---
 title: Nancras
 url: /nancras/
-latitude: 45.7454698
-longitude: -0.883398
+latitude: 45.745
+longitude: -0.881
 ---

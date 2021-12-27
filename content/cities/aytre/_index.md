@@ -1,6 +1,6 @@
 ---
 title: Aytré
 url: /aytre/
-latitude: 46.1333325
-longitude: -1.1146694000000001
+latitude: 46.14
+longitude: -1.131
 ---

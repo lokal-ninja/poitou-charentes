@@ -1,6 +1,6 @@
 ---
 title: Montembœuf
 url: /montemboeuf/
-latitude: 45.7766948
-longitude: 0.5534285
+latitude: 45.755
+longitude: 0.562
 ---

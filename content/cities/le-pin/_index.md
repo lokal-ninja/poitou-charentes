@@ -1,6 +1,6 @@
 ---
 title: Le Pin
 url: /le-pin/
-latitude: 46.3354076
-longitude: -0.1254816
+latitude: 46.897
+longitude: -0.661
 ---

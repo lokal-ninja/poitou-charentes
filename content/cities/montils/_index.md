@@ -1,6 +1,6 @@
 ---
 title: Montils
 url: /montils/
-latitude: 45.6476009
-longitude: -0.5021414000000001
+latitude: 45.649
+longitude: -0.503
 ---

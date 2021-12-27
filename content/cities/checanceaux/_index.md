@@ -1,6 +1,6 @@
 ---
 title: Checanceaux
 url: /checanceaux/
-latitude: 
-longitude: 
+latitude: 45.294
+longitude: -0.238
 ---

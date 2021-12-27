@@ -1,6 +1,6 @@
 ---
 title: Saint-Médard
 url: /saint-medard/
-latitude: 45.847442
-longitude: -0.0856422
+latitude: 45.51
+longitude: -0.121
 ---

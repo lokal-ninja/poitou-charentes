@@ -1,6 +1,6 @@
 ---
 title: La Devise
 url: /la-devise/
-latitude: 
-longitude: 
+latitude: 46.046
+longitude: -0.741
 ---

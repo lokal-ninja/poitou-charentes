@@ -1,6 +1,6 @@
 ---
 title: Taillebourg
 url: /taillebourg/
-latitude: 45.83558
-longitude: -0.6453793
+latitude: 45.835
+longitude: -0.648
 ---

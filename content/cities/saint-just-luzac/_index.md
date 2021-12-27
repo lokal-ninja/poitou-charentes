@@ -1,6 +1,6 @@
 ---
 title: Saint-Just-Luzac
 url: /saint-just-luzac/
-latitude: 
-longitude: 
+latitude: 45.801
+longitude: -1.052
 ---

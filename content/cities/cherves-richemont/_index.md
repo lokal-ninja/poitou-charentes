@@ -1,6 +1,6 @@
 ---
 title: Cherves-Richemont
 url: /cherves-richemont/
-latitude: 
-longitude: 
+latitude: 45.731
+longitude: -0.352
 ---

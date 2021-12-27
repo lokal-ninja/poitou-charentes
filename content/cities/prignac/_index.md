@@ -1,6 +1,6 @@
 ---
 title: Prignac
 url: /prignac/
-latitude: 45.830278
-longitude: -0.35555600000000004
+latitude: 45.831
+longitude: -0.346
 ---

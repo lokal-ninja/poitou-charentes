@@ -1,6 +1,6 @@
 ---
 title: La Crèche
 url: /la-creche/
-latitude: 45.4435713
-longitude: -0.7461871
+latitude: 46.353
+longitude: -0.32
 ---

@@ -1,6 +1,6 @@
 ---
 title: l'isle d'espagnac
 url: /lisle-despagnac/
-latitude: 
-longitude: 
+latitude: 45.664
+longitude: 0.196
 ---

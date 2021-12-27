@@ -1,6 +1,6 @@
 ---
 title: Burie
 url: /burie/
-latitude: 45.773995
-longitude: -0.421175
+latitude: 45.775
+longitude: -0.423
 ---

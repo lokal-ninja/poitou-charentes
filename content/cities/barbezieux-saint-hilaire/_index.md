@@ -1,6 +1,6 @@
 ---
 title: Barbezieux-Saint-Hilaire
 url: /barbezieux-saint-hilaire/
-latitude: 
-longitude: 
+latitude: 45.471
+longitude: -0.152
 ---

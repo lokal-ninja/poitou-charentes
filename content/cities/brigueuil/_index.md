@@ -1,6 +1,6 @@
 ---
 title: Brigueuil
 url: /brigueuil/
-latitude: 45.953675600000004
-longitude: 0.8601435000000001
+latitude: 45.953
+longitude: 0.86
 ---

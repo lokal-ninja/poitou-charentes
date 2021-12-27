@@ -1,6 +1,6 @@
 ---
 title: Beurlay
 url: /beurlay/
-latitude: 45.8596431
-longitude: -0.8354644000000001
+latitude: 45.857
+longitude: -0.831
 ---

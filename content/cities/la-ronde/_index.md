@@ -1,6 +1,6 @@
 ---
 title: La Ronde
 url: /la-ronde/
-latitude: 46.7990361
-longitude: -0.1829464
+latitude: 46.3
+longitude: -0.808
 ---

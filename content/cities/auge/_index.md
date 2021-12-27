@@ -1,6 +1,6 @@
 ---
 title: Auge
 url: /auge/
-latitude: 
-longitude: 
+latitude: 45.832
+longitude: -0.089
 ---

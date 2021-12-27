@@ -1,6 +1,6 @@
 ---
 title: Segonzac
 url: /segonzac/
-latitude: 45.6173553
-longitude: -0.21857210000000002
+latitude: 45.617
+longitude: -0.219
 ---

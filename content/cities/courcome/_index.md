@@ -1,6 +1,6 @@
 ---
 title: Courcome
 url: /courcome/
-latitude: 
-longitude: 
+latitude: 45.992
+longitude: 0.139
 ---

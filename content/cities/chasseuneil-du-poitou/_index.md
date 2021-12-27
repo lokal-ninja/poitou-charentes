@@ -1,6 +1,6 @@
 ---
 title: Chasseuneil-du-Poitou
 url: /chasseuneil-du-poitou/
-latitude: 
-longitude: 
+latitude: 46.649
+longitude: 0.361
 ---

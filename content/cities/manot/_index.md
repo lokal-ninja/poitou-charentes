@@ -1,6 +1,6 @@
 ---
 title: Manot
 url: /manot/
-latitude: 45.9448621
-longitude: 0.260631
+latitude: 45.943
+longitude: 0.637
 ---

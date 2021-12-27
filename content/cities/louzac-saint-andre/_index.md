@@ -1,6 +1,6 @@
 ---
 title: Louzac Saint André
 url: /louzac-saint-andre/
-latitude: 
-longitude: 
+latitude: 45.724
+longitude: -0.412
 ---

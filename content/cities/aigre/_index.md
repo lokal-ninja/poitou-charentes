@@ -1,6 +1,6 @@
 ---
 title: Aigre
 url: /aigre/
-latitude: 45.8947475
-longitude: 0.010366400000000001
+latitude: 45.895
+longitude: 0.01
 ---

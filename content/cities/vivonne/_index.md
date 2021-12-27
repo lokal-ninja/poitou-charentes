@@ -1,6 +1,6 @@
 ---
 title: Vivonne
 url: /vivonne/
-latitude: 46.799156100000005
-longitude: -0.056465900000000006
+latitude: 46.427
+longitude: 0.262
 ---

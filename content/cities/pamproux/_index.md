@@ -1,6 +1,6 @@
 ---
 title: Pamproux
 url: /pamproux/
-latitude: 46.3953341
-longitude: -0.0557604
+latitude: 46.397
+longitude: -0.052
 ---

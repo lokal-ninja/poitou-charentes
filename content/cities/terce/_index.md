@@ -1,6 +1,6 @@
 ---
 title: tercé
 url: /terce/
-latitude: 
-longitude: 
+latitude: 46.517
+longitude: 0.562
 ---

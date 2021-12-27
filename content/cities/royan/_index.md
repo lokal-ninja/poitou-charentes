@@ -1,6 +1,6 @@
 ---
 title: Royan
 url: /royan/
-latitude: 45.6245332
-longitude: -1.0287636
+latitude: 45.628
+longitude: -1.052
 ---

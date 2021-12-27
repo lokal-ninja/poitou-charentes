@@ -1,6 +1,6 @@
 ---
 title: Châtignac
 url: /chatignac/
-latitude: 45.3465198
-longitude: -0.0090005
+latitude: 45.362
+longitude: -0.017
 ---

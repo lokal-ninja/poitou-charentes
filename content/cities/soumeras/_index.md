@@ -1,6 +1,6 @@
 ---
 title: Souméras
 url: /soumeras/
-latitude: 45.2986012
-longitude: -0.4247052
+latitude: 45.298
+longitude: -0.425
 ---

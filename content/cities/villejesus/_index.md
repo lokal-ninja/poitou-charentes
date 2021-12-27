@@ -1,6 +1,6 @@
 ---
 title: Villejesus
 url: /villejesus/
-latitude: 
-longitude: 
+latitude: 45.9
+longitude: 0.015
 ---

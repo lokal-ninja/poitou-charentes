@@ -1,6 +1,6 @@
 ---
 title: Paizay-Naudouin-Embourie
 url: /paizay-naudouin-embourie/
-latitude: 
-longitude: 
+latitude: 46.01
+longitude: -0.009
 ---

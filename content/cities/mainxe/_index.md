@@ -1,6 +1,6 @@
 ---
 title: mainxe
 url: /mainxe/
-latitude: 
-longitude: 
+latitude: 45.658
+longitude: -0.176
 ---

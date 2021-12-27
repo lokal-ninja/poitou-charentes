@@ -1,6 +1,6 @@
 ---
 title: Vérines
 url: /verines/
-latitude: 46.3383108
-longitude: -0.6152105
+latitude: 46.194
+longitude: -0.968
 ---

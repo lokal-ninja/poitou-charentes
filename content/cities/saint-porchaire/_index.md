@@ -1,6 +1,6 @@
 ---
 title: Saint-Porchaire
 url: /saint-porchaire/
-latitude: 46.853868000000006
-longitude: -0.4531451
+latitude: 45.821
+longitude: -0.784
 ---

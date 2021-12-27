@@ -1,6 +1,6 @@
 ---
 title: Juille
 url: /juille/
-latitude: 
-longitude: 
+latitude: 45.921
+longitude: 0.137
 ---

@@ -1,6 +1,6 @@
 ---
 title: Jarnac-Champagne
 url: /jarnac-champagne/
-latitude: 45.559588000000005
-longitude: -0.400803
+latitude: 45.558
+longitude: -0.402
 ---
