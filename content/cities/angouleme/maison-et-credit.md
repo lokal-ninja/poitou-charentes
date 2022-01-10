@@ -1,5 +1,5 @@
 ---
 title: "Maison & Crédit"
-url: /angouleme/maison-and-credit/
+url: /angouleme/maison-et-credit/
 shop: prêteur sur gages
 ---

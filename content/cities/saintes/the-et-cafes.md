@@ -1,5 +1,5 @@
 ---
 title: "Thé & Cafés"
-url: /saintes/the-and-cafes/
+url: /saintes/the-et-cafes/
 shop: thé
 ---

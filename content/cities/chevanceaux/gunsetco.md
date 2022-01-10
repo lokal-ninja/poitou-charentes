@@ -1,5 +1,5 @@
 ---
 title: "Guns&CO"
-url: /chevanceaux/gunsandco/
+url: /chevanceaux/gunsetco/
 shop: armes
 ---

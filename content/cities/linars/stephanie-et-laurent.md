@@ -1,5 +1,5 @@
 ---
 title: "Stéphanie & Laurent"
-url: /linars/stephanie-and-laurent/
+url: /linars/stephanie-et-laurent/
 shop: boulangerie
 ---

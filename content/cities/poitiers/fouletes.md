@@ -1,5 +1,5 @@
 ---
 title: "FOUL&ES"
-url: /poitiers/foulandes/
+url: /poitiers/fouletes/
 shop: sports
 ---

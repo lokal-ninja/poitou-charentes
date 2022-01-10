@@ -1,5 +1,5 @@
 ---
 title: "Dix & Auto"
-url: /dissay/dix-and-auto/
+url: /dissay/dix-et-auto/
 shop: réparation de voitures
 ---
