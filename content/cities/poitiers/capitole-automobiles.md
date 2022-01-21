@@ -1,5 +1,5 @@
 ---
-title: "CAPITOLE AUTOMOBILES"
+title: "Capitole Automobiles"
 url: /poitiers/capitole-automobiles/
 shop: réparation de voitures
 ---

@@ -1,5 +1,5 @@
 ---
-title: "PINAUD Françoise"
+title: "Pinaud Françoise"
 url: /villefagnan/pinaud-francoise/
 shop: coiffeur
 ---
