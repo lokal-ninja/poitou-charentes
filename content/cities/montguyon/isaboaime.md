@@ -1,5 +1,5 @@
 ---
 title: "Isabo'aime"
 url: /montguyon/isaboaime/
-shop: shop
+shop: boutique
 ---

@@ -1,5 +1,5 @@
 ---
 title: "MMS"
 url: /montmorillon/mms/
-shop: shop
+shop: entretien des terrains
 ---

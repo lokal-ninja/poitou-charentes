@@ -1,5 +1,5 @@
 ---
 title: "Kiloutou"
 url: /niort/kiloutou/
-shop: shop
+shop: outils
 ---
