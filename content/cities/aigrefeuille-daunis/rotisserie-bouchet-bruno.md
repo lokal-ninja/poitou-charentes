@@ -1,5 +1,5 @@
 ---
-title: "Rôtisserie BOUCHET Bruno"
+title: "Rôtisserie Bouchet Bruno"
 url: /aigrefeuille-daunis/rotisserie-bouchet-bruno/
 shop: boucherie
 ---

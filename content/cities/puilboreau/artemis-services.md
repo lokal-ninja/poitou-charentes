@@ -1,5 +1,5 @@
 ---
-title: "ARTEMIS Services"
+title: "Artémis Services"
 url: /puilboreau/artemis-services/
 shop: copyshop
 ---

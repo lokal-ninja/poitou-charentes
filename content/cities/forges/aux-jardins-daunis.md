@@ -1,5 +1,5 @@
 ---
-title: "AUX JARDINS D'AUNIS"
+title: "Aux Jardins d'Aunis"
 url: /forges/aux-jardins-daunis/
 shop: légumes
 ---

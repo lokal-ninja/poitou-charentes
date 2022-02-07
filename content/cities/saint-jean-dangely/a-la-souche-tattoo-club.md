@@ -1,5 +1,5 @@
 ---
-title: "À LA SOUCHE TATTOO CLUB"
+title: "À La Souche Tattoo Club"
 url: /saint-jean-dangely/a-la-souche-tattoo-club/
 shop: tatouage
 ---

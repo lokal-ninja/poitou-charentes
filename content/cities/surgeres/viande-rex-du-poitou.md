@@ -1,5 +1,5 @@
 ---
-title: "VIANDE REX DU POITOU"
+title: "Viande Rex du Poitou"
 url: /surgeres/viande-rex-du-poitou/
-shop: shop
+shop: charcuterie
 ---
