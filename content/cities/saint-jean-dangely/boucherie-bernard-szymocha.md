@@ -1,5 +1,5 @@
 ---
-title: "Boucherie Bernard Szymocha"
+title: "Boucherie Bernard SZYMOCHA"
 url: /saint-jean-dangely/boucherie-bernard-szymocha/
 shop: boucherie
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Rembert Thierry"
+title: "REMBERT Thierry"
 url: /surgeres/rembert-thierry/
 shop: légumes
 ---

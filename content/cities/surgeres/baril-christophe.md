@@ -1,5 +1,5 @@
 ---
-title: "Baril Christophe"
+title: "BARIL Christophe"
 url: /surgeres/baril-christophe/
 shop: fromage
 ---
