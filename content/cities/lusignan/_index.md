@@ -1,6 +1,6 @@
 ---
 title: Lusignan
 url: /lusignan/
-latitude: 46.428
-longitude: 0.113
+latitude: 46.436
+longitude: 0.122
 ---
