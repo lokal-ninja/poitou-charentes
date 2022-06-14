@@ -1,5 +1,5 @@
 ---
-title: "Carrefour contact"
+title: "Carrefour Contact"
 url: /burie/carrefour-contact/
 shop: supermarché
 ---
