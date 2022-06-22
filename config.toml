@@ -1,4 +1,4 @@
-baseURL = "https://fr.shoogle.net/poitou-charentes"
+baseURL = "https://fr.shoogle.net/poitou-charentes/"
 languageCode = "fr"
 title = "Poitou-Charentes"
 theme = "ln-base"
