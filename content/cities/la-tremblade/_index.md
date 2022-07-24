@@ -1,6 +1,6 @@
 ---
 title: La Tremblade
 url: /la-tremblade/
-latitude: 45.77
-longitude: -1.141
+latitude: 45.769
+longitude: -1.14
 ---
