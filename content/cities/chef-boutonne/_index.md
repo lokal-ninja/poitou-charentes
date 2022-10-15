@@ -1,6 +1,6 @@
 ---
 title: Chef-Boutonne
 url: /chef-boutonne/
-latitude: 46.107
-longitude: -0.07
+latitude: 46.109
+longitude: -0.084
 ---
