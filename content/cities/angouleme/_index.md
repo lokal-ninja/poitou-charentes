@@ -1,6 +1,6 @@
 ---
 title: Angoulême
 url: /angouleme/
-latitude: 45.648
-longitude: 0.162
+latitude: 45.649
+longitude: 0.163
 ---

@@ -1,6 +1,6 @@
 ---
 title: Loudun
 url: /loudun/
-latitude: 47.012
-longitude: 0.084
+latitude: 47.011
+longitude: 0.082
 ---
