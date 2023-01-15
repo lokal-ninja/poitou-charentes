@@ -1,5 +1,5 @@
 ---
 title: "Norauto Ferrières"
-url: /ferrieres-daunis/norauto-ferrieres/
+url: /ferrieres/norauto-ferrieres/
 shop: réparation de voitures
 ---
