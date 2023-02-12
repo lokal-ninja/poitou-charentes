@@ -1,5 +1,5 @@
 ---
 title: "Auchan"
-url: /poitiers/auchan-2/
+url: /poitiers/auchan/
 shop: gaz
 ---
