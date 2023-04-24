@@ -1,6 +1,6 @@
 ---
 title: Ars-en-Ré
 url: /ars-en-re/
-latitude: 46.209
-longitude: -1.514
+latitude: 46.198
+longitude: -1.493
 ---
