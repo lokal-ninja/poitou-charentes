@@ -1,6 +1,6 @@
 ---
 title: Châtellerault
 url: /chatellerault/
-latitude: 46.816
-longitude: 0.546
+latitude: 46.818
+longitude: 0.542
 ---
