@@ -1,6 +1,6 @@
 ---
 title: Thouars
 url: /thouars/
-latitude: 46.988
-longitude: -0.218
+latitude: 46.977
+longitude: -0.197
 ---
