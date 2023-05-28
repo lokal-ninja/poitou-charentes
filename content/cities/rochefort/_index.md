@@ -1,6 +1,6 @@
 ---
-title: ROCHEFORT
+title: Rochefort
 url: /rochefort/
-latitude: 45.938
-longitude: -0.961
+latitude: 45.937
+longitude: -0.962
 ---
