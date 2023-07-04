@@ -1,6 +1,6 @@
 ---
 title: Linars
 url: /linars/
-latitude: 45.655
-longitude: 0.084
+latitude: 45.653
+longitude: 0.085
 ---
