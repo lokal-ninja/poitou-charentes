@@ -1,6 +1,6 @@
 ---
 title: Ruelle-sur-Touvre
 url: /ruelle-sur-touvre/
-latitude: 45.677
-longitude: 0.221
+latitude: 45.679
+longitude: 0.227
 ---
