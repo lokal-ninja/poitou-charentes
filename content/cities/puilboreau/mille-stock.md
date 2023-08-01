@@ -1,5 +1,5 @@
 ---
 title: "Mille stock"
 url: /puilboreau/mille-stock/
-shop: shop
+shop: magasin de variétés
 ---
