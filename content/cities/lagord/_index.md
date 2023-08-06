@@ -1,6 +1,6 @@
 ---
 title: Lagord
 url: /lagord/
-latitude: 46.174
-longitude: -1.17
+latitude: 46.179
+longitude: -1.166
 ---
