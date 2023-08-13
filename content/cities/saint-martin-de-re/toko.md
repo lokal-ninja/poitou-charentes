@@ -1,5 +1,5 @@
 ---
 title: "Toko"
 url: /saint-martin-de-re/toko/
-shop: meubles
+shop: décoration intérieure
 ---
