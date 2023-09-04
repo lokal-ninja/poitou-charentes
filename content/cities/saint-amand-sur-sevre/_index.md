@@ -1,6 +1,6 @@
 ---
 title: Saint-Amand-sur-Sèvre
 url: /saint-amand-sur-sevre/
-latitude: 46.869
-longitude: -0.799
+latitude: 46.868
+longitude: -0.794
 ---
