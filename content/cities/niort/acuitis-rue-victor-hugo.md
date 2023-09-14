@@ -1,5 +1,5 @@
 ---
 title: "Acuitis"
-url: /niort/acuitis/
+url: /niort/acuitis-rue-victor-hugo/
 shop: shop
 ---

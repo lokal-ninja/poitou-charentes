@@ -1,5 +1,5 @@
 ---
 title: "Blue House"
-url: /la-flotte/blue-house/
+url: /la-flotte/blue-house-rue-du-general-de-gaulle/
 shop: vêtements
 ---
