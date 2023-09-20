@@ -1,6 +1,6 @@
 ---
 title: Meursac
 url: /meursac/
-latitude: 45.65
-longitude: -0.809
+latitude: 45.651
+longitude: -0.812
 ---
