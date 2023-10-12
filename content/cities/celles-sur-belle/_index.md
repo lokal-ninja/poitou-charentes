@@ -1,6 +1,6 @@
 ---
-title: Celles sur Belle
+title: Celles-sur-Belle
 url: /celles-sur-belle/
-latitude: 46.255
-longitude: -0.204
+latitude: 46.263
+longitude: -0.211
 ---
