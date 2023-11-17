@@ -1,6 +1,6 @@
 ---
 title: La Jarne
 url: /la-jarne/
-latitude: 46.13
-longitude: -1.072
+latitude: 46.129
+longitude: -1.067
 ---
