@@ -1,6 +1,6 @@
 ---
 title: Thénezay
 url: /thenezay/
-latitude: 46.72
-longitude: -0.027
+latitude: 46.711
+longitude: -0.036
 ---
