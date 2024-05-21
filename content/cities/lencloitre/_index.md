@@ -1,6 +1,6 @@
 ---
 title: Lencloître
 url: /lencloitre/
-latitude: 46.816
-longitude: 0.327
+latitude: 46.817
+longitude: 0.332
 ---
