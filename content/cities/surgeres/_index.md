@@ -1,6 +1,6 @@
 ---
 title: Surgères
 url: /surgeres/
-latitude: 46.107
-longitude: -0.75
+latitude: 46.114
+longitude: -0.761
 ---
