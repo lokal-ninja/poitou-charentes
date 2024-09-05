@@ -1,5 +1,5 @@
 ---
 title: "Tamaris"
 url: /saintes/tamaris/
-shop: chaussures
+shop: Schuhe
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ecovelo"
 url: /la-rochelle/ecovelo/
-shop: vélo
+shop: Fahrrad
 ---

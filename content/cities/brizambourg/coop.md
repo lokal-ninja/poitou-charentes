@@ -1,5 +1,5 @@
 ---
 title: "Coop"
 url: /brizambourg/coop/
-shop: commodité
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Vival"
 url: /les-mathes/vival/
-shop: commodité
+shop: Lebensmittel
 ---

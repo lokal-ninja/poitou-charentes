@@ -1,5 +1,5 @@
 ---
 title: "Happycash"
 url: /champniers/happycash/
-shop: charité
+shop: Gebrauchtwaren
 ---

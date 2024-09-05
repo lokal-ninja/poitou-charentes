@@ -1,5 +1,5 @@
 ---
 title: "Tousalon"
 url: /royan/tousalon/
-shop: meubles
+shop: Möbel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Cyclable"
 url: /rochefort/cyclable/
-shop: vélo
+shop: Fahrrad
 ---

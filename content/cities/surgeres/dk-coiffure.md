@@ -1,5 +1,5 @@
 ---
 title: "DK coiffure"
 url: /surgeres/dk-coiffure/
-shop: coiffeur
+shop: Friseur
 ---

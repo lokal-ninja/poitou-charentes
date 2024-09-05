@@ -1,5 +1,5 @@
 ---
 title: "Homebox"
 url: /perigny/homebox/
-shop: location de stockage
+shop: Mieten
 ---

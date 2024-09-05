@@ -1,5 +1,5 @@
 ---
 title: "Cheminées Mercier"
 url: /pons/cheminees-mercier/
-shop: cheminée
+shop: Kamine & Öfen
 ---

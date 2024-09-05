@@ -1,5 +1,5 @@
 ---
 title: "Schmidt"
 url: /medis/schmidt/
-shop: cuisine
+shop: Küchen
 ---

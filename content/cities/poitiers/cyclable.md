@@ -1,5 +1,5 @@
 ---
 title: "Cyclable"
 url: /poitiers/cyclable/
-shop: vélo
+shop: Fahrrad
 ---

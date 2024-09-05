@@ -1,5 +1,5 @@
 ---
 title: "Cycland"
 url: /sainte-marie-de-re/cycland/
-shop: vélo
+shop: Fahrrad
 ---

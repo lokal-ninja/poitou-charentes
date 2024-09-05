@@ -1,5 +1,5 @@
 ---
 title: "Brisson"
 url: /surgeres/brisson/
-shop: boulangerie
+shop: Bäckerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Rose et Violette"
 url: /rochefort/rose-et-violette/
-shop: fleuriste
+shop: Blumen
 ---

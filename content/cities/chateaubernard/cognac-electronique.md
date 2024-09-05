@@ -1,5 +1,5 @@
 ---
 title: "Cognac Électronique"
 url: /chateaubernard/cognac-electronique/
-shop: électronique
+shop: Elektronik
 ---

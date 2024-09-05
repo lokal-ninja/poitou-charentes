@@ -1,5 +1,5 @@
 ---
 title: "KIS'wash"
 url: /saujon/kiswash/
-shop: blanchisserie
+shop: Wäscherei
 ---

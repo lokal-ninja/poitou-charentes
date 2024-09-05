@@ -1,5 +1,5 @@
 ---
 title: "Schmidt"
 url: /champniers/schmidt/
-shop: cuisine
+shop: Küchen
 ---

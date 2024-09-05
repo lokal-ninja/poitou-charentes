@@ -1,5 +1,5 @@
 ---
 title: "HappyCash"
 url: /angoulins/happycash/
-shop: charité
+shop: Gebrauchtwaren
 ---

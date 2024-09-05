@@ -1,5 +1,5 @@
 ---
 title: "L'atelier du linge"
 url: /fleac/latelier-du-linge/
-shop: blanchisserie
+shop: Wäscherei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bagatelle"
 url: /parthenay/bagatelle/
-shop: vêtements
+shop: Kleidung
 ---

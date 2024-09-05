@@ -1,5 +1,5 @@
 ---
 title: "Chaussea"
 url: /pons/chaussea/
-shop: chaussures
+shop: Schuhe
 ---

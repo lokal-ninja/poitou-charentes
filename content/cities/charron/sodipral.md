@@ -1,5 +1,5 @@
 ---
 title: "Sodipral"
 url: /charron/sodipral/
-shop: boucherie
+shop: Metzgerei
 ---

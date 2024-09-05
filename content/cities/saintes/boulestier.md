@@ -1,5 +1,5 @@
 ---
 title: "Boulestier"
 url: /saintes/boulestier/
-shop: pâtisserie
+shop: Konditorei
 ---

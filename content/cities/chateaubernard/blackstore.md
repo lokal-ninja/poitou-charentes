@@ -1,5 +1,5 @@
 ---
 title: "Blackstore"
 url: /chateaubernard/blackstore/
-shop: vêtements
+shop: Kleidung
 ---

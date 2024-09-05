@@ -1,5 +1,5 @@
 ---
 title: "Men'Shop"
 url: /surgeres/menshop/
-shop: vêtements
+shop: Kleidung
 ---

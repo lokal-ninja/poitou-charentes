@@ -1,5 +1,5 @@
 ---
 title: "Le Rush"
 url: /angouleme/le-rush/
-shop: tabac
+shop: Tabak
 ---

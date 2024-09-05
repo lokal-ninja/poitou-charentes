@@ -1,5 +1,5 @@
 ---
 title: "Croq'Fruit"
 url: /parthenay/croqfruit/
-shop: légumes
+shop: Gemüse & Obst
 ---

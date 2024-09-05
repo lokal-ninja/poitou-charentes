@@ -1,5 +1,5 @@
 ---
 title: "Caprice"
 url: /coulonges-sur-lautize/caprice/
-shop: tissu
+shop: Textil
 ---

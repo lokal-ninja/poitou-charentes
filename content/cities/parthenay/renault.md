@@ -1,5 +1,5 @@
 ---
 title: "Renault"
 url: /parthenay/renault/
-shop: voiture
+shop: Autohaus
 ---

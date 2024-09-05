@@ -1,5 +1,5 @@
 ---
 title: "Boulangerie des Loges"
 url: /parthenay/boulangerie-des-loges/
-shop: boulangerie
+shop: Bäckerei
 ---

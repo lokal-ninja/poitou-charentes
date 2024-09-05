@@ -1,5 +1,5 @@
 ---
 title: "Avia"
 url: /parthenay/avia/
-shop: commodité
+shop: Lebensmittel
 ---

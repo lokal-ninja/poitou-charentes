@@ -1,5 +1,5 @@
 ---
 title: "Troc.com"
 url: /puilboreau/troc-com/
-shop: charité
+shop: Gebrauchtwaren
 ---

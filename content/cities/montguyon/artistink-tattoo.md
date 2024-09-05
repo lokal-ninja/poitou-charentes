@@ -1,5 +1,5 @@
 ---
 title: "Artist’ink Tattoo"
 url: /montguyon/artistink-tattoo/
-shop: tatouage
+shop: Tattoo
 ---

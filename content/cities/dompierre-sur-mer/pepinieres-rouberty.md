@@ -1,5 +1,5 @@
 ---
 title: "Pépinières Rouberty"
 url: /dompierre-sur-mer/pepinieres-rouberty/
-shop: centre de jardinage
+shop: Garten-Center
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Decathlon"
 url: /rochefort/decathlon/
-shop: sports
+shop: Sport
 ---

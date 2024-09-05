@@ -1,5 +1,5 @@
 ---
 title: "Decathlon"
 url: /puilboreau/decathlon/
-shop: sports
+shop: Sport
 ---

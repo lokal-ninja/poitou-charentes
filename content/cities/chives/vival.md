@@ -1,5 +1,5 @@
 ---
 title: "Vival"
 url: /chives/vival/
-shop: commodité
+shop: Lebensmittel
 ---

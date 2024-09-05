@@ -1,5 +1,5 @@
 ---
 title: "Brocante"
 url: /la-creche/brocante/
-shop: antiquités
+shop: Antiquitäten
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Auchan"
 url: /chatellerault/auchan/
-shop: supermarché
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bouticycle Christian Michelot"
 url: /champnier/bouticycle-christian-michelot/
-shop: vélo
+shop: Fahrrad
 ---

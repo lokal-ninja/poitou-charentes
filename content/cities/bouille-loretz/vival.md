@@ -1,5 +1,5 @@
 ---
 title: "Vival"
 url: /bouille-loretz/vival/
-shop: commodité
+shop: Lebensmittel
 ---

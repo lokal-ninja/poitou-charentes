@@ -1,5 +1,5 @@
 ---
 title: "Boulangerie Burylo"
 url: /sainte-soulle/boulangerie-burylo/
-shop: boulangerie
+shop: Bäckerei
 ---

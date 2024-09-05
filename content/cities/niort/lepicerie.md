@@ -1,5 +1,5 @@
 ---
 title: "L'Épicerie"
 url: /niort/lepicerie/
-shop: charcuterie
+shop: Feinkost
 ---

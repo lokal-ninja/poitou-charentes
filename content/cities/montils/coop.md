@@ -1,5 +1,5 @@
 ---
 title: "coop"
 url: /montils/coop/
-shop: commodité
+shop: Lebensmittel
 ---

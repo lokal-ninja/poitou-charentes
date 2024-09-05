@@ -1,5 +1,5 @@
 ---
 title: "Dessange Paris"
 url: /saintes/dessange-paris/
-shop: coiffeur
+shop: Friseur
 ---

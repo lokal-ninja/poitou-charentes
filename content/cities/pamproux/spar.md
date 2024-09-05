@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /pamproux/spar/
-shop: supermarché
+shop: Supermarkt
 ---

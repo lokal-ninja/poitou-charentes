@@ -1,5 +1,5 @@
 ---
 title: "Alexand'hair"
 url: /parthenay/alexandhair/
-shop: coiffeur
+shop: Friseur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Decoceram"
 url: /niort/decoceram/
-shop: tuiles
+shop: Fliesen
 ---

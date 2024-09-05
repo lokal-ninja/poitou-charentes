@@ -1,5 +1,5 @@
 ---
 title: "Biclou"
 url: /poitiers/biclou/
-shop: vélo
+shop: Fahrrad
 ---

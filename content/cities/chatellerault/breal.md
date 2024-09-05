@@ -1,5 +1,5 @@
 ---
 title: "Bréal"
 url: /chatellerault/breal/
-shop: vêtements
+shop: Kleidung
 ---

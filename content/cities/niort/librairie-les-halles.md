@@ -1,5 +1,5 @@
 ---
 title: "Librairie Les Halles"
 url: /niort/librairie-les-halles/
-shop: livres
+shop: Bücher
 ---

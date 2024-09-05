@@ -1,5 +1,5 @@
 ---
 title: "Api"
 url: /claix/api/
-shop: commodité
+shop: Lebensmittel
 ---

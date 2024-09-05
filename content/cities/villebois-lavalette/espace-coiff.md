@@ -1,5 +1,5 @@
 ---
 title: "Espace Coiff"
 url: /villebois-lavalette/espace-coiff/
-shop: coiffeur
+shop: Friseur
 ---

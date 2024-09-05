@@ -1,5 +1,5 @@
 ---
 title: "Maxime"
 url: /bressuire/maxime/
-shop: bijoux
+shop: Schmuck
 ---

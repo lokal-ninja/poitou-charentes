@@ -1,5 +1,5 @@
 ---
 title: "Ma Boulangerie"
 url: /montmorillon/ma-boulangerie/
-shop: boulangerie
+shop: Bäckerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Gamm Vert"
 url: /aytre/gamm-vert/
-shop: centre de jardinage
+shop: Garten-Center
 ---

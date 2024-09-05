@@ -1,5 +1,5 @@
 ---
 title: "Kilo Shop"
 url: /la-rochelle/kilo-shop/
-shop: vêtements
+shop: Kleidung
 ---

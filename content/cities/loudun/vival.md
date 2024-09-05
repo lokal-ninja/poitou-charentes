@@ -1,5 +1,5 @@
 ---
 title: "Vival"
 url: /loudun/vival/
-shop: commodité
+shop: Lebensmittel
 ---

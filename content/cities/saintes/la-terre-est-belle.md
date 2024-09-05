@@ -1,5 +1,5 @@
 ---
 title: "La Terre est Belle"
 url: /saintes/la-terre-est-belle/
-shop: thé
+shop: Tee
 ---

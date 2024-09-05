@@ -1,5 +1,5 @@
 ---
 title: "Les Gourmandises"
 url: /buxerolles/les-gourmandises/
-shop: boulangerie
+shop: Bäckerei
 ---

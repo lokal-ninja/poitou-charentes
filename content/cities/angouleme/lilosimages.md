@@ -1,5 +1,5 @@
 ---
 title: "Lilosimages"
 url: /angouleme/lilosimages/
-shop: livres
+shop: Bücher
 ---

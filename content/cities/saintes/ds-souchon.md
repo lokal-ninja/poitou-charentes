@@ -1,5 +1,5 @@
 ---
 title: "DS Souchon"
 url: /saintes/ds-souchon/
-shop: photo
+shop: Foto
 ---
