@@ -1,5 +1,5 @@
 ---
 title: "Kapritsyo"
 url: /saintes/kapritsyo/
-shop: Schmuck
+shop: bijoux
 ---

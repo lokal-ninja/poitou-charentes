@@ -1,5 +1,5 @@
 ---
 title: "Clopinette"
 url: /chatellerault/clopinette/
-shop: E-Zigaretten
+shop: e-cigarette
 ---

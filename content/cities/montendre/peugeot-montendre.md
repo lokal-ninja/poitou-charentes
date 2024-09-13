@@ -1,5 +1,5 @@
 ---
 title: "Peugeot Montendre"
 url: /montendre/peugeot-montendre/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

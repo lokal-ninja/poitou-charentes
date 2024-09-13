@@ -1,5 +1,5 @@
 ---
 title: "Le Coin Fleuri"
 url: /bonneuil-matours/le-coin-fleuri/
-shop: Blumen
+shop: fleuriste
 ---

@@ -1,5 +1,5 @@
 ---
 title: "L'Epicerie d'Isa"
 url: /coulon/lepicerie-disa/
-shop: Lebensmittel
+shop: commodité
 ---

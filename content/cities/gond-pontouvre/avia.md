@@ -1,5 +1,5 @@
 ---
 title: "Avia"
 url: /gond-pontouvre/avia/
-shop: Lebensmittel
+shop: commodité
 ---

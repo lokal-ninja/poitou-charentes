@@ -1,5 +1,5 @@
 ---
 title: "Visual"
 url: /saint-pierre-doleron/visual/
-shop: Optiker
+shop: opticien
 ---

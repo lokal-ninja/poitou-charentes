@@ -1,5 +1,5 @@
 ---
 title: "Coiffure Isabelle"
 url: /cisse/coiffure-isabelle/
-shop: Friseur
+shop: coiffeur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Musseau Pneus"
 url: /pons/musseau-pneus/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

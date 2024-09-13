@@ -1,5 +1,5 @@
 ---
 title: "Coop Atlantique"
 url: /bonneuil-matours/coop-atlantique/
-shop: Lebensmittel
+shop: commodité
 ---

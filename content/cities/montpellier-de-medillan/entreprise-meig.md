@@ -1,5 +1,5 @@
 ---
 title: "Entreprise MEIG"
 url: /montpellier-de-medillan/entreprise-meig/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

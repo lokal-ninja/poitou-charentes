@@ -1,5 +1,5 @@
 ---
 title: "Vignoble Roland Vilneau"
 url: /verdille/vignoble-roland-vilneau/
-shop: Hofladen
+shop: ferme
 ---

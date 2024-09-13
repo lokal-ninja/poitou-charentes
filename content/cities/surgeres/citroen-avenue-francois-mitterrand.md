@@ -1,5 +1,5 @@
 ---
 title: "Citroën"
 url: /surgeres/citroen-avenue-francois-mitterrand/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Norauto Ferrières"
 url: /ferrieres/norauto-ferrieres/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

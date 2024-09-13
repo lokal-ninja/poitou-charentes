@@ -1,5 +1,5 @@
 ---
 title: "Unis Vert Bio"
 url: /surgeres/unis-vert-bio/
-shop: Lebensmittel
+shop: commodité
 ---

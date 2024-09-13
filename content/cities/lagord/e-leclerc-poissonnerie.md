@@ -1,5 +1,5 @@
 ---
 title: "E.Leclerc Poissonnerie"
 url: /lagord/e-leclerc-poissonnerie/
-shop: Fisch
+shop: fruits de mer
 ---

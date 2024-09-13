@@ -1,5 +1,5 @@
 ---
 title: "Poissonnerie Neraudeau"
 url: /surgeres/poissonnerie-neraudeau/
-shop: Fisch
+shop: fruits de mer
 ---

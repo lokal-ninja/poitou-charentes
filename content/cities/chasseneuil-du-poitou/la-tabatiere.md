@@ -1,5 +1,5 @@
 ---
 title: "La Tabatière"
 url: /chasseneuil-du-poitou/la-tabatiere/
-shop: Zeitungen
+shop: marchand de journaux
 ---

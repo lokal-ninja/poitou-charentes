@@ -1,5 +1,5 @@
 ---
 title: "Sofistyl"
 url: /courcon/sofistyl/
-shop: Friseur
+shop: coiffeur
 ---

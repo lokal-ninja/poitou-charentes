@@ -1,5 +1,5 @@
 ---
 title: "Filaé"
 url: /rochefort/filae/
-shop: Gardinen
+shop: rideau
 ---

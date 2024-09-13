@@ -1,5 +1,5 @@
 ---
 title: "Equateur"
 url: /saint-martin-de-re/equateur/
-shop: Kleidung
+shop: vêtements
 ---

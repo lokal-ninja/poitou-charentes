@@ -1,5 +1,5 @@
 ---
 title: "Petit Minot"
 url: /saintes/petit-minot/
-shop: Babysachen
+shop: produits pour bébés
 ---

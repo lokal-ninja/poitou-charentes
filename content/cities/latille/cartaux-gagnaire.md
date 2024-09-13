@@ -1,5 +1,5 @@
 ---
 title: "Cartaux – Gagnaire"
 url: /latille/cartaux-gagnaire/
-shop: Bestattungen
+shop: directeurs de funérailles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Boucherie de la Place"
 url: /loulay/boucherie-de-la-place/
-shop: Metzgerei
+shop: boucherie
 ---

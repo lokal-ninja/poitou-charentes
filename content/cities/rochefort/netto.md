@@ -1,5 +1,5 @@
 ---
 title: "Netto"
 url: /rochefort/netto/
-shop: Supermarkt
+shop: supermarché
 ---

@@ -1,5 +1,5 @@
 ---
 title: "LiterieMarché"
 url: /niort/literiemarche/
-shop: Betten
+shop: lit
 ---

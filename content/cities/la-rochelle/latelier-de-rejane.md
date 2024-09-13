@@ -1,5 +1,5 @@
 ---
 title: "L'atelier de Réjane"
 url: /la-rochelle/latelier-de-rejane/
-shop: Friseur
+shop: coiffeur
 ---

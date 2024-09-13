@@ -1,5 +1,5 @@
 ---
 title: "NOZ"
 url: /bressuire/noz/
-shop: Kramladen
+shop: magasin de variétés
 ---

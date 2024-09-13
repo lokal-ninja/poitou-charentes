@@ -1,5 +1,5 @@
 ---
 title: "Mathé"
 url: /surgeres/mathe/
-shop: Bäckerei
+shop: boulangerie
 ---

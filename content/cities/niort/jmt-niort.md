@@ -1,5 +1,5 @@
 ---
 title: "JMT Niort"
 url: /niort/jmt-niort/
-shop: Tierfutter
+shop: aliments pour animaux
 ---

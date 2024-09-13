@@ -1,5 +1,5 @@
 ---
 title: "SMAP"
 url: /pons/smap/
-shop: Autoteile
+shop: pièces de voitures
 ---

@@ -1,5 +1,5 @@
 ---
 title: "NOZ"
 url: /poitiers/noz/
-shop: Kramladen
+shop: magasin de variétés
 ---

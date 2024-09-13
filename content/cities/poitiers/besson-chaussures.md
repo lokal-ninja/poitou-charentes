@@ -1,5 +1,5 @@
 ---
 title: "Besson Chaussures"
 url: /poitiers/besson-chaussures/
-shop: Schuhe
+shop: chaussures
 ---

@@ -1,5 +1,5 @@
 ---
 title: "La Bonne Croquette"
 url: /mainxe/la-bonne-croquette/
-shop: Tiere
+shop: animal de compagnie
 ---

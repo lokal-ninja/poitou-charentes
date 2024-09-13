@@ -1,5 +1,5 @@
 ---
 title: "La Cervoiserie"
 url: /rochefort/la-cervoiserie/
-shop: Spirituosen
+shop: alcool
 ---

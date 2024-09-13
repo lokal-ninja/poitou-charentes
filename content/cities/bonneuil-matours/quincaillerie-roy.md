@@ -1,5 +1,5 @@
 ---
 title: "Quincaillerie Roy"
 url: /bonneuil-matours/quincaillerie-roy/
-shop: Eisenwaren
+shop: matériel informatique
 ---

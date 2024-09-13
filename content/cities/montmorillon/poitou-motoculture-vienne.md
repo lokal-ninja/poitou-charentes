@@ -1,5 +1,5 @@
 ---
 title: "Poitou Motoculture Vienne"
 url: /montmorillon/poitou-motoculture-vienne/
-shop: Platzpflege
+shop: entretien des terrains
 ---

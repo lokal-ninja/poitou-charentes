@@ -1,5 +1,5 @@
 ---
 title: "So'Style"
 url: /saint-maixent-lecole/sostyle/
-shop: Friseur
+shop: coiffeur
 ---

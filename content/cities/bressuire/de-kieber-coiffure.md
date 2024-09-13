@@ -1,5 +1,5 @@
 ---
 title: "De Kieber coiffure"
 url: /bressuire/de-kieber-coiffure/
-shop: Friseur
+shop: coiffeur
 ---

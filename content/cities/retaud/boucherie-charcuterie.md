@@ -1,5 +1,5 @@
 ---
 title: "Boucherie, Charcuterie"
 url: /retaud/boucherie-charcuterie/
-shop: Metzgerei
+shop: boucherie
 ---

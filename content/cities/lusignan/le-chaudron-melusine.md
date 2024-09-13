@@ -1,5 +1,5 @@
 ---
 title: "Le Chaudron Mélusine"
 url: /lusignan/le-chaudron-melusine/
-shop: Lebensmittel
+shop: commodité
 ---

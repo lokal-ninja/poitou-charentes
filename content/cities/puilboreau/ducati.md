@@ -1,5 +1,5 @@
 ---
 title: "Ducati"
 url: /puilboreau/ducati/
-shop: Motorrad
+shop: moto
 ---

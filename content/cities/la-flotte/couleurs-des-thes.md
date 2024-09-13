@@ -1,5 +1,5 @@
 ---
 title: "Couleurs des thés"
 url: /la-flotte/couleurs-des-thes/
-shop: Tee
+shop: thé
 ---

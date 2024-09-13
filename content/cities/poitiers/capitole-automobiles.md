@@ -1,5 +1,5 @@
 ---
 title: "CAPITOLE AUTOMOBILES"
 url: /poitiers/capitole-automobiles/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

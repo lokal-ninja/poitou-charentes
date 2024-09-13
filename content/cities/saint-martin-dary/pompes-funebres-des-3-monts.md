@@ -1,5 +1,5 @@
 ---
 title: "Pompes funèbres des 3 monts"
 url: /saint-martin-dary/pompes-funebres-des-3-monts/
-shop: Bestattungen
+shop: directeurs de funérailles
 ---

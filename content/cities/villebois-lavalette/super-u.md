@@ -1,5 +1,5 @@
 ---
 title: "Super U"
 url: /villebois-lavalette/super-u/
-shop: Supermarkt
+shop: supermarché
 ---

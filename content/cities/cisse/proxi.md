@@ -1,5 +1,5 @@
 ---
 title: "Proxi"
 url: /cisse/proxi/
-shop: Lebensmittel
+shop: commodité
 ---

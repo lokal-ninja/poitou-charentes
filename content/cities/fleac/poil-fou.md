@@ -1,5 +1,5 @@
 ---
 title: "Poil fou"
 url: /fleac/poil-fou/
-shop: Tiersalon
+shop: toilettage des animaux
 ---

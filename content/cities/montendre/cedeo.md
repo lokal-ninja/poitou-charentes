@@ -1,5 +1,5 @@
 ---
 title: "Cedeo"
 url: /montendre/cedeo/
-shop: Baumarkt
+shop: à faire soi-même
 ---

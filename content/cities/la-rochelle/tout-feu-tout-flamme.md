@@ -1,5 +1,5 @@
 ---
 title: "Tout Feu Tout Flamme"
 url: /la-rochelle/tout-feu-tout-flamme/
-shop: Kamine & Öfen
+shop: cheminée
 ---

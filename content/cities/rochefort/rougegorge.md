@@ -1,5 +1,5 @@
 ---
 title: "RougeGorge"
 url: /rochefort/rougegorge/
-shop: Kleidung
+shop: vêtements
 ---

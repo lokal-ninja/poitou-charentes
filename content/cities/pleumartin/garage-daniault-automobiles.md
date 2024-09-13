@@ -1,5 +1,5 @@
 ---
 title: "Garage Daniault Automobiles"
 url: /pleumartin/garage-daniault-automobiles/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

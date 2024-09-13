@@ -1,5 +1,5 @@
 ---
 title: "YCA DIFFUSION"
 url: /le-chateau-doleron/yca-diffusion/
-shop: Motorrad
+shop: moto
 ---

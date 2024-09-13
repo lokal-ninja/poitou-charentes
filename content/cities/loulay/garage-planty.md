@@ -1,5 +1,5 @@
 ---
 title: "Garage Planty"
 url: /loulay/garage-planty/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

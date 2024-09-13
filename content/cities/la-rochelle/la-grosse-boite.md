@@ -1,5 +1,5 @@
 ---
 title: "La Grosse Boîte"
 url: /la-rochelle/la-grosse-boite/
-shop: Spielzeug
+shop: jouets
 ---

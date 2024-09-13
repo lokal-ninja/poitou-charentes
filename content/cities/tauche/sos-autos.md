@@ -1,5 +1,5 @@
 ---
 title: "SOS Autos"
 url: /tauche/sos-autos/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

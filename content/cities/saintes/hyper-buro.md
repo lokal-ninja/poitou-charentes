@@ -1,5 +1,5 @@
 ---
 title: "Hyper buro"
 url: /saintes/hyper-buro/
-shop: Schreibwaren
+shop: fournitures de bureau
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Arepe"
 url: /saint-maixent-lecole/arepe/
-shop: Baustoffe
+shop: commerce
 ---

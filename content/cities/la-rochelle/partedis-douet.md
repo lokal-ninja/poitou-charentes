@@ -1,5 +1,5 @@
 ---
 title: "Partedis - Douet"
 url: /la-rochelle/partedis-douet/
-shop: Großhandel
+shop: vente en gros
 ---

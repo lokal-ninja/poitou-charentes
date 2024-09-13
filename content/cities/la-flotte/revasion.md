@@ -1,5 +1,5 @@
 ---
 title: "Ré'Vasion"
 url: /la-flotte/revasion/
-shop: Reisebüro
+shop: agence de voyage
 ---

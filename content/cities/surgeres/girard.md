@@ -1,5 +1,5 @@
 ---
 title: "Girard"
 url: /surgeres/girard/
-shop: Metzgerei
+shop: boucherie
 ---

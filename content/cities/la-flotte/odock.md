@@ -1,5 +1,5 @@
 ---
 title: "O'Dock"
 url: /la-flotte/odock/
-shop: Feinkost
+shop: charcuterie
 ---

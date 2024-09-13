@@ -1,5 +1,5 @@
 ---
 title: "Service Cycle"
 url: /nieul-sur-mer/service-cycle/
-shop: Fahrrad
+shop: vélo
 ---

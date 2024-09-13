@@ -1,5 +1,5 @@
 ---
 title: "La Cocotte Gourmande"
 url: /cressac-saint-genis/la-cocotte-gourmande/
-shop: Hofladen
+shop: ferme
 ---

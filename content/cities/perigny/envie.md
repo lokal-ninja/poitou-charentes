@@ -1,5 +1,5 @@
 ---
 title: "Envie"
 url: /perigny/envie/
-shop: Haushaltsgeräte
+shop: appareil ménager
 ---

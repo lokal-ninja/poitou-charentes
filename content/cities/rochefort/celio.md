@@ -1,5 +1,5 @@
 ---
 title: "Celio"
 url: /rochefort/celio/
-shop: Kleidung
+shop: vêtements
 ---

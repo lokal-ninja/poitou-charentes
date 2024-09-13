@@ -1,5 +1,5 @@
 ---
 title: "La Foir'Fouille"
 url: /rochefort/la-foirfouille/
-shop: Kramladen
+shop: magasin de variétés
 ---

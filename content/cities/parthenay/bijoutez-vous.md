@@ -1,5 +1,5 @@
 ---
 title: "Bijoutez vous !"
 url: /parthenay/bijoutez-vous/
-shop: Schmuck
+shop: bijoux
 ---

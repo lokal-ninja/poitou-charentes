@@ -1,5 +1,5 @@
 ---
 title: "Beau Poil"
 url: /surgeres/beau-poil/
-shop: Tiersalon
+shop: toilettage des animaux
 ---

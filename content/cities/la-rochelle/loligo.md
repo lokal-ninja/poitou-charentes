@@ -1,5 +1,5 @@
 ---
 title: "Loligo"
 url: /la-rochelle/loligo/
-shop: Fisch
+shop: fruits de mer
 ---

@@ -1,5 +1,5 @@
 ---
 title: "EARL Elevage Boyer"
 url: /saintes/earl-elevage-boyer/
-shop: Metzgerei
+shop: boucherie
 ---

@@ -1,5 +1,5 @@
 ---
 title: "PMU Express"
 url: /rochefort/pmu-express/
-shop: Zeitungen
+shop: marchand de journaux
 ---

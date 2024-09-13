@@ -1,5 +1,5 @@
 ---
 title: "E.Leclerc"
 url: /rochefort/e-leclerc/
-shop: Reisebüro
+shop: agence de voyage
 ---

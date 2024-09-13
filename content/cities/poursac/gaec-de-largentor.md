@@ -1,5 +1,5 @@
 ---
 title: "GAEC de l'Argentor"
 url: /poursac/gaec-de-largentor/
-shop: Hofladen
+shop: ferme
 ---

@@ -1,5 +1,5 @@
 ---
 title: "AGF"
 url: /parthenay/agf/
-shop: Allgemein
+shop: shop
 ---

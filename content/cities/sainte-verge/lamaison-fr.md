@@ -1,5 +1,5 @@
 ---
 title: "LaMaison.fr"
 url: /sainte-verge/lamaison-fr/
-shop: Baumarkt
+shop: à faire soi-même
 ---

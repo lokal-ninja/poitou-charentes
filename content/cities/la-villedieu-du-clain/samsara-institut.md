@@ -1,5 +1,5 @@
 ---
 title: "Samsara Institut"
 url: /la-villedieu-du-clain/samsara-institut/
-shop: Kosmetik
+shop: beauté
 ---

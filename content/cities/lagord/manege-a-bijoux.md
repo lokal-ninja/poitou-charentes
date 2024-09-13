@@ -1,5 +1,5 @@
 ---
 title: "Manège à Bijoux"
 url: /lagord/manege-a-bijoux/
-shop: Schmuck
+shop: bijoux
 ---

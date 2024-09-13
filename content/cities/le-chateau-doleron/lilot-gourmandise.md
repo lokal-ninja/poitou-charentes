@@ -1,5 +1,5 @@
 ---
 title: "L'ilot Gourmandise"
 url: /le-chateau-doleron/lilot-gourmandise/
-shop: Bäckerei
+shop: boulangerie
 ---

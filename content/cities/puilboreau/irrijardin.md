@@ -1,5 +1,5 @@
 ---
 title: "Irrijardin"
 url: /puilboreau/irrijardin/
-shop: Pool
+shop: piscine
 ---

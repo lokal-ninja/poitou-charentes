@@ -1,5 +1,5 @@
 ---
 title: "Cycloparc"
 url: /la-rochelle/cycloparc/
-shop: Mieten
+shop: location de stockage
 ---

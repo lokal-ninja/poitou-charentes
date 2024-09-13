@@ -1,5 +1,5 @@
 ---
 title: "Sourice Meubles"
 url: /moncoutant-sur-sevre/sourice-meubles/
-shop: Möbel
+shop: meubles
 ---

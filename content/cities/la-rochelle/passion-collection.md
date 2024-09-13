@@ -1,5 +1,5 @@
 ---
 title: "Passion collection"
 url: /la-rochelle/passion-collection/
-shop: Sammler
+shop: collecteur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Somadis Bricolage"
 url: /chateauneuf-sur-charente/somadis-bricolage/
-shop: Baumarkt
+shop: à faire soi-même
 ---

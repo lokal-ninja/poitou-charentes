@@ -1,5 +1,5 @@
 ---
 title: "Citroën"
 url: /lussant/citroen/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

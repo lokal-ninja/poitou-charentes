@@ -1,5 +1,5 @@
 ---
 title: "Gouet Thierry"
 url: /pons/gouet-thierry/
-shop: Metzgerei
+shop: boucherie
 ---

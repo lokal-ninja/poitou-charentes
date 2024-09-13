@@ -1,5 +1,5 @@
 ---
 title: "Bastide"
 url: /chauray/bastide/
-shop: Sanitätshaus
+shop: approvisionnement médical
 ---

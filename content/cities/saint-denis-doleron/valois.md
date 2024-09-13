@@ -1,5 +1,5 @@
 ---
 title: "Valois"
 url: /saint-denis-doleron/valois/
-shop: Bäckerei
+shop: boulangerie
 ---

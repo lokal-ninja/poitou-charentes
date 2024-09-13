@@ -1,5 +1,5 @@
 ---
 title: "La Boutique Traiteur"
 url: /parthenay/la-boutique-traiteur/
-shop: Metzgerei
+shop: boucherie
 ---

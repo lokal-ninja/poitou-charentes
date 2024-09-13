@@ -1,5 +1,5 @@
 ---
 title: "La Doul'angerie"
 url: /villedoux/la-doulangerie/
-shop: Bäckerei
+shop: boulangerie
 ---

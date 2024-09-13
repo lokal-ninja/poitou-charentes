@@ -1,5 +1,5 @@
 ---
 title: "Côté Campagne"
 url: /saint-xandre/cote-campagne/
-shop: Blumen
+shop: fleuriste
 ---

@@ -1,5 +1,5 @@
 ---
 title: "La Dou'langerie"
 url: /andilly/la-doulangerie/
-shop: Bäckerei
+shop: boulangerie
 ---

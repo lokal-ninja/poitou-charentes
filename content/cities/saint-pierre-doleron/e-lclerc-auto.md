@@ -1,5 +1,5 @@
 ---
 title: "E.Lclerc Auto"
 url: /saint-pierre-doleron/e-lclerc-auto/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

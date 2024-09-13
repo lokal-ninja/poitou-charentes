@@ -1,5 +1,5 @@
 ---
 title: "Kabul Market"
 url: /la-rochelle/kabul-market/
-shop: Supermarkt
+shop: supermarché
 ---

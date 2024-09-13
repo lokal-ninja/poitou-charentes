@@ -1,5 +1,5 @@
 ---
 title: "Blackstore"
 url: /rochefort/blackstore/
-shop: Kleidung
+shop: vêtements
 ---

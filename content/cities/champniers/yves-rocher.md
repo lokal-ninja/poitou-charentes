@@ -1,5 +1,5 @@
 ---
 title: "Yves Rocher"
 url: /champniers/yves-rocher/
-shop: Kosmetik
+shop: beauté
 ---

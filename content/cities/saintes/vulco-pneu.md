@@ -1,5 +1,5 @@
 ---
 title: "Vulco Pneu"
 url: /saintes/vulco-pneu/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

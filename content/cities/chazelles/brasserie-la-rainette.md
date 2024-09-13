@@ -1,5 +1,5 @@
 ---
 title: "Brasserie la Rainette"
 url: /chazelles/brasserie-la-rainette/
-shop: Getränke
+shop: boissons
 ---

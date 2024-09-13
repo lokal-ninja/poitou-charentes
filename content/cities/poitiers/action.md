@@ -1,5 +1,5 @@
 ---
 title: "Action"
 url: /poitiers/action/
-shop: Kramladen
+shop: magasin de variétés
 ---

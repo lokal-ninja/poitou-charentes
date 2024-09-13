@@ -1,5 +1,5 @@
 ---
 title: "Centre Auto de l'Étang"
 url: /chateauneuf-sur-charente/centre-auto-de-letang/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

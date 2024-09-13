@@ -1,5 +1,5 @@
 ---
 title: "La Déco de Manon"
 url: /chatellerault/la-deco-de-manon/
-shop: Raumausstattung
+shop: décoration intérieure
 ---

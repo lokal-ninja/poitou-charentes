@@ -1,5 +1,5 @@
 ---
 title: "Bouygues Telecom"
 url: /poitiers/bouygues-telecom/
-shop: Handy
+shop: téléphone portable
 ---

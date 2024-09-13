@@ -1,5 +1,5 @@
 ---
 title: "MonBrico"
 url: /thouars/monbrico/
-shop: Baumarkt
+shop: à faire soi-même
 ---

@@ -1,5 +1,5 @@
 ---
 title: "E.Leclerc"
 url: /lagord/e-leclerc/
-shop: Reisebüro
+shop: agence de voyage
 ---

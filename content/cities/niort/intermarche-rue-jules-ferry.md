@@ -1,5 +1,5 @@
 ---
 title: "Intermarché"
 url: /niort/intermarche-rue-jules-ferry/
-shop: Supermarkt
+shop: supermarché
 ---

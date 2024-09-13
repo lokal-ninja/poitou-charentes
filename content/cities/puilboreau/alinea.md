@@ -1,5 +1,5 @@
 ---
 title: "Alinéa"
 url: /puilboreau/alinea/
-shop: Möbel
+shop: meubles
 ---

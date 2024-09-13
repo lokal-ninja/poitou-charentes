@@ -1,5 +1,5 @@
 ---
 title: "Uveira José"
 url: /soumeras/uveira-jose/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

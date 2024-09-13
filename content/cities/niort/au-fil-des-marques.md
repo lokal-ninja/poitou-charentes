@@ -1,5 +1,5 @@
 ---
-title: "Au Fil des Marques"
+title: "Au Fil Des Marques"
 url: /niort/au-fil-des-marques/
-shop: Kleidung
+shop: vêtements
 ---

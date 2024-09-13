@@ -1,5 +1,5 @@
 ---
 title: "Lova Luminaire"
 url: /saintes/lova-luminaire/
-shop: Lampen
+shop: lampes
 ---

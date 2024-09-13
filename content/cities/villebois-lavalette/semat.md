@@ -1,5 +1,5 @@
 ---
 title: "Semat"
 url: /villebois-lavalette/semat/
-shop: Baumarkt
+shop: à faire soi-même
 ---

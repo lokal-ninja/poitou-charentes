@@ -1,5 +1,5 @@
 ---
 title: "Aux Macarons d'Antan"
 url: /saintes/aux-macarons-dantan/
-shop: Konditorei
+shop: pâtisserie
 ---

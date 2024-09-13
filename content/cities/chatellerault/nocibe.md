@@ -1,5 +1,5 @@
 ---
 title: "Nocibé"
 url: /chatellerault/nocibe/
-shop: Kosmetik
+shop: beauté
 ---

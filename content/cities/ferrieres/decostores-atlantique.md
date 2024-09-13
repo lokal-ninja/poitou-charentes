@@ -1,5 +1,5 @@
 ---
 title: "DécoStores Atlantique"
 url: /ferrieres/decostores-atlantique/
-shop: Jalousien
+shop: store de fenêtre
 ---

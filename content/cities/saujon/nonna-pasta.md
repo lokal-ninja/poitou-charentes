@@ -1,5 +1,5 @@
 ---
 title: "Nonna pasta"
 url: /saujon/nonna-pasta/
-shop: Feinkost
+shop: charcuterie
 ---

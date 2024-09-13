@@ -1,5 +1,5 @@
 ---
 title: "Le dépôt"
 url: /la-rochelle/le-depot/
-shop: Lebensmittel
+shop: commodité
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Free"
 url: /niort/free/
-shop: Handy
+shop: téléphone portable
 ---

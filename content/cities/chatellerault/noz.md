@@ -1,5 +1,5 @@
 ---
 title: "NOZ"
 url: /chatellerault/noz/
-shop: Kramladen
+shop: magasin de variétés
 ---

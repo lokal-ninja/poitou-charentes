@@ -1,5 +1,5 @@
 ---
 title: "Garage Action Auto 86"
 url: /naintre/garage-action-auto-86/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

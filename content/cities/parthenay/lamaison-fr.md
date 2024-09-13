@@ -1,5 +1,5 @@
 ---
 title: "LaMaison.fr"
 url: /parthenay/lamaison-fr/
-shop: Baumarkt
+shop: à faire soi-même
 ---

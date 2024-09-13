@@ -1,5 +1,5 @@
 ---
 title: "Boulangerie du Palais"
 url: /saintes/boulangerie-du-palais/
-shop: Bäckerei
+shop: boulangerie
 ---

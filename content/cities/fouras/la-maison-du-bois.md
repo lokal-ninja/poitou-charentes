@@ -1,5 +1,5 @@
 ---
 title: "La Maison du Bois"
 url: /fouras/la-maison-du-bois/
-shop: Kramladen
+shop: magasin de variétés
 ---

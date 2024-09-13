@@ -1,5 +1,5 @@
 ---
 title: "Decathlon Champniers"
 url: /champniers/decathlon-champniers/
-shop: Sport
+shop: sports
 ---

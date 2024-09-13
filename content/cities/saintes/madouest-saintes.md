@@ -1,5 +1,5 @@
 ---
 title: "Madouest Saintes"
 url: /saintes/madouest-saintes/
-shop: Sanitätshaus
+shop: approvisionnement médical
 ---

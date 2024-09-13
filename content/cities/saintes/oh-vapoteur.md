@@ -1,5 +1,5 @@
 ---
 title: "Oh Vapoteur"
 url: /saintes/oh-vapoteur/
-shop: Tabak
+shop: tabac
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Salon d'Anna"
 url: /vars/salon-danna/
-shop: Friseur
+shop: coiffeur
 ---

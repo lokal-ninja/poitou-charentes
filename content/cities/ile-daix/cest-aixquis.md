@@ -1,5 +1,5 @@
 ---
 title: "C'est Aixquis"
 url: /ile-daix/cest-aixquis/
-shop: Mieten
+shop: location de stockage
 ---

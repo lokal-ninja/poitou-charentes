@@ -1,5 +1,5 @@
 ---
 title: "Vival"
 url: /le-thou/vival/
-shop: Lebensmittel
+shop: commodité
 ---

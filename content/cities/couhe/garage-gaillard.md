@@ -1,5 +1,5 @@
 ---
 title: "Garage Gaillard"
 url: /couhe/garage-gaillard/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

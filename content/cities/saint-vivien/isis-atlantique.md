@@ -1,5 +1,5 @@
 ---
 title: "Isis Atlantique"
 url: /saint-vivien/isis-atlantique/
-shop: Sanitätshaus
+shop: approvisionnement médical
 ---

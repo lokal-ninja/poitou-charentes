@@ -1,5 +1,5 @@
 ---
 title: "Huitres Menard Et Fils"
 url: /aytree/huitres-menard-et-fils/
-shop: Allgemein
+shop: fruits de mer
 ---

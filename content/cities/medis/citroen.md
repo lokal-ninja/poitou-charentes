@@ -1,5 +1,5 @@
 ---
 title: "Citroën"
 url: /medis/citroen/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

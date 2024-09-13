@@ -1,5 +1,5 @@
 ---
 title: "Spot Carroserie"
 url: /rochefort/spot-carroserie/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

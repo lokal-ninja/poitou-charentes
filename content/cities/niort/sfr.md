@@ -1,5 +1,5 @@
 ---
 title: "SFR"
 url: /niort/sfr/
-shop: Handy
+shop: téléphone portable
 ---

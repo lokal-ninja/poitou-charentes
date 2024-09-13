@@ -1,5 +1,5 @@
 ---
 title: "Le Celtique"
 url: /saintes/le-celtique/
-shop: Tabak
+shop: tabac
 ---

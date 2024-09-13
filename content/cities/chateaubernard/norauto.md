@@ -1,5 +1,5 @@
 ---
 title: "Norauto"
 url: /chateaubernard/norauto/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

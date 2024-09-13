@@ -1,5 +1,5 @@
 ---
 title: "Rituel de Beauté Stéphanie"
 url: /fleac/rituel-de-beaute-stephanie/
-shop: Kosmetik
+shop: beauté
 ---

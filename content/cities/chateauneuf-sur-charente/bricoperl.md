@@ -1,5 +1,5 @@
 ---
 title: "Bricoperl"
 url: /chateauneuf-sur-charente/bricoperl/
-shop: Eisenwaren
+shop: matériel informatique
 ---

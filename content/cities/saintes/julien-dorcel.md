@@ -1,5 +1,5 @@
 ---
 title: "Julien d'Orcel"
 url: /saintes/julien-dorcel/
-shop: Schmuck
+shop: bijoux
 ---

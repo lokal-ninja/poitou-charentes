@@ -1,5 +1,5 @@
 ---
 title: "Label Viande"
 url: /dissay/label-viande/
-shop: Metzgerei
+shop: boucherie
 ---

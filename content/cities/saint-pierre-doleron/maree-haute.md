@@ -1,5 +1,5 @@
 ---
 title: "Marée Haute"
 url: /saint-pierre-doleron/maree-haute/
-shop: Wein
+shop: vin
 ---

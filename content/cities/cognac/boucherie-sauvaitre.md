@@ -1,5 +1,5 @@
 ---
 title: "Boucherie Sauvaitre"
 url: /cognac/boucherie-sauvaitre/
-shop: Metzgerei
+shop: boucherie
 ---

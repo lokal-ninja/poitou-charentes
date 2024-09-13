@@ -1,5 +1,5 @@
 ---
 title: "Esprit Vrac"
 url: /aigrefeuille-daunis/esprit-vrac/
-shop: Supermarkt
+shop: supermarché
 ---

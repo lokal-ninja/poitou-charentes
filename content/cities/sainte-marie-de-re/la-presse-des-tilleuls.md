@@ -1,5 +1,5 @@
 ---
 title: "La Presse des Tilleuls"
 url: /sainte-marie-de-re/la-presse-des-tilleuls/
-shop: Zeitungen
+shop: marchand de journaux
 ---

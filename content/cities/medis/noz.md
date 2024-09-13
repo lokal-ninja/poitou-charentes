@@ -1,5 +1,5 @@
 ---
 title: "NOZ"
 url: /medis/noz/
-shop: Kramladen
+shop: magasin de variétés
 ---

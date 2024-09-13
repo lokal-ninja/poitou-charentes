@@ -1,5 +1,5 @@
 ---
 title: "Boucherie Léonard"
 url: /ruffec/boucherie-leonard/
-shop: Metzgerei
+shop: boucherie
 ---

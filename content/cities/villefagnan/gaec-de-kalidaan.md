@@ -1,5 +1,5 @@
 ---
 title: "GAEC de Kalidaan"
 url: /villefagnan/gaec-de-kalidaan/
-shop: Käse
+shop: fromage
 ---

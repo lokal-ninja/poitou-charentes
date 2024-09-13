@@ -1,5 +1,5 @@
 ---
 title: "Boulangerie Pâtisserie Laurent Gaudin"
 url: /le-thou/boulangerie-patisserie-laurent-gaudin/
-shop: Bäckerei
+shop: boulangerie
 ---

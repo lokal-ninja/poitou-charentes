@@ -1,5 +1,5 @@
 ---
 title: "Garage BERNARDIN Patrick"
 url: /longre/garage-bernardin-patrick/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

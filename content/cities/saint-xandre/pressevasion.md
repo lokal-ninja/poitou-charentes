@@ -1,5 +1,5 @@
 ---
 title: "Press'Evasion"
 url: /saint-xandre/pressevasion/
-shop: Tabak
+shop: tabac
 ---

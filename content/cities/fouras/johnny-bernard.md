@@ -1,5 +1,5 @@
 ---
 title: "Johnny Bernard"
 url: /fouras/johnny-bernard/
-shop: Fisch
+shop: fruits de mer
 ---

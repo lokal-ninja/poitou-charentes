@@ -1,5 +1,5 @@
 ---
 title: "Mecauto"
 url: /mauprevoir/mecauto/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

@@ -1,5 +1,5 @@
 ---
 title: "U Express"
 url: /la-rochelle/u-express/
-shop: Supermarkt
+shop: supermarché
 ---

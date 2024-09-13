@@ -1,5 +1,5 @@
 ---
 title: "Cordonnerie E.Leclerc"
 url: /lagord/cordonnerie-e-leclerc/
-shop: Schuhe
+shop: chaussures
 ---

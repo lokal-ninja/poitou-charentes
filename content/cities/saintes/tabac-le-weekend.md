@@ -1,5 +1,5 @@
 ---
 title: "Tabac le Weekend"
 url: /saintes/tabac-le-weekend/
-shop: Tabak
+shop: tabac
 ---

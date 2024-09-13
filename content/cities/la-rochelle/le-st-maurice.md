@@ -1,5 +1,5 @@
 ---
 title: "Le St Maurice"
 url: /la-rochelle/le-st-maurice/
-shop: Zeitungen
+shop: marchand de journaux
 ---

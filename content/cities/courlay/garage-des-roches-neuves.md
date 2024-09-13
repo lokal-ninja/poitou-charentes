@@ -1,5 +1,5 @@
 ---
 title: "Garage des Roches Neuves"
 url: /courlay/garage-des-roches-neuves/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

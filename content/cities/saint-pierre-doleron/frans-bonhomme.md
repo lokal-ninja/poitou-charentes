@@ -1,5 +1,5 @@
 ---
 title: "Frans Bonhomme"
 url: /saint-pierre-doleron/frans-bonhomme/
-shop: Baumarkt
+shop: à faire soi-même
 ---

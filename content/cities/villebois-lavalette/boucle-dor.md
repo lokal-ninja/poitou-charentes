@@ -1,5 +1,5 @@
 ---
 title: "Boucle D'or"
 url: /villebois-lavalette/boucle-dor/
-shop: Friseur
+shop: coiffeur
 ---

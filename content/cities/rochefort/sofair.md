@@ -1,5 +1,5 @@
 ---
 title: "SOFAIR"
 url: /rochefort/sofair/
-shop: Autoteile
+shop: pièces de voitures
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Boutique BUSS"
 url: /saintes/boutique-buss/
-shop: Tickets
+shop: billet
 ---

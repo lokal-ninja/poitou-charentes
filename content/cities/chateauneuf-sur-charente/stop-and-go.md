@@ -1,5 +1,5 @@
 ---
 title: "Stop and Go"
 url: /chateauneuf-sur-charente/stop-and-go/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

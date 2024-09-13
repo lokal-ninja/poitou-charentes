@@ -1,5 +1,5 @@
 ---
 title: "La Civette"
 url: /surgeres/la-civette/
-shop: Zeitungen
+shop: marchand de journaux
 ---

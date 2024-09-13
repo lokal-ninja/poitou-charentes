@@ -1,5 +1,5 @@
 ---
 title: "Chez Paillat"
 url: /la-rochelle/chez-paillat/
-shop: Bäckerei
+shop: boulangerie
 ---

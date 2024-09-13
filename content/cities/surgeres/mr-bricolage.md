@@ -1,5 +1,5 @@
 ---
 title: "Mr.Bricolage"
 url: /surgeres/mr-bricolage/
-shop: Baumarkt
+shop: à faire soi-même
 ---

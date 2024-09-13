@@ -1,5 +1,5 @@
 ---
 title: "La Gibbeuse"
 url: /poitiers/la-gibbeuse/
-shop: Eisenwaren
+shop: matériel informatique
 ---

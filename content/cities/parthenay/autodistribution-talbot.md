@@ -1,5 +1,5 @@
 ---
 title: "Autodistribution Talbot"
 url: /parthenay/autodistribution-talbot/
-shop: Autoteile
+shop: pièces de voitures
 ---

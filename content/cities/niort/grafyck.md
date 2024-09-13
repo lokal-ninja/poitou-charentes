@@ -1,5 +1,5 @@
 ---
 title: "Grafyck"
 url: /niort/grafyck/
-shop: Kleidung
+shop: vêtements
 ---

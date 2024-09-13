@@ -1,5 +1,5 @@
 ---
 title: "Chez Crys"
 url: /beurlay/chez-crys/
-shop: Metzgerei
+shop: boucherie
 ---

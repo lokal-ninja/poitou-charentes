@@ -1,5 +1,5 @@
 ---
 title: "Renault Enoga"
 url: /villebois-lavalette/renault-enoga/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

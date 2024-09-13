@@ -1,5 +1,5 @@
 ---
 title: "La Mie des Pains"
 url: /saint-sauveur-daunis/la-mie-des-pains/
-shop: Bäckerei
+shop: boulangerie
 ---

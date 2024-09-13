@@ -1,5 +1,5 @@
 ---
 title: "La Gargante"
 url: /parthenay/la-gargante/
-shop: Kramladen
+shop: magasin de variétés
 ---

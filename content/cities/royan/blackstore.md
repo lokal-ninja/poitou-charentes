@@ -1,5 +1,5 @@
 ---
 title: "Blackstore"
 url: /royan/blackstore/
-shop: Kleidung
+shop: vêtements
 ---

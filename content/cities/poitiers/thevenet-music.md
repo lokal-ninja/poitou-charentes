@@ -1,5 +1,5 @@
 ---
 title: "Thévenet Music"
 url: /poitiers/thevenet-music/
-shop: Instrumente
+shop: instrument de musique
 ---

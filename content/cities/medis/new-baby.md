@@ -1,5 +1,5 @@
 ---
 title: "New Baby"
 url: /medis/new-baby/
-shop: Kleidung
+shop: vêtements
 ---

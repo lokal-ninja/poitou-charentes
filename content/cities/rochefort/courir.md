@@ -1,5 +1,5 @@
 ---
 title: "Courir"
 url: /rochefort/courir/
-shop: Schuhe
+shop: chaussures
 ---

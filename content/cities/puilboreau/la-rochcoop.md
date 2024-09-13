@@ -1,5 +1,5 @@
 ---
 title: "La Roch'Coop"
 url: /puilboreau/la-rochcoop/
-shop: Supermarkt
+shop: supermarché
 ---

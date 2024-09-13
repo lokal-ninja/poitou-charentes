@@ -1,5 +1,5 @@
 ---
 title: "Magasin des Matières"
 url: /perigny/magasin-des-matieres/
-shop: Baumarkt
+shop: à faire soi-même
 ---

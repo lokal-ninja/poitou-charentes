@@ -1,5 +1,5 @@
 ---
 title: "La Diablotine"
 url: /loulay/la-diablotine/
-shop: Bäckerei
+shop: boulangerie
 ---

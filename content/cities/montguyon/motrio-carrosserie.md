@@ -1,5 +1,5 @@
 ---
 title: "Motrio Carrosserie"
 url: /montguyon/motrio-carrosserie/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

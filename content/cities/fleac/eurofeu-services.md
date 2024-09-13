@@ -1,5 +1,5 @@
 ---
 title: "Eurofeu Services"
 url: /fleac/eurofeu-services/
-shop: Sicherheit
+shop: sécurité
 ---

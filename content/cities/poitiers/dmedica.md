@@ -1,5 +1,5 @@
 ---
 title: "Dmedica"
 url: /poitiers/dmedica/
-shop: Sanitätshaus
+shop: approvisionnement médical
 ---

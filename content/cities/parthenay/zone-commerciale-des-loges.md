@@ -1,5 +1,5 @@
 ---
 title: "Zone Commerciale des Loges"
 url: /parthenay/zone-commerciale-des-loges/
-shop: Einkaufszentrum
+shop: centre commercial
 ---

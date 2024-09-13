@@ -1,5 +1,5 @@
 ---
 title: "Jules"
 url: /saintes/jules/
-shop: Kleidung
+shop: vêtements
 ---

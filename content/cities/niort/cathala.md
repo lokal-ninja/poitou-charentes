@@ -1,5 +1,5 @@
 ---
 title: "Cathala"
 url: /niort/cathala/
-shop: Konditorei
+shop: pâtisserie
 ---

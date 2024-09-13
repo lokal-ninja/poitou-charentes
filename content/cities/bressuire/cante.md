@@ -1,5 +1,5 @@
 ---
 title: "Cante"
 url: /bressuire/cante/
-shop: Schmuck
+shop: bijoux
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Guitares Gam"
 url: /poitiers/guitares-gam/
-shop: Instrumente
+shop: instrument de musique
 ---

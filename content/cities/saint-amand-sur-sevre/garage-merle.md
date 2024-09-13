@@ -1,5 +1,5 @@
 ---
 title: "Garage Merle"
 url: /saint-amand-sur-sevre/garage-merle/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

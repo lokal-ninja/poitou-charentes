@@ -1,5 +1,5 @@
 ---
 title: "L'accessoire"
 url: /fouras/laccessoire/
-shop: Kramladen
+shop: magasin de variétés
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Laverie Bel Air"
 url: /poitiers/laverie-bel-air/
-shop: Wäscherei
+shop: blanchisserie
 ---

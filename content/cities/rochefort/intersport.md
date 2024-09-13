@@ -1,5 +1,5 @@
 ---
 title: "Intersport"
 url: /rochefort/intersport/
-shop: Sport
+shop: sports
 ---
