@@ -1,11 +1,11 @@
 id: 122907123
-type: way
+type: node
 latitude: 45.6008
 longitude: -0.05592
 postcode: "16120"
 city: Châteauneuf-sur-Charente
-street: "Rue Limouzain Laplanche"
-housenumber: 4
-phone: "+33 5 45 25 12 12"
+street: Rue Limouzain Laplanche
+housenumber: "4"
+phone: +33 5 45 25 12 12
 opening_hours: ""
-website: "https://bricoperl-shop.com/"
+website: https://bricoperl-shop.com/

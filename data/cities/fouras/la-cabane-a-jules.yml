@@ -1,11 +1,11 @@
 id: 92528370
-type: way
+type: node
 latitude: 46.00197
 longitude: -1.11539
 postcode: "17450"
 city: Fouras
-street: "Boulevard de la Fumée"
-housenumber: 
-phone: "+33546846702;+33665690708"
-opening_hours: "Mo-Su 10:00-18:30"
+street: Boulevard de la Fumée
+housenumber: ""
+phone: +33546846702;+33665690708
+opening_hours: Mo-Su 10:00-18:30
 website: ""

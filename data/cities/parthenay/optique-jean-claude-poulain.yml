@@ -1,11 +1,11 @@
 id: 64327449
-type: way
+type: node
 latitude: 46.64812
 longitude: -0.24878
 postcode: "79200"
 city: Parthenay
-street: "Rue Jean Jaurès"
-housenumber: 30
+street: Rue Jean Jaurès
+housenumber: "30"
 phone: ""
-opening_hours: "Tu-Sa 09:00-12:00,14:00-19:00"
+opening_hours: Tu-Sa 09:00-12:00,14:00-19:00
 website: ""

@@ -1,11 +1,11 @@
 id: 71309882
-type: way
+type: node
 latitude: 46.32945
 longitude: -0.41363
 postcode: "79000"
 city: Niort
-street: "Rue Jean-François Cail"
-housenumber: 16
+street: Rue Jean-François Cail
+housenumber: "16"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 72741203
-type: way
+type: node
 latitude: 46.41021
 longitude: -0.20016
 postcode: "79400"
 city: Saint-Maixent-l'École
-street: "Avenue de la Gare"
-housenumber: 15
+street: Avenue de la Gare
+housenumber: "15"
 phone: ""
 opening_hours: ""
 website: ""

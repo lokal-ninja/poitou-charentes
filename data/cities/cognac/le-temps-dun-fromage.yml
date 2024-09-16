@@ -1,11 +1,11 @@
 id: 65517293
-type: way
+type: node
 latitude: 45.69565
 longitude: -0.32774
 postcode: "16100"
 city: Cognac
-street: "Place d'Armes"
-housenumber: 24
-phone: "+33 5 45 82 15 34"
-opening_hours: "Tu-Sa 09:00-13:00,15:00-17:00; Su 09:30-13:00"
+street: Place d'Armes
+housenumber: "24"
+phone: +33 5 45 82 15 34
+opening_hours: Tu-Sa 09:00-13:00,15:00-17:00; Su 09:30-13:00
 website: ""

@@ -1,11 +1,11 @@
 id: 581593910
-type: way
+type: node
 latitude: 46.65003
 longitude: 0.35733
 postcode: "86360"
 city: Chasseneuil-du-Poitou
-street: "Avenue des Grands Philambins"
-housenumber: 1
-phone: "+33 5 49 46 62 61"
-opening_hours: "Mo-sa 09:30-19:30"
-website: "https://www.eau-vive.com/magasin-bio-poitiers-chasseneuil/"
+street: Avenue des Grands Philambins
+housenumber: "1"
+phone: +33 5 49 46 62 61
+opening_hours: Mo-sa 09:30-19:30
+website: https://www.eau-vive.com/magasin-bio-poitiers-chasseneuil/

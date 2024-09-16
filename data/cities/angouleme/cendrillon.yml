@@ -1,11 +1,11 @@
 id: 756310937
-type: way
+type: node
 latitude: 45.65752
 longitude: 0.14648
 postcode: "16000"
 city: Angoulême
 street: ""
 housenumber: 75 TER
-phone: "+33 5 45 22 58 06"
-opening_hours: "Mo 14:30-18:30; Tu-Sa 09:30-12:30,14:00-19:00"
-website: "https://www.facebook.com/chaussurescendrillonangouleme/"
+phone: +33 5 45 22 58 06
+opening_hours: Mo 14:30-18:30; Tu-Sa 09:30-12:30,14:00-19:00
+website: https://www.facebook.com/chaussurescendrillonangouleme/

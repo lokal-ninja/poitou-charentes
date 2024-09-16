@@ -4,8 +4,8 @@ latitude: 45.93505
 longitude: -0.96451
 postcode: "17300"
 city: Rochefort
-street: "Rue du Docteur Peltier"
-housenumber: 65
-phone: "+33 5 46 99 13 73"
-opening_hours: "Mo-Fr 09:00-12:30,15:00-19:30; Sa 09:00-13:00,15:00-19:30"
-website: "http://alabonnecave-rochefort.fr/"
+street: Rue du Docteur Peltier
+housenumber: "65"
+phone: +33 5 46 99 13 73
+opening_hours: Mo-Fr 09:00-12:30,15:00-19:30; Sa 09:00-13:00,15:00-19:30
+website: http://alabonnecave-rochefort.fr/

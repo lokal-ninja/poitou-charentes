@@ -4,8 +4,8 @@ latitude: 46.32487
 longitude: -0.46247
 postcode: "79000"
 city: Niort
-street: "Rue Victor Hugo"
-housenumber: 20
+street: Rue Victor Hugo
+housenumber: "20"
 phone: ""
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "https://www.free.fr/"
+opening_hours: Mo-Sa 10:00-19:00
+website: https://www.free.fr/

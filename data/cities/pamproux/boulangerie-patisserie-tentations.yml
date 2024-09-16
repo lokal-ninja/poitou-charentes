@@ -4,8 +4,8 @@ latitude: 46.39713
 longitude: -0.0515
 postcode: "79800"
 city: Pamproux
-street: "Rue du Marché"
-housenumber: 15
-phone: "+33 5 49 24 36 68"
-opening_hours: "Mo,We-Fr 06:30-13:30,16:00-19:30; Sa,Su 06:30-13:30+; Tu off"
+street: Rue du Marché
+housenumber: "15"
+phone: +33 5 49 24 36 68
+opening_hours: Mo,We-Fr 06:30-13:30,16:00-19:30; Sa,Su 06:30-13:30+; Tu off
 website: ""

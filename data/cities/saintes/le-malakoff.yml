@@ -4,8 +4,8 @@ latitude: 45.7459
 longitude: -0.6164
 postcode: "17100"
 city: Saintes
-street: "Avenue du Haras"
-housenumber: 2
-phone: "+33 5 46 93 34 11"
-opening_hours: "Mo-Su 06:00-20:00"
+street: Avenue du Haras
+housenumber: "2"
+phone: +33 5 46 93 34 11
+opening_hours: Mo-Su 06:00-20:00
 website: ""

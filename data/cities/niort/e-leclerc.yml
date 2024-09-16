@@ -1,11 +1,11 @@
 id: 236106510
-type: way
+type: node
 latitude: 46.3378
 longitude: -0.4108
 postcode: "79025"
 city: Niort
-street: "Avenue de Paris"
-housenumber: 580
+street: Avenue de Paris
+housenumber: "580"
 phone: ""
-opening_hours: "Mo-Sa 09:00-20:00"
+opening_hours: Mo-Sa 09:00-20:00
 website: ""

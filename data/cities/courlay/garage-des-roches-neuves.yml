@@ -4,8 +4,8 @@ latitude: 46.7723
 longitude: -0.55174
 postcode: "79440"
 city: Courlay
-street: "Rue de la Gâtine"
-housenumber: 82
-phone: "+33 5 49 72 23 04"
-opening_hours: "Mo-Fr 08:00-12:00,13:30-18:30; Sa 08:00-12:00"
-website: "https://www.garagedesrochesneuves.fr/"
+street: Rue de la Gâtine
+housenumber: "82"
+phone: +33 5 49 72 23 04
+opening_hours: Mo-Fr 08:00-12:00,13:30-18:30; Sa 08:00-12:00
+website: https://www.garagedesrochesneuves.fr/

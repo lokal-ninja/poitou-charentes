@@ -4,8 +4,8 @@ latitude: 45.74532
 longitude: -0.63273
 postcode: "17100"
 city: Saintes
-street: "Rue Alsace Lorraine"
-housenumber: 6
-phone: "+33 5 46 74 02 44"
-opening_hours: "Mo-Sa 09:00-12:30 16:00-18:00"
+street: Rue Alsace Lorraine
+housenumber: "6"
+phone: +33 5 46 74 02 44
+opening_hours: Mo-Sa 09:00-12:30 16:00-18:00
 website: ""

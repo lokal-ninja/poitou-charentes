@@ -1,11 +1,11 @@
 id: 971538397
-type: way
+type: node
 latitude: 46.60902
 longitude: 0.36442
 postcode: "86180"
 city: Buxerolles
-street: "Avenue de la Liberté"
-housenumber: 308
+street: Avenue de la Liberté
+housenumber: "308"
 phone: ""
-opening_hours: "Mo-Su 06:00-22:00"
+opening_hours: Mo-Su 06:00-22:00
 website: ""

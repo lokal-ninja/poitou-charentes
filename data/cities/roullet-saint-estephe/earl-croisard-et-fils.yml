@@ -4,8 +4,8 @@ latitude: 45.56825
 longitude: -0.00389
 postcode: "16440"
 city: Roullet Saint Estèphe
-street: "Route de Fontfroide"
-housenumber: 2
-phone: "+33 5 45 66 38 42"
-opening_hours: "on appointment"
-website: "https://domainecroisard.blogspot.com/"
+street: Route de Fontfroide
+housenumber: "2"
+phone: +33 5 45 66 38 42
+opening_hours: '"on appointment"'
+website: https://domainecroisard.blogspot.com/

@@ -1,11 +1,11 @@
 id: 84991698
-type: way
+type: node
 latitude: 46.17823
 longitude: -1.1205
 postcode: "17138"
 city: Puilboreau
-street: "Rue de Belgique"
-housenumber: 2
+street: Rue de Belgique
+housenumber: "2"
 phone: "+33546680000"
-opening_hours: "Mo-Sa 09:00-20:00"
-website: "https://www.decathlon.fr/store-view/magasin-de-sports-la-rochelle-puilboreau-0070003600036"
+opening_hours: Mo-Sa 09:00-20:00
+website: https://www.decathlon.fr/store-view/magasin-de-sports-la-rochelle-puilboreau-0070003600036

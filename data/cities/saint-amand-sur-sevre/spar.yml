@@ -5,7 +5,7 @@ longitude: -0.79466
 postcode: "79700"
 city: Saint-Amand-sur-Sèvre
 street: ""
-housenumber: 12
-phone: "+33 5 49 81 01 07"
-opening_hours: "Tu-Sa 09:00-12:30,15:00-19:00; Su 09:00-12:30"
-website: "https://magasins.spar.fr/fr/s/spar-saint-amand-sur-sevre"
+housenumber: "12"
+phone: +33 5 49 81 01 07
+opening_hours: Tu-Sa 09:00-12:30,15:00-19:00; Su 09:00-12:30
+website: https://magasins.spar.fr/fr/s/spar-saint-amand-sur-sevre

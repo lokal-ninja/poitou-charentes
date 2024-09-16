@@ -4,8 +4,8 @@ latitude: 46.15431
 longitude: -1.14852
 postcode: "17000"
 city: La Rochelle
-street: "Avenue de Colmar"
-housenumber: 1
+street: Avenue de Colmar
+housenumber: "1"
 phone: ""
-opening_hours: "Tu-We 19:00-21:00; Sa[1] 14:00-18:00"
-website: "http://vivelevelo17.fr"
+opening_hours: Tu-We 19:00-21:00; Sa[1] 14:00-18:00
+website: http://vivelevelo17.fr

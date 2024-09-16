@@ -1,11 +1,11 @@
 id: 673355276
-type: way
+type: node
 latitude: 46.35332
 longitude: -0.38637
 postcode: "79180"
 city: Chauray
-street: "Boulevard des Tilleuls"
-housenumber: 245
+street: Boulevard des Tilleuls
+housenumber: "245"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; Su 09:00-13:00"
-website: "https://www.carrefour.fr/magasin/contact-chauray-tilleuls"
+opening_hours: Mo-Sa 08:00-20:00; Su 09:00-13:00
+website: https://www.carrefour.fr/magasin/contact-chauray-tilleuls

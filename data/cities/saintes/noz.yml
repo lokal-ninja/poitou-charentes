@@ -1,11 +1,11 @@
 id: 67102622
-type: way
+type: node
 latitude: 45.74446
 longitude: -0.59526
 postcode: "17100"
 city: Saintes
-street: "ZAC de Terrefort"
-housenumber: 
+street: ZAC de Terrefort
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "https://nozarrivages.com/magasin/saintes/"
+website: https://nozarrivages.com/magasin/saintes/

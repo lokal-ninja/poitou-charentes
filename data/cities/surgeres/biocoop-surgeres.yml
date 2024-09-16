@@ -1,11 +1,11 @@
 id: 321660205
-type: way
+type: node
 latitude: 46.10977
 longitude: -0.76974
 postcode: "17700"
 city: Surgères
-street: "Rue Théodore Tournat"
-housenumber: 
+street: Rue Théodore Tournat
+housenumber: ""
 phone: ""
-opening_hours: "Mo 14:30-19:00; Tu-We 09:30-13:00,14:30-19:00; Th-Sa 09:30-19:00"
-website: "https://surgeres.biocoop.net/"
+opening_hours: Mo 14:30-19:00; Tu-We 09:30-13:00,14:30-19:00; Th-Sa 09:30-19:00
+website: https://surgeres.biocoop.net/

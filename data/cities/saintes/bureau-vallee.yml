@@ -4,8 +4,8 @@ latitude: 45.74944
 longitude: -0.67903
 postcode: "17100"
 city: Saintes
-street: "Rue de Bellegarde"
-housenumber: 13
-phone: "+33 5 46 93 48 60"
-opening_hours: "Mo-Fr 09:30-12:30 14:30-17:30; Sa 09:30-12:30"
+street: Rue de Bellegarde
+housenumber: "13"
+phone: +33 5 46 93 48 60
+opening_hours: Mo-Fr 09:30-12:30 14:30-17:30; Sa 09:30-12:30
 website: ""

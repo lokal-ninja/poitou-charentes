@@ -1,11 +1,11 @@
 id: 162697390
-type: way
+type: node
 latitude: 46.33363
 longitude: -0.41527
 postcode: "79000"
 city: Niort
-street: "Rue Vaumorin"
-housenumber: 12
+street: Rue Vaumorin
+housenumber: "12"
 phone: ""
 opening_hours: ""
 website: ""

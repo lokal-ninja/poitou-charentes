@@ -1,11 +1,11 @@
 id: 82112096
-type: way
+type: node
 latitude: 45.68467
 longitude: -1.18098
 postcode: "17570"
 city: Les Mathes
-street: "Boulevard de la Plage"
-housenumber: 
-phone: "+33 5 46 22 52 34"
+street: Boulevard de la Plage
+housenumber: ""
+phone: +33 5 46 22 52 34
 opening_hours: ""
-website: "https://www.cyclotrott.com/"
+website: https://www.cyclotrott.com/

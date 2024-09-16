@@ -1,11 +1,11 @@
 id: 122903237
-type: way
+type: node
 latitude: 45.58869
 longitude: -0.04702
 postcode: "16120"
 city: Chateauneuf sur Charente
-street: "Zone d'Activités de l'Etang"
-housenumber: 21
-phone: "+33 5 45 66 24 28"
-opening_hours: "Mo-Sa 08:30-19:30"
-website: "https://www.magasins-u.com/magasin/superu-chateauneufsurcharente.m35258"
+street: Zone d'Activités de l'Etang
+housenumber: "21"
+phone: +33 5 45 66 24 28
+opening_hours: Mo-Sa 08:30-19:30
+website: https://www.magasins-u.com/magasin/superu-chateauneufsurcharente.m35258

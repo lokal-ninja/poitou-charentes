@@ -1,11 +1,11 @@
 id: 64578705
-type: way
+type: node
 latitude: 45.65803
 longitude: 0.14585
 postcode: "16000"
 city: Angoulême
 street: ""
-housenumber: 80
-phone: "+33 6 79 27 39 42"
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-13:30"
-website: "https://www.maisonetcredit.com/"
+housenumber: "80"
+phone: +33 6 79 27 39 42
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-13:30
+website: https://www.maisonetcredit.com/

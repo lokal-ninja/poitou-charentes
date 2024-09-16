@@ -1,11 +1,11 @@
 id: 111364841
-type: way
+type: node
 latitude: 45.94522
 longitude: -1.3231
 postcode: "17310"
 city: Saint-Pierre-d'Oléron
-street: "Route de la Grossetière"
-housenumber: 
-phone: "+33 5 46 75 73 67"
-opening_hours: "Mo-Sa 09:00-19:30; Su 09:30-13:30"
-website: "https://www.biocoop.fr/nouvelle-aquitaine/charente-maritime/st-pierre-d-oleron/Biocoop-Oleron"
+street: Route de la Grossetière
+housenumber: ""
+phone: +33 5 46 75 73 67
+opening_hours: Mo-Sa 09:00-19:30; Su 09:30-13:30
+website: https://www.biocoop.fr/nouvelle-aquitaine/charente-maritime/st-pierre-d-oleron/Biocoop-Oleron

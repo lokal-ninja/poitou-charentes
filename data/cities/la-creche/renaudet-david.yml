@@ -4,8 +4,8 @@ latitude: 46.36235
 longitude: -0.30241
 postcode: "79260"
 city: La Crèche
-street: "Rue de l'Aumonerie"
-housenumber: 2
-phone: "+33 5 49 25 50 06"
-opening_hours: "Tu-Fr 07:00-19:45; Sa 07:00-13:30; Su 07:00-13:00"
+street: Rue de l'Aumonerie
+housenumber: "2"
+phone: +33 5 49 25 50 06
+opening_hours: Tu-Fr 07:00-19:45; Sa 07:00-13:30; Su 07:00-13:00
 website: ""

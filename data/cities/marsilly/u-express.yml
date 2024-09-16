@@ -1,11 +1,11 @@
 id: 238403596
-type: way
+type: node
 latitude: 46.23063
 longitude: -1.13462
 postcode: "17137"
 city: Marsilly
-street: "Avenue de l'Île d'Oléron"
-housenumber: 
-phone: "+33 5 46 35 72 43"
-opening_hours: "8:00-20:00"
-website: "https://www.magasins-u.com/magasin/uexpress-marsilly"
+street: Avenue de l'Île d'Oléron
+housenumber: ""
+phone: +33 5 46 35 72 43
+opening_hours: 8:00-20:00
+website: https://www.magasins-u.com/magasin/uexpress-marsilly

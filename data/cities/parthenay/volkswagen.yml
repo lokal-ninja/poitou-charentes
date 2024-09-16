@@ -1,11 +1,11 @@
 id: 64336623
-type: way
+type: node
 latitude: 46.6453
 longitude: -0.22479
 postcode: "79200"
 city: Parthenay
-street: "Boulevard Bernard Palissy"
-housenumber: 
-phone: "+33 5 49 64 15 51"
+street: Boulevard Bernard Palissy
+housenumber: ""
+phone: +33 5 49 64 15 51
 opening_hours: ""
 website: ""

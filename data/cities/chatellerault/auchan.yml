@@ -1,11 +1,11 @@
 id: 84264774
-type: way
+type: node
 latitude: 46.79898
 longitude: 0.5288
 postcode: "86100"
 city: Châtellerault
-street: "Avenue Jean Moulin"
-housenumber: 
+street: Avenue Jean Moulin
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 08:30-21:00; Su 09:00-12:30"
+opening_hours: Mo-Sa 08:30-21:00; Su 09:00-12:30
 website: ""

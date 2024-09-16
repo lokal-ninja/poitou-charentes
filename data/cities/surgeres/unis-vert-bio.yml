@@ -1,11 +1,11 @@
 id: 72801802
-type: way
+type: node
 latitude: 46.10744
 longitude: -0.75166
 postcode: "17700"
 city: Surgères
-street: "Rue Audry de Puyravault"
-housenumber: 73
+street: Rue Audry de Puyravault
+housenumber: "73"
 phone: ""
 opening_hours: ""
-website: "https://www.unisvertbio.com/"
+website: https://www.unisvertbio.com/

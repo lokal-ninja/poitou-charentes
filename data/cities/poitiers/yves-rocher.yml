@@ -4,8 +4,8 @@ latitude: 46.55086
 longitude: 0.29979
 postcode: "86000"
 city: Poitiers
-street: "Avenue du 8 Mai 1945"
-housenumber: 252
+street: Avenue du 8 Mai 1945
+housenumber: "252"
 phone: ""
-opening_hours: "Mo-Sa 09:00-20:00"
-website: "https://www.yves-rocher.fr/tout-sur-les-magasins/nouvelle-aquitaine/poitiers/poitiers-c-cial-sud/S-FRYROC365"
+opening_hours: Mo-Sa 09:00-20:00
+website: https://www.yves-rocher.fr/tout-sur-les-magasins/nouvelle-aquitaine/poitiers/poitiers-c-cial-sud/S-FRYROC365

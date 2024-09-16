@@ -1,11 +1,11 @@
 id: 64552706
-type: way
+type: node
 latitude: 45.65059
 longitude: 0.15664
 postcode: "16000"
 city: Angoulême
-street: "Place du Commandant Raynal"
-housenumber: 6
+street: Place du Commandant Raynal
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Fr 09:30-12:30,14:00-18:30"
-website: "https://www.copifac.fr/france/agence/angouleme.html"
+opening_hours: Mo-Fr 09:30-12:30,14:00-18:30
+website: https://www.copifac.fr/france/agence/angouleme.html

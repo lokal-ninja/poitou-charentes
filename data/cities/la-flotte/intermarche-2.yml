@@ -1,11 +1,11 @@
 id: 111172324
-type: way
+type: node
 latitude: 46.17912
 longitude: -1.32744
 postcode: "17630"
 city: La Flotte
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

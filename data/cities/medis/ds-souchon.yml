@@ -4,8 +4,8 @@ latitude: 45.63175
 longitude: -0.9832
 postcode: "17600"
 city: Médis
-street: "Rue Jacques Coeur"
-housenumber: 4
-phone: "+33 5 46 08 32 89"
-opening_hours: "Tu-Sa 09:30-12:30,14:00-19:00"
-website: "https://ds-souchon.fr"
+street: Rue Jacques Coeur
+housenumber: "4"
+phone: +33 5 46 08 32 89
+opening_hours: Tu-Sa 09:30-12:30,14:00-19:00
+website: https://ds-souchon.fr

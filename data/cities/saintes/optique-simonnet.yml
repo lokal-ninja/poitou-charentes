@@ -1,11 +1,11 @@
 id: 136636116
-type: way
+type: node
 latitude: 45.74603
 longitude: -0.63312
 postcode: "17100"
 city: Saintes
-street: "Rue Alsace Lorraine"
-housenumber: 31
-phone: "+33 5 46 93 02 13"
-opening_hours: "Tu 09:00-12:00, Th-Fr 09:00-12:00"
+street: Rue Alsace Lorraine
+housenumber: "31"
+phone: +33 5 46 93 02 13
+opening_hours: Tu 09:00-12:00, Th-Fr 09:00-12:00
 website: ""

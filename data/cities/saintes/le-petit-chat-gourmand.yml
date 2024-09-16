@@ -4,8 +4,8 @@ latitude: 45.74306
 longitude: -0.63597
 postcode: "17100"
 city: Saintes
-street: "Place Blair"
-housenumber: 5
-phone: "+33 5 46 74 05 78"
-opening_hours: "Mo 07:00-13:00 16:00-19:00; We-Su 07:00-13:00 16:00-19:30"
+street: Place Blair
+housenumber: "5"
+phone: +33 5 46 74 05 78
+opening_hours: Mo 07:00-13:00 16:00-19:00; We-Su 07:00-13:00 16:00-19:30
 website: ""

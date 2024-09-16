@@ -1,11 +1,11 @@
 id: 64880748
-type: way
+type: node
 latitude: 46.34178
 longitude: -0.38061
 postcode: "79180"
 city: Chauray
-street: "Rue du Puits de la Ville"
-housenumber: 55
+street: Rue du Puits de la Ville
+housenumber: "55"
 phone: ""
 opening_hours: ""
-website: "https://www.nozarrivages.com/magasin/chauray/"
+website: https://www.nozarrivages.com/magasin/chauray/

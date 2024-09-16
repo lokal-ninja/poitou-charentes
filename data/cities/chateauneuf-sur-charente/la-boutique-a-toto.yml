@@ -1,11 +1,12 @@
 id: 122906484
-type: way
+type: node
 latitude: 45.5984
 longitude: -0.05341
 postcode: "16120"
 city: Châteauneuf-sur-Charente
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "Mo 14:00-18:00; Tu 9:30-18:00; We 9:30-12:00; Th 9:30-18:00; Fr 9:30-18:00; Sa 9:30-18:00"
+opening_hours: Mo 14:00-18:00; Tu 9:30-18:00; We 9:30-12:00; Th 9:30-18:00; Fr 9:30-18:00;
+    Sa 9:30-18:00
 website: ""

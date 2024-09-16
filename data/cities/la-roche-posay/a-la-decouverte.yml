@@ -1,11 +1,11 @@
 id: 86554689
-type: way
+type: node
 latitude: 46.78633
 longitude: 0.81333
 postcode: "86270"
 city: La Roche-Posay
-street: "Cours Pasteur"
-housenumber: 9
+street: Cours Pasteur
+housenumber: "9"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 45.65882
 longitude: 0.17148
 postcode: "16000"
 city: Angoulême
-street: "Boulevard du 8 Mai 1945"
-housenumber: 22
-phone: "+335 45 94 44 44"
-opening_hours: "Tu-Sa 09:30-12:15,15:15-19:30"
-website: "https://www.cave-de-la-madeleine.com/"
+street: Boulevard du 8 Mai 1945
+housenumber: "22"
+phone: +335 45 94 44 44
+opening_hours: Tu-Sa 09:30-12:15,15:15-19:30
+website: https://www.cave-de-la-madeleine.com/

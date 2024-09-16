@@ -1,11 +1,11 @@
 id: 63551358
-type: way
+type: node
 latitude: 46.42371
 longitude: 0.85934
 postcode: "86500"
 city: Montmorillon
-street: "Avenue de l'Europe"
-housenumber: 25
+street: Avenue de l'Europe
+housenumber: "25"
 phone: ""
 opening_hours: ""
 website: ""

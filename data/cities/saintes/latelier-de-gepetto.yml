@@ -1,11 +1,11 @@
 id: 67103416
-type: way
+type: node
 latitude: 45.74652
 longitude: -0.62842
 postcode: "17100"
 city: Saintes
-street: "Place Bassompierre"
-housenumber: 2
-phone: "+33 6 30 69 29 05"
+street: Place Bassompierre
+housenumber: "2"
+phone: +33 6 30 69 29 05
 opening_hours: ""
 website: ""

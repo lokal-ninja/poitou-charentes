@@ -1,11 +1,11 @@
 id: 1036849563
-type: way
+type: node
 latitude: 46.64706
 longitude: -0.22514
 postcode: "79200"
 city: Parthenay
-street: "Avenue Aristide Briand"
+street: Avenue Aristide Briand
 housenumber: 165;167
-phone: "+33 5 17 43 31 51"
-opening_hours: "Mo 15:00-20:00; Tu 10:00-13:00,14:30-20:00; We-Sa 10:00-20:00; Fr 10:00-21:00"
-website: "https://vandb.fr/"
+phone: +33 5 17 43 31 51
+opening_hours: Mo 15:00-20:00; Tu 10:00-13:00,14:30-20:00; We-Sa 10:00-20:00; Fr 10:00-21:00
+website: https://vandb.fr/

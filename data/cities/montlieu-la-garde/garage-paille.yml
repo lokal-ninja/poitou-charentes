@@ -1,11 +1,11 @@
 id: 592852181
-type: way
+type: node
 latitude: 45.2433
 longitude: -0.26243
 postcode: "17210"
 city: Montlieu-la-Garde
-street: "Avenue de la République"
-housenumber: 68
-phone: "+33 5 46 04 44 43"
+street: Avenue de la République
+housenumber: "68"
+phone: +33 5 46 04 44 43
 opening_hours: ""
 website: ""

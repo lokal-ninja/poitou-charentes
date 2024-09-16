@@ -4,8 +4,8 @@ latitude: 45.74015
 longitude: -0.64222
 postcode: "17100"
 city: Saintes
-street: "Rue de la Maladrerie"
-housenumber: 18
-phone: "+33 5 46 98 16 20"
-opening_hours: "Mo 14:00-18:30, Tu-Fr 09:00-12:15 13:45-18:30; Sa 09:00-12:15"
-website: "https://www.encreetco.com"
+street: Rue de la Maladrerie
+housenumber: "18"
+phone: +33 5 46 98 16 20
+opening_hours: Mo 14:00-18:30, Tu-Fr 09:00-12:15 13:45-18:30; Sa 09:00-12:15
+website: https://www.encreetco.com

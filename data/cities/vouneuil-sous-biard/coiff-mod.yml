@@ -4,8 +4,8 @@ latitude: 46.57075
 longitude: 0.27199
 postcode: "86580"
 city: Vouneuil-sous-Biard
-street: "Place de la croix cadet"
-housenumber: 5
-phone: "+33 5 49 53 44 49"
-opening_hours: "Tu-Fr 09:00-12:00,14:00-19:00; Sa 08:00-17:00"
+street: Place de la croix cadet
+housenumber: "5"
+phone: +33 5 49 53 44 49
+opening_hours: Tu-Fr 09:00-12:00,14:00-19:00; Sa 08:00-17:00
 website: ""

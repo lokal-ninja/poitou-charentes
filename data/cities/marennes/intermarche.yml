@@ -1,11 +1,11 @@
 id: 121280015
-type: way
+type: node
 latitude: 45.82714
 longitude: -1.0961
 postcode: "17320"
 city: Marennes
-street: "ZAC des Grossines"
-housenumber: 
+street: ZAC des Grossines
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

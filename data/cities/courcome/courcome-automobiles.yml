@@ -1,11 +1,11 @@
 id: 126058526
-type: way
+type: node
 latitude: 45.99211
 longitude: 0.13863
 postcode: "16240"
 city: Courcome
-street: "Route de Ruffec"
-housenumber: 
-phone: "+33 5 45 31 27 50"
-opening_hours: "Mo-Fr 08:30-18:30"
+street: Route de Ruffec
+housenumber: ""
+phone: +33 5 45 31 27 50
+opening_hours: Mo-Fr 08:30-18:30
 website: ""

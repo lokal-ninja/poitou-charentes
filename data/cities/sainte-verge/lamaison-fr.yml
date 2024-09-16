@@ -1,11 +1,11 @@
 id: 99370279
-type: way
+type: node
 latitude: 46.99667
 longitude: -0.21174
 postcode: "79100"
 city: Sainte-Verge
 street: ""
-housenumber: 
+housenumber: ""
 phone: "+33549673500"
-opening_hours: "Mo-Sa 09:00-12:30,14:00-19:00"
-website: "https://www.lamaison.fr/"
+opening_hours: Mo-Sa 09:00-12:30,14:00-19:00
+website: https://www.lamaison.fr/

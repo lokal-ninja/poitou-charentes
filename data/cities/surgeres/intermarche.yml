@@ -1,11 +1,11 @@
 id: 1215770999
-type: way
+type: node
 latitude: 46.10625
 longitude: -0.7684
 postcode: "17700"
 city: Surgères
-street: "Chemin de la Perche"
-housenumber: 
+street: Chemin de la Perche
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,13 @@
 id: 122905160
-type: way
+type: node
 latitude: 45.59979
 longitude: -0.05418
 postcode: "16120"
 city: Châteauneuf-sur-Charente
-street: "Rue Berthe et Jules Noblet"
-housenumber: 7
-phone: "+33 5 45 97 04 29"
-opening_hours: "Mo 6:30-12:30; Tu 6:30-12:30, 14:30-19:30; We 6:30-12:30, 14:30-19:30; Th 6:30-12:30, 14:30-19:30; Fr 6:30-12:30, 14:30-19:30; Sa 6:30-12:30, 14:30-19:30; Su 8:00-12:30"
-website: "https://www.maisondelapresse.com/magasin/"
+street: Rue Berthe et Jules Noblet
+housenumber: "7"
+phone: +33 5 45 97 04 29
+opening_hours: Mo 6:30-12:30; Tu 6:30-12:30, 14:30-19:30; We 6:30-12:30, 14:30-19:30;
+    Th 6:30-12:30, 14:30-19:30; Fr 6:30-12:30, 14:30-19:30; Sa 6:30-12:30, 14:30-19:30;
+    Su 8:00-12:30
+website: https://www.maisondelapresse.com/magasin/

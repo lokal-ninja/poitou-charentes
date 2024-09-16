@@ -1,11 +1,11 @@
 id: 836804236
-type: way
+type: node
 latitude: 45.98872
 longitude: -1.09698
 postcode: "17450"
 city: Fouras
-street: "Rue Carnot"
-housenumber: 
+street: Rue Carnot
+housenumber: ""
 phone: ""
-opening_hours: "Tu-Fr 15:00-18:30; Sa,Su 15:00-18:00"
+opening_hours: Tu-Fr 15:00-18:30; Sa,Su 15:00-18:00
 website: ""

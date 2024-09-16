@@ -1,11 +1,11 @@
 id: 445458079
-type: way
+type: node
 latitude: 45.68067
 longitude: -0.3013
 postcode: "16100"
 city: Chateaubernard
-street: "Rue Patrick Baudry"
-housenumber: 
+street: Rue Patrick Baudry
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Fr 08:30-12:00,14:00-19:00; Sa 08:30-19:00"
+opening_hours: Mo-Fr 08:30-12:00,14:00-19:00; Sa 08:30-19:00
 website: ""

@@ -1,11 +1,11 @@
 id: 64330283
-type: way
+type: node
 latitude: 46.64838
 longitude: -0.24516
 postcode: "79200"
 city: Parthenay
-street: "Avenue du Général de Gaulle"
-housenumber: 29
+street: Avenue du Général de Gaulle
+housenumber: "29"
 phone: ""
 opening_hours: ""
 website: ""

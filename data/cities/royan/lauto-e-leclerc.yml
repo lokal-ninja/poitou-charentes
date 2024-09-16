@@ -1,11 +1,11 @@
 id: 72961635
-type: way
+type: node
 latitude: 45.63186
 longitude: -0.98944
 postcode: "17200"
 city: Royan
-street: "Rue Denis Papin"
-housenumber: 9
+street: Rue Denis Papin
+housenumber: "9"
 phone: ""
-opening_hours: "Mo-Sa 08:30-19:00"
-website: "https://www.e-leclerc.com/royan/magasins-specialises/auto/"
+opening_hours: Mo-Sa 08:30-19:00
+website: https://www.e-leclerc.com/royan/magasins-specialises/auto/

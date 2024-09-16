@@ -4,8 +4,8 @@ latitude: 45.75465
 longitude: -0.65653
 postcode: "17100"
 city: Saintes
-street: "Cours du Maréchal Leclerc"
-housenumber: 103
-phone: "+33 6 24 73 76 32"
-opening_hours: "Tu-Th 09:30-12:00; Fr 14:00-18:00, Sa 09:30-12:30"
+street: Cours du Maréchal Leclerc
+housenumber: "103"
+phone: +33 6 24 73 76 32
+opening_hours: Tu-Th 09:30-12:00; Fr 14:00-18:00, Sa 09:30-12:30
 website: ""

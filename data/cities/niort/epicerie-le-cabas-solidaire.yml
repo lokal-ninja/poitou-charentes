@@ -4,8 +4,8 @@ latitude: 46.32107
 longitude: -0.43615
 postcode: "79000"
 city: Niort
-street: "Rue de Sainte-Catherine"
-housenumber: 52
-phone: "+33 5 16 18 23 26"
-opening_hours: "Tu-Fr 10:00-19:00; Sa 10:00-13:00"
-website: "https://www.soliniort.fr/"
+street: Rue de Sainte-Catherine
+housenumber: "52"
+phone: +33 5 16 18 23 26
+opening_hours: Tu-Fr 10:00-19:00; Sa 10:00-13:00
+website: https://www.soliniort.fr/

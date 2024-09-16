@@ -1,11 +1,11 @@
 id: 111257505
-type: way
+type: node
 latitude: 46.19771
 longitude: -1.35291
 postcode: "17410"
 city: Saint-Martin-de-Ré
-street: "Avenue des Corsaires"
-housenumber: 4
+street: Avenue des Corsaires
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Su 08:30-20:00"
+opening_hours: Mo-Su 08:30-20:00
 website: ""

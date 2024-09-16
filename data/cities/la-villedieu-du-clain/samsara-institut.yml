@@ -1,11 +1,11 @@
 id: 569872946
-type: way
+type: node
 latitude: 46.45902
 longitude: 0.371
 postcode: "86340"
 city: La Villedieu Du Clain
-street: "Allée du Petit Villiers"
-housenumber: 6
-phone: "+33 6 27 47 31 99"
+street: Allée du Petit Villiers
+housenumber: "6"
+phone: +33 6 27 47 31 99
 opening_hours: ""
-website: "https://www.samsara-institut.com/"
+website: https://www.samsara-institut.com/

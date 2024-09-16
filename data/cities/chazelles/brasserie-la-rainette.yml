@@ -1,11 +1,11 @@
 id: 58903884
-type: way
+type: node
 latitude: 45.64584
 longitude: 0.36696
 postcode: "16380"
 city: Chazelles
-street: "Rue du Moulin"
-housenumber: 
-phone: "+33 6 72 92 35 51"
-opening_hours: "We-Sa 16:00-21:00"
-website: "https://brasserie-larainette.fr/"
+street: Rue du Moulin
+housenumber: ""
+phone: +33 6 72 92 35 51
+opening_hours: We-Sa 16:00-21:00
+website: https://brasserie-larainette.fr/

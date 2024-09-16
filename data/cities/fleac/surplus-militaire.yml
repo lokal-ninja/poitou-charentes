@@ -4,8 +4,8 @@ latitude: 45.65373
 longitude: 0.09166
 postcode: "16730"
 city: Fléac
-street: "Rue de Badoris"
-housenumber: 65
-phone: "+33 5 45 25 21 40"
-opening_hours: "Tu-Sa 10:00-12:00,14:00-18:00;Mo,Su,PH off"
-website: "https://surplus-militaire-angouleme.fr/"
+street: Rue de Badoris
+housenumber: "65"
+phone: +33 5 45 25 21 40
+opening_hours: Tu-Sa 10:00-12:00,14:00-18:00;Mo,Su,PH off
+website: https://surplus-militaire-angouleme.fr/

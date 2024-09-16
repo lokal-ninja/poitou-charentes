@@ -1,11 +1,11 @@
 id: 72748598
-type: way
+type: node
 latitude: 46.41546
 longitude: -0.20336
 postcode: "79400"
 city: Saint-Maixent-l'École
-street: "Avenue Gambetta"
-housenumber: 26
+street: Avenue Gambetta
+housenumber: "26"
 phone: ""
 opening_hours: ""
 website: ""

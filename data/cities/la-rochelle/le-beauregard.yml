@@ -1,11 +1,11 @@
 id: 119867314
-type: way
+type: node
 latitude: 46.17056
 longitude: -1.13963
 postcode: "17000"
 city: LA ROCHELLE
-street: "Rue du Moulin Rouge"
-housenumber: 44
+street: Rue du Moulin Rouge
+housenumber: "44"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

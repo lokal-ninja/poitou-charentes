@@ -1,11 +1,11 @@
 id: 119811232
-type: way
+type: node
 latitude: 46.16546
 longitude: -1.15942
 postcode: "17000"
 city: La Rochelle
-street: "Avenue de Metz"
-housenumber: 52
-phone: "+33 5 46 34 79 02"
-opening_hours: "Tu-Su 06:45-13:30, Tu-Sa 16:00-20:00, Su 16:00-19:30"
+street: Avenue de Metz
+housenumber: "52"
+phone: +33 5 46 34 79 02
+opening_hours: Tu-Su 06:45-13:30, Tu-Sa 16:00-20:00, Su 16:00-19:30
 website: ""

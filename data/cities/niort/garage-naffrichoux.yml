@@ -1,11 +1,11 @@
 id: 162697391
-type: way
+type: node
 latitude: 46.33316
 longitude: -0.41621
 postcode: "79000"
 city: Niort
-street: "Rue des Ors"
-housenumber: 63
+street: Rue des Ors
+housenumber: "63"
 phone: ""
 opening_hours: ""
 website: ""

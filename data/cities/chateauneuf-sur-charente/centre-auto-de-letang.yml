@@ -1,11 +1,11 @@
 id: 122905432
-type: way
+type: node
 latitude: 45.59152
 longitude: -0.04937
 postcode: "16120"
 city: Châteauneuf sur Charente
-street: "Zone de l'Etang"
-housenumber: 
-phone: "+33 5 45 62 53 71"
-opening_hours: "Tu-Fr 09:00-12:00,14:00-19:00; Sa 09:00-16:00"
-website: "https://www.vulco.com/store/vulco-centre-auto-de-l-etang-chateauneuf-sur-charente"
+street: Zone de l'Etang
+housenumber: ""
+phone: +33 5 45 62 53 71
+opening_hours: Tu-Fr 09:00-12:00,14:00-19:00; Sa 09:00-16:00
+website: https://www.vulco.com/store/vulco-centre-auto-de-l-etang-chateauneuf-sur-charente

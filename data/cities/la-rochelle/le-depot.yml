@@ -4,8 +4,8 @@ latitude: 46.16688
 longitude: -1.13574
 postcode: "17000"
 city: La Rochelle
-street: "Boulevard André Sautel"
-housenumber: 20
-phone: "+33 5 46 28 21 62"
-opening_hours: "Mo-Sa 08:00-20:00"
+street: Boulevard André Sautel
+housenumber: "20"
+phone: +33 5 46 28 21 62
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

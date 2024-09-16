@@ -1,11 +1,11 @@
 id: 64581699
-type: way
+type: node
 latitude: 45.65788
 longitude: 0.14597
 postcode: "16000"
 city: Angoulême
 street: ""
 housenumber: 74bis
-phone: "+33 5 45 92 52 57"
-opening_hours: "Tu-Fr 09:00-12:30,14:00-19:30; Sa 09:00-13:00"
-website: "https://www.afleurdepotangouleme.fr/"
+phone: +33 5 45 92 52 57
+opening_hours: Tu-Fr 09:00-12:30,14:00-19:30; Sa 09:00-13:00
+website: https://www.afleurdepotangouleme.fr/

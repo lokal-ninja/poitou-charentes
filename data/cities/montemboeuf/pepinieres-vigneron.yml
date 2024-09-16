@@ -4,8 +4,8 @@ latitude: 45.75486
 longitude: 0.56236
 postcode: "16310"
 city: Montembœuf
-street: "Route de la Rochefoucauld"
-housenumber: 6
+street: Route de la Rochefoucauld
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Fr 08:30-12:00, 13:30-17:00"
-website: "https://www.pepinieres-vigneron.fr/"
+opening_hours: Mo-Fr 08:30-12:00, 13:30-17:00
+website: https://www.pepinieres-vigneron.fr/

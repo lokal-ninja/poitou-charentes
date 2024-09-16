@@ -1,11 +1,11 @@
 id: 136006065
-type: way
+type: node
 latitude: 46.30667
 longitude: -0.44186
 postcode: "79000"
 city: Niort
-street: "Route d'Aiffres"
-housenumber: 346
+street: Route d'Aiffres
+housenumber: "346"
 phone: ""
 opening_hours: ""
 website: ""

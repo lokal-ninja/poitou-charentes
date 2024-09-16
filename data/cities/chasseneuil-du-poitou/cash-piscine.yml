@@ -1,11 +1,11 @@
 id: 85075761
-type: way
+type: node
 latitude: 46.65331
 longitude: 0.36208
 postcode: "86360"
 city: Chasseneuil-du-Poitou
-street: "Allée du Haut-Poitou"
-housenumber: 62
-phone: "+33 5 49 61 10 13"
+street: Allée du Haut-Poitou
+housenumber: "62"
+phone: +33 5 49 61 10 13
 opening_hours: ""
 website: ""

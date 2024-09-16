@@ -1,11 +1,11 @@
 id: 384068150
-type: way
+type: node
 latitude: 46.84929
 longitude: -0.49445
 postcode: "79300"
 city: Bressuire
-street: "Rue du Pont D'Ouit"
-housenumber: 14
+street: Rue du Pont D'Ouit
+housenumber: "14"
 phone: ""
-opening_hours: "Mo-Sa 09:00-20:00"
-website: "https://www.pontdouit.fr"
+opening_hours: Mo-Sa 09:00-20:00
+website: https://www.pontdouit.fr

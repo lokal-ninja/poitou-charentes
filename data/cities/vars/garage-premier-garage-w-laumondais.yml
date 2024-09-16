@@ -1,11 +1,11 @@
 id: 111504029
-type: way
+type: node
 latitude: 45.75933
 longitude: 0.14076
 postcode: "16330"
 city: Vars
-street: "Route d'Aigre"
-housenumber: 3
+street: Route d'Aigre
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

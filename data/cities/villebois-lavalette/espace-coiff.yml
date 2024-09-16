@@ -4,8 +4,8 @@ latitude: 45.48436
 longitude: 0.2783
 postcode: "16320"
 city: Villebois-Lavalette
-street: "Rue de la Croix de Quart"
-housenumber: 29
-phone: "+33 5 45 61 30 82"
-opening_hours: "Tu-Th 09:00-12:00,14:00-18:30; Fr 09:00-18:30; Sa 09:00-16:00"
+street: Rue de la Croix de Quart
+housenumber: "29"
+phone: +33 5 45 61 30 82
+opening_hours: Tu-Th 09:00-12:00,14:00-18:30; Fr 09:00-18:30; Sa 09:00-16:00
 website: ""

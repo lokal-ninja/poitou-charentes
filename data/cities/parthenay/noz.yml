@@ -1,11 +1,11 @@
 id: 64332863
-type: way
+type: node
 latitude: 46.65144
 longitude: -0.22681
 postcode: "79200"
 city: Parthenay
-street: "Rue van Beethoven"
-housenumber: 3
+street: Rue van Beethoven
+housenumber: "3"
 phone: ""
 opening_hours: ""
-website: "https://www.nozarrivages.com/magasin/parthenay/"
+website: https://www.nozarrivages.com/magasin/parthenay/

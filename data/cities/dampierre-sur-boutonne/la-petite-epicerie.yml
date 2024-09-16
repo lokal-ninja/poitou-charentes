@@ -1,11 +1,12 @@
 id: 121990394
-type: way
+type: node
 latitude: 46.0668
 longitude: -0.41538
 postcode: "17470"
 city: Dampierre-sur-Boutonne
-street: "Place du Château"
-housenumber: 3
-phone: "+33 6 12 41 53 80"
-opening_hours: "Tu 08:00-14:30,15:00-19:00; Th 08:00-12:00; We 09:30-12:00,16:00-19:00; Fr 08:00-14:00,15:00-19:00; Sa 08:30-18:00; Su 08:30-12:00"
+street: Place du Château
+housenumber: "3"
+phone: +33 6 12 41 53 80
+opening_hours: Tu 08:00-14:30,15:00-19:00; Th 08:00-12:00; We 09:30-12:00,16:00-19:00;
+    Fr 08:00-14:00,15:00-19:00; Sa 08:30-18:00; Su 08:30-12:00
 website: ""

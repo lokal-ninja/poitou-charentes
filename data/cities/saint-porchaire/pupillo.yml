@@ -4,8 +4,9 @@ latitude: 45.82142
 longitude: -0.78527
 postcode: "17250"
 city: Saint-Porchaire
-street: "Rue Nationale"
-housenumber: 
+street: Rue Nationale
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Fr 09:00-12:30,14:00-19:00; Sa 09:30-12:30 || Mo-Fr 12:30-14:00 Sur rendez-vous "
+opening_hours: Mo-Fr 09:00-12:30,14:00-19:00; Sa 09:30-12:30 || Mo-Fr 12:30-14:00
+    "Sur rendez-vous "
 website: ""

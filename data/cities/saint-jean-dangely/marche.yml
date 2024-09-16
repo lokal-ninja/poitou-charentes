@@ -1,11 +1,11 @@
 id: 89439345
-type: way
+type: node
 latitude: 45.94396
 longitude: -0.51982
 postcode: "17400"
 city: Saint-Jean-d'Angély
-street: "Place du Marché"
-housenumber: 
+street: Place du Marché
+housenumber: ""
 phone: ""
-opening_hours: "We,Sa 08:00-12:30"
-website: "https://www.angely.net/"
+opening_hours: We,Sa 08:00-12:30
+website: https://www.angely.net/

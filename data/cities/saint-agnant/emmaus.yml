@@ -1,11 +1,11 @@
 id: 240997529
-type: way
+type: node
 latitude: 45.88656
 longitude: -0.96698
 postcode: "17620"
 city: Saint-Agnant
-street: "rue de la Grollière"
-housenumber: 23
-phone: "+33 5 46 83 25 25"
-opening_hours: "We 10:00-12:00,14:00-17:30; Fr 14:00-17:30; Sa 10:00-12:00,14:00-18:00"
-website: "https://www.emmaus-rochefort-saint-agnant.fr/"
+street: rue de la Grollière
+housenumber: "23"
+phone: +33 5 46 83 25 25
+opening_hours: We 10:00-12:00,14:00-17:30; Fr 14:00-17:30; Sa 10:00-12:00,14:00-18:00
+website: https://www.emmaus-rochefort-saint-agnant.fr/

@@ -1,11 +1,11 @@
 id: 123363102
-type: way
+type: node
 latitude: 45.57494
 longitude: -0.56402
 postcode: "17800"
 city: Pons
-street: "Rue des Genêts"
-housenumber: 110
-phone: "+33 5 46 96 14 53"
-opening_hours: "Mo-Fr 08:00-12:15,14:00-18:30; Sa 08:00-12:00"
-website: "https://www.smap17.com/"
+street: Rue des Genêts
+housenumber: "110"
+phone: +33 5 46 96 14 53
+opening_hours: Mo-Fr 08:00-12:15,14:00-18:30; Sa 08:00-12:00
+website: https://www.smap17.com/

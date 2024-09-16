@@ -4,8 +4,8 @@ latitude: 45.74383
 longitude: -0.64428
 postcode: "17100"
 city: Saintes
-street: "Rue Saint-Eutrope"
-housenumber: 106
-phone: "+33 5 46 93 05 03"
-opening_hours: "Tu-Fr 09:00-16:00; Sa 09:00-14:00"
+street: Rue Saint-Eutrope
+housenumber: "106"
+phone: +33 5 46 93 05 03
+opening_hours: Tu-Fr 09:00-16:00; Sa 09:00-14:00
 website: ""

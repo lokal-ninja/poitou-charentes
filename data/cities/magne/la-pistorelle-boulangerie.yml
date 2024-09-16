@@ -1,11 +1,11 @@
 id: 815882643
-type: way
+type: node
 latitude: 46.31432
 longitude: -0.54443
 postcode: "79460"
 city: Magné
-street: "Grande Rue"
-housenumber: 37
+street: Grande Rue
+housenumber: "37"
 phone: ""
 opening_hours: ""
 website: ""

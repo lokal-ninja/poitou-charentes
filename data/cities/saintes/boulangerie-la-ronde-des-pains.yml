@@ -4,8 +4,8 @@ latitude: 45.74556
 longitude: -0.62482
 postcode: "17100"
 city: Saintes
-street: "Rue Saint-Pallais"
-housenumber: 3
-phone: "+33 5 46 92 13 63"
-opening_hours: "Mo-Sa 06:30-13:30 15:30-20:00; Su 06:30-13:30"
+street: Rue Saint-Pallais
+housenumber: "3"
+phone: +33 5 46 92 13 63
+opening_hours: Mo-Sa 06:30-13:30 15:30-20:00; Su 06:30-13:30
 website: ""

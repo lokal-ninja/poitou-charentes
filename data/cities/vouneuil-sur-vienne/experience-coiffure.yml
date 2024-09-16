@@ -1,11 +1,11 @@
 id: 86622527
-type: way
+type: node
 latitude: 46.7172
 longitude: 0.53884
 postcode: "86210"
 city: Vouneuil-sur-Vienne
-street: "Rue de la Poste"
-housenumber: 4
+street: Rue de la Poste
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

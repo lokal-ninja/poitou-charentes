@@ -1,11 +1,11 @@
 id: 301761433
-type: way
+type: node
 latitude: 45.67257
 longitude: 0.20107
 postcode: "16340"
 city: L'Isle d'Espagnac
-street: "Rue Maryse Bastié"
-housenumber: 84
-phone: "+33 5 45 94 80 34"
-opening_hours: "Mo-Fr 09:00-13:00,14:00-18:00; Sa 10:00-12:30,14:00-18:30"
-website: "https://charente.envie.org/"
+street: Rue Maryse Bastié
+housenumber: "84"
+phone: +33 5 45 94 80 34
+opening_hours: Mo-Fr 09:00-13:00,14:00-18:00; Sa 10:00-12:30,14:00-18:30
+website: https://charente.envie.org/

@@ -4,8 +4,8 @@ latitude: 46.15845
 longitude: -1.15606
 postcode: "17000"
 city: La Rochelle
-street: "Rue Chef de Ville"
-housenumber: 41
+street: Rue Chef de Ville
+housenumber: "41"
 phone: ""
-opening_hours: "Mo-Su 07:00-21:00"
-website: "https://lelavoir-concept.fr"
+opening_hours: Mo-Su 07:00-21:00
+website: https://lelavoir-concept.fr

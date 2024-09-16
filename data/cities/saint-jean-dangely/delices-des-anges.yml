@@ -1,11 +1,11 @@
 id: 89446288
-type: way
+type: node
 latitude: 45.94359
 longitude: -0.52011
 postcode: "17400"
 city: Saint-Jean-d'Angély
 street: ""
-housenumber: 20
+housenumber: "20"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 45.60025
 longitude: -0.7485
 postcode: "17260"
 city: Saint-André-de-Lidon
-street: "Rue de la Seudre"
-housenumber: 3
-phone: "+33 5 46 90 06 93"
-opening_hours: "Mo-Tu 08:30-12:30,16:00-19:30; Th-Sa 08:30-12:30,16:00-19:30; Su 08:30-12:30"
-website: "https://magasins.vival.fr/fr/vival-saint-andre-de-lidon"
+street: Rue de la Seudre
+housenumber: "3"
+phone: +33 5 46 90 06 93
+opening_hours: Mo-Tu 08:30-12:30,16:00-19:30; Th-Sa 08:30-12:30,16:00-19:30; Su 08:30-12:30
+website: https://magasins.vival.fr/fr/vival-saint-andre-de-lidon

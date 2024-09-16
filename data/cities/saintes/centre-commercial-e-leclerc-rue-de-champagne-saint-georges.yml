@@ -1,11 +1,11 @@
 id: 276558376
-type: way
+type: node
 latitude: 45.74827
 longitude: -0.67798
 postcode: "17100"
 city: Saintes
-street: "Rue de Champagne Saint-Georges"
-housenumber: 15
-phone: "+33 5 46 93 26 96"
-opening_hours: "Mo-Sa 09:00-20:00"
-website: "https://www.e-leclerc.com"
+street: Rue de Champagne Saint-Georges
+housenumber: "15"
+phone: +33 5 46 93 26 96
+opening_hours: Mo-Sa 09:00-20:00
+website: https://www.e-leclerc.com

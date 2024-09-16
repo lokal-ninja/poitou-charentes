@@ -1,11 +1,11 @@
 id: 71920478
-type: way
+type: node
 latitude: 46.14113
 longitude: -1.12844
 postcode: "17440"
 city: Aytré
-street: "Rue des Cottes Mailles"
-housenumber: 42
+street: Rue des Cottes Mailles
+housenumber: "42"
 phone: ""
-opening_hours: "Mo-Sa 09:00-12:30,14:30-19:00"
+opening_hours: Mo-Sa 09:00-12:30,14:30-19:00
 website: ""

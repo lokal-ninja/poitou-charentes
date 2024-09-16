@@ -1,11 +1,11 @@
 id: 264128740
-type: way
+type: node
 latitude: 46.57338
 longitude: 0.37186
 postcode: "86000"
 city: Poitiers
-street: "Allée Antoine Parmentier"
-housenumber: 1
-phone: "+33 8 25 35 11 34"
-opening_hours: "Mo 10:00-19:15; Tu-Sa 10:00-19:00"
+street: Allée Antoine Parmentier
+housenumber: "1"
+phone: +33 8 25 35 11 34
+opening_hours: Mo 10:00-19:15; Tu-Sa 10:00-19:00
 website: ""

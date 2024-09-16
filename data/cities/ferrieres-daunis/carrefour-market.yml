@@ -1,11 +1,11 @@
 id: 161189091
-type: way
+type: node
 latitude: 46.22858
 longitude: -0.87354
 postcode: "17170"
 city: Ferrières d’Aunis
-street: "Centre commercial d'Aunis"
-housenumber: 
-phone: "+33 5 46 67 37 01"
-opening_hours: "Mo-Sa 09:00-20:00; Su 09:00-13:00"
-website: "https://www.carrefour.fr/magasin/market-ferrieres-d-aunis"
+street: Centre commercial d'Aunis
+housenumber: ""
+phone: +33 5 46 67 37 01
+opening_hours: Mo-Sa 09:00-20:00; Su 09:00-13:00
+website: https://www.carrefour.fr/magasin/market-ferrieres-d-aunis

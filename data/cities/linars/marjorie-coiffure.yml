@@ -4,8 +4,9 @@ latitude: 45.65474
 longitude: 0.08394
 postcode: "16730"
 city: Linars
-street: "Route des Boisdons"
-housenumber: 17
-phone: "+33 5 45 91 20 56"
-opening_hours: "Tu 09:00-12:00,14:00-18:30; We 09:00-12:00; Th 09:00-12:00,14:00-19:00; Fr 09:00-19:00; Sa 09:00-16:00; Mo,Su,PH off;"
+street: Route des Boisdons
+housenumber: "17"
+phone: +33 5 45 91 20 56
+opening_hours: Tu 09:00-12:00,14:00-18:30; We 09:00-12:00; Th 09:00-12:00,14:00-19:00;
+    Fr 09:00-19:00; Sa 09:00-16:00; Mo,Su,PH off;
 website: ""

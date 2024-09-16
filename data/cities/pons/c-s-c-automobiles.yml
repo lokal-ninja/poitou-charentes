@@ -1,11 +1,11 @@
 id: 123355944
-type: way
+type: node
 latitude: 45.56026
 longitude: -0.55464
 postcode: "17800"
 city: Pons
-street: "Rue de l'Industrie"
-housenumber: 8
+street: Rue de l'Industrie
+housenumber: "8"
 phone: ""
 opening_hours: ""
 website: ""

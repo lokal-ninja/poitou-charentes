@@ -1,11 +1,11 @@
 id: 71309160
-type: way
+type: node
 latitude: 46.3366
 longitude: -0.4087
 postcode: "79000"
 city: Niort
-street: "Rue Robert Turgot"
-housenumber: 49
-phone: "+33 8 25351134"
-opening_hours: "Mo-Sa 09:30-19:00"
-website: "https://www.besson-chaussures.com/nos-boutiques/besson-chaussures-niort_niort_79000/226.html"
+street: Rue Robert Turgot
+housenumber: "49"
+phone: +33 8 25351134
+opening_hours: Mo-Sa 09:30-19:00
+website: https://www.besson-chaussures.com/nos-boutiques/besson-chaussures-niort_niort_79000/226.html

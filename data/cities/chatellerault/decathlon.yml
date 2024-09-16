@@ -1,11 +1,11 @@
 id: 206147216
-type: way
+type: node
 latitude: 46.83593
 longitude: 0.54011
 postcode: "86100"
 city: Châtellerault
-street: "Rue de la Désirée"
-housenumber: 25
+street: Rue de la Désirée
+housenumber: "25"
 phone: ""
-opening_hours: "Mo-Sa 09:00-19:30"
+opening_hours: Mo-Sa 09:00-19:30
 website: ""

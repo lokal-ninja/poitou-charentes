@@ -4,8 +4,8 @@ latitude: 45.21656
 longitude: -0.18808
 postcode: "17270"
 city: Montguyon
-street: "Place de la Mairie"
-housenumber: 13
-phone: "+33 5 46 04 10 65"
-opening_hours: "Mo-Sa 07:00-13:00, 15:00-19:30; Th, Su off"
+street: Place de la Mairie
+housenumber: "13"
+phone: +33 5 46 04 10 65
+opening_hours: Mo-Sa 07:00-13:00, 15:00-19:30; Th, Su off
 website: ""

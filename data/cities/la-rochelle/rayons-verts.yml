@@ -4,8 +4,8 @@ latitude: 46.16817
 longitude: -1.13286
 postcode: "17000"
 city: La Rochelle
-street: "Boulevard André Sautel"
-housenumber: 67
-phone: "+33 5 46 07 41 00"
-opening_hours: "Mo-Sa 09:00-19:30"
-website: "https://rayonsvertslarochelle.com/"
+street: Boulevard André Sautel
+housenumber: "67"
+phone: +33 5 46 07 41 00
+opening_hours: Mo-Sa 09:00-19:30
+website: https://rayonsvertslarochelle.com/

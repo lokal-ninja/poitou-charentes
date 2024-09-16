@@ -1,11 +1,11 @@
 id: 92519112
-type: way
+type: node
 latitude: 45.98802
 longitude: -1.09365
 postcode: "17450"
 city: Fouras
-street: "Rue de la Halle"
-housenumber: 83
-phone: "+33 981 46 48 10"
-opening_hours: "Tu-Sa 10:00-12:30,14:30-19:00; Su 10:00-12:30"
+street: Rue de la Halle
+housenumber: "83"
+phone: +33 981 46 48 10
+opening_hours: Tu-Sa 10:00-12:30,14:30-19:00; Su 10:00-12:30
 website: ""

@@ -4,8 +4,8 @@ latitude: 45.74658
 longitude: -0.62068
 postcode: "17100"
 city: Saintes
-street: "Avenue Gambetta"
-housenumber: 143
-phone: "+33 5 46 90 54 55"
-opening_hours: "Tu-Sa 07:30-13:00, 15:30-19:15; Su 07:30-13:00"
+street: Avenue Gambetta
+housenumber: "143"
+phone: +33 5 46 90 54 55
+opening_hours: Tu-Sa 07:30-13:00, 15:30-19:15; Su 07:30-13:00
 website: ""

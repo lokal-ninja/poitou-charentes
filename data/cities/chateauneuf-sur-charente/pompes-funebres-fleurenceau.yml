@@ -1,11 +1,11 @@
 id: 122903233
-type: way
+type: node
 latitude: 45.60201
 longitude: -0.06653
 postcode: "16120"
 city: Châteauneuf-sur-Charente
-street: "ZA La Meynarderie"
-housenumber: 5
-phone: "+33 5 45 97 04 89"
+street: ZA La Meynarderie
+housenumber: "5"
+phone: +33 5 45 97 04 89
 opening_hours: ""
-website: "https://www.pf-fleurenceau.fr/"
+website: https://www.pf-fleurenceau.fr/

@@ -1,11 +1,11 @@
 id: 63547294
-type: way
+type: node
 latitude: 46.42198
 longitude: 0.86687
 postcode: "86500"
 city: Montmorillon
-street: "Rue Charles Dubois"
-housenumber: 23
+street: Rue Charles Dubois
+housenumber: "23"
 phone: ""
-opening_hours: "Tu-Sa 08:30-12:00,14:00-18:30"
+opening_hours: Tu-Sa 08:30-12:00,14:00-18:30
 website: ""

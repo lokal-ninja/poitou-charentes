@@ -1,11 +1,11 @@
 id: 65518911
-type: way
+type: node
 latitude: 45.69512
 longitude: -0.32678
 postcode: "16100"
 city: Cognac
-street: "Rue d'Angoulême"
-housenumber: 70
-phone: "+33 5 45 81 71 87"
+street: Rue d'Angoulême
+housenumber: "70"
+phone: +33 5 45 81 71 87
 opening_hours: ""
 website: ""

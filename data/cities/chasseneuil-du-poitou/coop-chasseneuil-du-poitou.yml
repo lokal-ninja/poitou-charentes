@@ -4,8 +4,8 @@ latitude: 46.65111
 longitude: 0.37533
 postcode: "86360"
 city: Chasseneuil-du-Poitou
-street: "Place du Centre"
-housenumber: 4
-phone: "+33 6 72 00 73 55"
-opening_hours: "Mo-Sa 07:30-20:00; Su 09:00-13:00"
+street: Place du Centre
+housenumber: "4"
+phone: +33 6 72 00 73 55
+opening_hours: Mo-Sa 07:30-20:00; Su 09:00-13:00
 website: ""

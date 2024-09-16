@@ -1,11 +1,11 @@
 id: 111358829
-type: way
+type: node
 latitude: 45.945
 longitude: -1.31614
 postcode: "17310"
 city: Saint-Pierre-d'Oléron
-street: "Route des Mirouelles"
-housenumber: 2
-phone: "+33 5 46 47 14 66"
-opening_hours: "Mo-Sa 08:30-19:30; Su 08:30-12:45"
-website: "https://www.e-leclerc.com/"
+street: Route des Mirouelles
+housenumber: "2"
+phone: +33 5 46 47 14 66
+opening_hours: Mo-Sa 08:30-19:30; Su 08:30-12:45
+website: https://www.e-leclerc.com/

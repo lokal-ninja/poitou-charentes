@@ -1,11 +1,11 @@
 id: 74762361
-type: way
+type: node
 latitude: 46.22059
 longitude: -0.14113
 postcode: "79500"
 city: Melle
-street: "chemin de la Reine"
-housenumber: 
+street: chemin de la Reine
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

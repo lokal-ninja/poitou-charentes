@@ -1,11 +1,11 @@
 id: 127237728
-type: way
+type: node
 latitude: 46.0228
 longitude: -0.00018
 postcode: "16240"
 city: Paizay-Naudouin-Embourie
-street: "Route de Villefagnan"
-housenumber: 6
-phone: "+33 5 45 31 79 59"
-opening_hours: "Tu-Sa 08:30-12:00,14:00-18:30"
+street: Route de Villefagnan
+housenumber: "6"
+phone: +33 5 45 31 79 59
+opening_hours: Tu-Sa 08:30-12:00,14:00-18:30
 website: ""

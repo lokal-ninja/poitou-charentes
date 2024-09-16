@@ -1,11 +1,11 @@
 id: 42689748
-type: way
+type: node
 latitude: 46.56609
 longitude: 0.35472
 postcode: "86000"
 city: Poitiers
-street: "Route de Gençay"
-housenumber: 93
+street: Route de Gençay
+housenumber: "93"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

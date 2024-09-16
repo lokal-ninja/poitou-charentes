@@ -4,8 +4,8 @@ latitude: 45.21911
 longitude: -0.18961
 postcode: "17270"
 city: Montguyon
-street: "Rue Nationale"
-housenumber: 28
-phone: "+33 5 46 04 12 32"
-opening_hours: "Mo-Fr 06:30-19:30; Sa 06:30-13:30"
-website: "https://www.franceboulangerie.fr/boulangeries/boulangerie-de-montguyon-montguyon/"
+street: Rue Nationale
+housenumber: "28"
+phone: +33 5 46 04 12 32
+opening_hours: Mo-Fr 06:30-19:30; Sa 06:30-13:30
+website: https://www.franceboulangerie.fr/boulangeries/boulangerie-de-montguyon-montguyon/

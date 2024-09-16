@@ -4,8 +4,8 @@ latitude: 46.58979
 longitude: 0.33933
 postcode: "86000"
 city: Poitiers
-street: "Boulevard Jeanne d’Arc"
-housenumber: 4
-phone: "+33 5 49 88 09 99"
-opening_hours: "Mo 14:00-19:00; Tu-Fr 09:30-19:00"
-website: "https://www.rbs86.com/"
+street: Boulevard Jeanne d’Arc
+housenumber: "4"
+phone: +33 5 49 88 09 99
+opening_hours: Mo 14:00-19:00; Tu-Fr 09:30-19:00
+website: https://www.rbs86.com/

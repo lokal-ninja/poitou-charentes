@@ -1,11 +1,11 @@
 id: 117265253
-type: way
+type: node
 latitude: 46.12513
 longitude: -0.63469
 postcode: "17700"
 city: Boisse, MARSAIS
-street: "Route du Stade"
-housenumber: 2
+street: Route du Stade
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 925823552
-type: way
+type: node
 latitude: 45.76537
 longitude: -1.13997
 postcode: "17600"
 city: Saujon
-street: "Chemin vert"
-housenumber: 3
-phone: "+33 5 46 05 37 64"
+street: Chemin vert
+housenumber: "3"
+phone: +33 5 46 05 37 64
 opening_hours: ""
-website: "https://www.traindesmouettes.fr/"
+website: https://www.traindesmouettes.fr/

@@ -1,11 +1,11 @@
 id: 111824945
-type: way
+type: node
 latitude: 45.79317
 longitude: 0.02798
 postcode: "16170"
 city: Genac
-street: "Route d'Angoulême"
-housenumber: 
+street: Route d'Angoulême
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "https://www.lepotagerdacote.fr/jardins/49_la-ferme-de-genac"
+website: https://www.lepotagerdacote.fr/jardins/49_la-ferme-de-genac

@@ -4,8 +4,8 @@ latitude: 45.60337
 longitude: 0.36758
 postcode: "16410"
 city: Vouzan
-street: "La Rochette"
-housenumber: 
+street: La Rochette
+housenumber: ""
 phone: ""
-opening_hours: "on appointment"
-website: "https://www.facebook.com/lacalagouille/"
+opening_hours: '"on appointment"'
+website: https://www.facebook.com/lacalagouille/

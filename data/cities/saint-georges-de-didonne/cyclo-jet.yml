@@ -4,8 +4,8 @@ latitude: 45.59957
 longitude: -0.99391
 postcode: "17110"
 city: Saint-Georges-de-Didonne
-street: "Avenue Edmond Mocqueris"
-housenumber: 2
-phone: "+33 5 46 05 31 42"
-opening_hours: "Mo-We,Fr,Sa 09:00-22:00; Th 09:00-21:00"
-website: "https://www.cyclo-jet.fr/"
+street: Avenue Edmond Mocqueris
+housenumber: "2"
+phone: +33 5 46 05 31 42
+opening_hours: Mo-We,Fr,Sa 09:00-22:00; Th 09:00-21:00
+website: https://www.cyclo-jet.fr/

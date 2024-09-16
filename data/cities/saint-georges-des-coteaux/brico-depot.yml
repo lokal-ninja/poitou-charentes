@@ -1,11 +1,11 @@
 id: 122716850
-type: way
+type: node
 latitude: 45.79269
 longitude: -0.72741
 postcode: "17810"
 city: Saint-Georges-des-Coteaux
 street: ""
-housenumber: 
-phone: "+33 5 46 97 56 40"
-opening_hours: "Mo-Sa 07:00-19:30, Su 08:00-13:00"
-website: "https://www.bricodepot.fr/saintes-saint-georges-des-coteaux/"
+housenumber: ""
+phone: +33 5 46 97 56 40
+opening_hours: Mo-Sa 07:00-19:30, Su 08:00-13:00
+website: https://www.bricodepot.fr/saintes-saint-georges-des-coteaux/

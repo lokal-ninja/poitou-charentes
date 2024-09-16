@@ -1,11 +1,11 @@
 id: 64329416
-type: way
+type: node
 latitude: 46.64523
 longitude: -0.2192
 postcode: "79200"
 city: Parthenay
-street: "Rue Gustave Eiffel"
-housenumber: 2
+street: Rue Gustave Eiffel
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

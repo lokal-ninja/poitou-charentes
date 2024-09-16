@@ -4,8 +4,8 @@ latitude: 46.61238
 longitude: 0.41479
 postcode: "86360"
 city: Montamisé
-street: "Route de Poitiers"
-housenumber: 20
-phone: "+33 5 49 47 05 46"
-opening_hours: "Tu-Fr 10:00-19:00; Sa 10:00-17:00"
+street: Route de Poitiers
+housenumber: "20"
+phone: +33 5 49 47 05 46
+opening_hours: Tu-Fr 10:00-19:00; Sa 10:00-17:00
 website: ""

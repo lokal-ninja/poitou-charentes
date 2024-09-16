@@ -1,11 +1,11 @@
 id: 276682531
-type: way
+type: node
 latitude: 45.74117
 longitude: -0.60367
 postcode: "17100"
 city: Saintes
-street: "Rue de Lamothe"
-housenumber: 11
-phone: "+33 5 46 95 56 54"
-opening_hours: "Mo-Fr 08:30-12:00,14:00-18:00"
+street: Rue de Lamothe
+housenumber: "11"
+phone: +33 5 46 95 56 54
+opening_hours: Mo-Fr 08:30-12:00,14:00-18:00
 website: ""

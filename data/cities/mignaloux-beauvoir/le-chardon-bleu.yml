@@ -1,11 +1,11 @@
 id: 85814458
-type: way
+type: node
 latitude: 46.54143
 longitude: 0.4158
 postcode: "86550"
 city: Mignaloux-Beauvoir
-street: "Rue des Alisiers"
-housenumber: 5
+street: Rue des Alisiers
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Sa 07:30-13:00,15:30-19:30; Su 08:00-13:00"
+opening_hours: Mo-Sa 07:30-13:00,15:30-19:30; Su 08:00-13:00
 website: ""

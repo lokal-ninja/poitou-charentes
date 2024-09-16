@@ -4,8 +4,8 @@ latitude: 45.72447
 longitude: -0.41185
 postcode: "16100"
 city: Louzac Saint André
-street: "Chez Devaud"
-housenumber: 3
-phone: "+33 9 83 06 38 76"
-opening_hours: "Tu-Fr 09:00-12:00,14:00-17:00"
-website: "https://www.noyeraie.com/"
+street: Chez Devaud
+housenumber: "3"
+phone: +33 9 83 06 38 76
+opening_hours: Tu-Fr 09:00-12:00,14:00-17:00
+website: https://www.noyeraie.com/

@@ -1,11 +1,11 @@
 id: 55391294
-type: way
+type: node
 latitude: 46.57299
 longitude: 0.36427
 postcode: "86000"
 city: Poitiers
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

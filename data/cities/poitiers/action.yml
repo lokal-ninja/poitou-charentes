@@ -4,8 +4,8 @@ latitude: 46.57429
 longitude: 0.37198
 postcode: "86000"
 city: Poitiers
-street: "Avenue de Lafayette"
-housenumber: 2
+street: Avenue de Lafayette
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Su 09:00-19:00"
-website: "https://www.action.com/fr-fr/points-de-vente/poitiers-2-avenue-de-lafayette/"
+opening_hours: Mo-Su 09:00-19:00
+website: https://www.action.com/fr-fr/points-de-vente/poitiers-2-avenue-de-lafayette/

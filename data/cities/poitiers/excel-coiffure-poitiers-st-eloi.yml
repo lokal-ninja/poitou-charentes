@@ -4,8 +4,8 @@ latitude: 46.58881
 longitude: 0.37074
 postcode: "86000"
 city: Poitiers
-street: "Rue de Bonneuil-Matours"
-housenumber: 70
+street: Rue de Bonneuil-Matours
+housenumber: "70"
 phone: "0549612464"
-opening_hours: "Tu-Sa 09:00-18:00"
-website: "https://www.gilcoiffeurextensions.fr"
+opening_hours: Tu-Sa 09:00-18:00
+website: https://www.gilcoiffeurextensions.fr

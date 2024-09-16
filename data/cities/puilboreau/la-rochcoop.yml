@@ -5,7 +5,8 @@ longitude: -1.11769
 postcode: "17138"
 city: Puilboreau
 street: ""
-housenumber: 9
+housenumber: "9"
 phone: ""
-opening_hours: "Mo-Tu 15:30-19:45; We-Fr 11:00-12:30, 15:30-19:45; Sa 10:00-12:00, 15:00-17:45"
-website: "https://larochcoop.fr"
+opening_hours: Mo-Tu 15:30-19:45; We-Fr 11:00-12:30, 15:30-19:45; Sa 10:00-12:00,
+    15:00-17:45
+website: https://larochcoop.fr

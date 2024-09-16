@@ -4,8 +4,8 @@ latitude: 46.17922
 longitude: -1.16614
 postcode: "17140"
 city: Lagord
-street: "Impasse du Clavier"
-housenumber: 7
-phone: "+33 5 46 67 65 99"
-opening_hours: "Tu-Sa 09:00-12:00, 14:00-18:30"
-website: "https://boucard-horticulture.fr/"
+street: Impasse du Clavier
+housenumber: "7"
+phone: +33 5 46 67 65 99
+opening_hours: Tu-Sa 09:00-12:00, 14:00-18:30
+website: https://boucard-horticulture.fr/

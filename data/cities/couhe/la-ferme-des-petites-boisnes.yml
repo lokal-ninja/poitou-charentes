@@ -4,8 +4,9 @@ latitude: 46.30621
 longitude: 0.18215
 postcode: "86700"
 city: Couhé
-street: "Place Pierre et Marie Curie"
-housenumber: 4
+street: Place Pierre et Marie Curie
+housenumber: "4"
 phone: ""
-opening_hours: "Mo off; Tu 09:00-12:30; We 09:00-12:30, 16:00-19:00; Th 09:00-12:30; Fr 09:00-12:30, 16:00-19:00; Sa 09:00-12:30; Su off"
+opening_hours: Mo off; Tu 09:00-12:30; We 09:00-12:30, 16:00-19:00; Th 09:00-12:30;
+    Fr 09:00-12:30, 16:00-19:00; Sa 09:00-12:30; Su off
 website: ""

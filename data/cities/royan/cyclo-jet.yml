@@ -4,8 +4,8 @@ latitude: 45.62524
 longitude: -1.02317
 postcode: "17200"
 city: Royan
-street: "Boulevard de Lattre de Tassigny"
-housenumber: 20
+street: Boulevard de Lattre de Tassigny
+housenumber: "20"
 phone: ""
-opening_hours: "Tu-Sa 09:00-12:00,14:00-19:00"
-website: "https://www.cyclo-jet.fr"
+opening_hours: Tu-Sa 09:00-12:00,14:00-19:00
+website: https://www.cyclo-jet.fr

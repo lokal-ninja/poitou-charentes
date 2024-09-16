@@ -1,11 +1,11 @@
 id: 85953693
-type: way
+type: node
 latitude: 46.55925
 longitude: 0.51369
 postcode: "86800"
 city: saint julien l'ars
-street: "Rue de Chauvigny"
-housenumber: 29
-phone: "+33 5 49 56 71 35"
-opening_hours: "Mo-Fr 07:00-13:30 - 15:30-20:00"
+street: Rue de Chauvigny
+housenumber: "29"
+phone: +33 5 49 56 71 35
+opening_hours: Mo-Fr 07:00-13:30 - 15:30-20:00
 website: ""

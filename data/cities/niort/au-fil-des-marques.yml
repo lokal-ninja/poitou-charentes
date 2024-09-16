@@ -1,11 +1,11 @@
 id: 71310393
-type: way
+type: node
 latitude: 46.33395
 longitude: -0.40533
 postcode: "79000"
 city: Niort
-street: "Rue de la Démocratie"
-housenumber: 3
+street: Rue de la Démocratie
+housenumber: "3"
 phone: ""
 opening_hours: ""
-website: "https://www.aufildesmarques.com/module/totdisplaystores/singlestore?id_store=21&city=NIORT"
+website: https://www.aufildesmarques.com/module/totdisplaystores/singlestore?id_store=21&city=NIORT

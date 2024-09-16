@@ -1,11 +1,11 @@
 id: 125512581
-type: way
+type: node
 latitude: 45.87437
 longitude: 0.70721
 postcode: "16150"
 city: Chabanais
-street: "Route d'Angoulême"
-housenumber: 80
+street: Route d'Angoulême
+housenumber: "80"
 phone: ""
-opening_hours: "Mo-Fr 08:30-12:00, 14:00-18:30; Sa 08:30-12:00, 14:00-18:00"
-website: "https://chabanais-pneus.eurotyre.fr/"
+opening_hours: Mo-Fr 08:30-12:00, 14:00-18:30; Sa 08:30-12:00, 14:00-18:00
+website: https://chabanais-pneus.eurotyre.fr/

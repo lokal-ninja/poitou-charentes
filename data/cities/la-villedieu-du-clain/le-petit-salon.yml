@@ -1,11 +1,11 @@
 id: 88044236
-type: way
+type: node
 latitude: 46.4568
 longitude: 0.3674
 postcode: "86340"
 city: La Villedieu-du-Clain
-street: "Rue Nationale"
-housenumber: 18
+street: Rue Nationale
+housenumber: "18"
 phone: ""
 opening_hours: ""
 website: ""

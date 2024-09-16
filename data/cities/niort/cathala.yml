@@ -1,11 +1,11 @@
 id: 71311487
-type: way
+type: node
 latitude: 46.33462
 longitude: -0.42348
 postcode: "79000"
 city: Niort
-street: "Rue du Fief d'Amourette"
-housenumber: 52
+street: Rue du Fief d'Amourette
+housenumber: "52"
 phone: ""
 opening_hours: ""
-website: "http://www.cathala-patissier-creatif.com/"
+website: http://www.cathala-patissier-creatif.com/

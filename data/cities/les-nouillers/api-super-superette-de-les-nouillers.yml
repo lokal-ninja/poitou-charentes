@@ -4,8 +4,8 @@ latitude: 45.93053
 longitude: -0.66096
 postcode: "17380"
 city: Les Nouillers
-street: "Grande Rue"
-housenumber: 28
-phone: "+33 5 56 81 82 13"
-opening_hours: "Mo-Su 06:00-22:00"
-website: "https://api-masuperette.fr/"
+street: Grande Rue
+housenumber: "28"
+phone: +33 5 56 81 82 13
+opening_hours: Mo-Su 06:00-22:00
+website: https://api-masuperette.fr/

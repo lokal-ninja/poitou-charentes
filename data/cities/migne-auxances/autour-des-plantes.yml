@@ -1,11 +1,11 @@
 id: 84311377
-type: way
+type: node
 latitude: 46.63734
 longitude: 0.34367
 postcode: "86440"
 city: Migné-Auxances
-street: "Rue de la Longerolle"
-housenumber: 63
+street: Rue de la Longerolle
+housenumber: "63"
 phone: ""
-opening_hours: "reservation by phone"
-website: "https://autourdesplantes.fr/"
+opening_hours: '"reservation by phone"'
+website: https://autourdesplantes.fr/

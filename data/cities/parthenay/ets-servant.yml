@@ -1,11 +1,11 @@
 id: 64331139
-type: way
+type: node
 latitude: 46.64416
 longitude: -0.22809
 postcode: "79200"
 city: Parthenay
-street: "Boulevard Bernard Palissy"
-housenumber: 5
-phone: "+33 5 49 64 30 15"
+street: Boulevard Bernard Palissy
+housenumber: "5"
+phone: +33 5 49 64 30 15
 opening_hours: ""
-website: "https://www.ets-servant-79.com/"
+website: https://www.ets-servant-79.com/

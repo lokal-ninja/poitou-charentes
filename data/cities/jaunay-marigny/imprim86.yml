@@ -5,7 +5,7 @@ longitude: 0.37577
 postcode: "86130"
 city: Jaunay-Marigny
 street: ""
-housenumber: 2
-phone: "+33 5 49 52 01 68"
+housenumber: "2"
+phone: +33 5 49 52 01 68
 opening_hours: ""
-website: "https://imprim-86.fr/"
+website: https://imprim-86.fr/

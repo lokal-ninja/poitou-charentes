@@ -1,11 +1,11 @@
 id: 88123150
-type: way
+type: node
 latitude: 46.56637
 longitude: 0.36556
 postcode: "86000"
 city: Poitiers
-street: "Rue de la Gibauderie"
-housenumber: 64
+street: Rue de la Gibauderie
+housenumber: "64"
 phone: ""
 opening_hours: ""
 website: ""

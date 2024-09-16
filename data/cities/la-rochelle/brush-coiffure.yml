@@ -4,8 +4,8 @@ latitude: 46.15967
 longitude: -1.1561
 postcode: "17000"
 city: La Rochelle
-street: "Rue Réaumur"
-housenumber: 10
-phone: "+33 5 46 41 51 77"
-opening_hours: "Tu-Th 09:00-12:00, 14:00-18:30; Fr 09:00-18:00; Sa 09:00-12:00, 14:00-16:00"
+street: Rue Réaumur
+housenumber: "10"
+phone: +33 5 46 41 51 77
+opening_hours: Tu-Th 09:00-12:00, 14:00-18:30; Fr 09:00-18:00; Sa 09:00-12:00, 14:00-16:00
 website: ""

@@ -1,11 +1,11 @@
 id: 111258641
-type: way
+type: node
 latitude: 46.19628
 longitude: -1.35152
 postcode: "17410"
 city: Saint-Martin-de-Ré
-street: "Route de La Flotte"
-housenumber: 
-phone: "+33 5 46 09 42 80"
-opening_hours: "Mo-Fr 08:30-20:00; Sa 08:30-20:00; Su 08:30-12:30"
-website: "https://www.e-leclerc.com/"
+street: Route de La Flotte
+housenumber: ""
+phone: +33 5 46 09 42 80
+opening_hours: Mo-Fr 08:30-20:00; Sa 08:30-20:00; Su 08:30-12:30
+website: https://www.e-leclerc.com/

@@ -4,8 +4,8 @@ latitude: 45.74661
 longitude: -0.61479
 postcode: "17100"
 city: Saintes
-street: "Avenue Jules Dufaure"
-housenumber: 42
-phone: "+33 5 46 93 04 69"
-opening_hours: "Mo-Fr 06:15-19:30; Sa 06:15-13:30"
+street: Avenue Jules Dufaure
+housenumber: "42"
+phone: +33 5 46 93 04 69
+opening_hours: Mo-Fr 06:15-19:30; Sa 06:15-13:30
 website: ""

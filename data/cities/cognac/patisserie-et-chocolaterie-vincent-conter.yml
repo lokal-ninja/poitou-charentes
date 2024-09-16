@@ -4,8 +4,8 @@ latitude: 45.69528
 longitude: -0.3265
 postcode: "16100"
 city: Cognac
-street: "Rue Abel Planat"
-housenumber: 14
-phone: "+33 9 87 33 35 66"
-opening_hours: "Sa 10:00-13:00,16:00-19:00; Su 10:00-13:30"
+street: Rue Abel Planat
+housenumber: "14"
+phone: +33 9 87 33 35 66
+opening_hours: Sa 10:00-13:00,16:00-19:00; Su 10:00-13:30
 website: ""

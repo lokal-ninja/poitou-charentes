@@ -1,11 +1,11 @@
 id: 69303333
-type: way
+type: node
 latitude: 45.68291
 longitude: 0.17715
 postcode: "16160"
 city: Gond-Pontouvre
-street: "Route de Paris"
-housenumber: 
+street: Route de Paris
+housenumber: ""
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

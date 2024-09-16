@@ -4,8 +4,8 @@ latitude: 46.71511
 longitude: 0.4559
 postcode: "86130"
 city: Saint-Cyr
-street: "Rue de la Mairie"
-housenumber: 20
+street: Rue de la Mairie
+housenumber: "20"
 phone: ""
-opening_hours: "Mo,Tu,Th,Fr 07:00-13:00,15:30-18:45; Sa,Su 07:00-13:00"
+opening_hours: Mo,Tu,Th,Fr 07:00-13:00,15:30-18:45; Sa,Su 07:00-13:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 46.64874
 longitude: -0.23899
 postcode: "79200"
 city: Parthenay
-street: "boulevard Edgar Quinet"
-housenumber: 40
-phone: "+33 7 86 84 78 65"
-opening_hours: "Th 14:30-17:00"
-website: "https://www.secourspopulaire.fr/79/parthenay"
+street: boulevard Edgar Quinet
+housenumber: "40"
+phone: +33 7 86 84 78 65
+opening_hours: Th 14:30-17:00
+website: https://www.secourspopulaire.fr/79/parthenay

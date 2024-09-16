@@ -4,8 +4,8 @@ latitude: 45.74572
 longitude: -0.63858
 postcode: "17100"
 city: Saintes
-street: "Cours Reverseaux"
-housenumber: 24
-phone: "+33 5 46 90 23 82"
-opening_hours: "Tu-Sa 09:30-13:00, 15:00-19:30; Su 09:30-12:30"
-website: "https://saintes.cavavin.co/"
+street: Cours Reverseaux
+housenumber: "24"
+phone: +33 5 46 90 23 82
+opening_hours: Tu-Sa 09:30-13:00, 15:00-19:30; Su 09:30-12:30
+website: https://saintes.cavavin.co/

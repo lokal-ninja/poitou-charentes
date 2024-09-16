@@ -4,8 +4,8 @@ latitude: 46.1604
 longitude: -1.14958
 postcode: "17000"
 city: La Rochelle
-street: "Rue de La Rochelle"
-housenumber: 10
-phone: "+33 9 50 17 04 41"
-opening_hours: "Mo 13:00-18:00; Tu-Sa 09:30-12:30, 13:30-18:00"
-website: "https://www.servicecycle.fr/"
+street: Rue de La Rochelle
+housenumber: "10"
+phone: +33 9 50 17 04 41
+opening_hours: Mo 13:00-18:00; Tu-Sa 09:30-12:30, 13:30-18:00
+website: https://www.servicecycle.fr/

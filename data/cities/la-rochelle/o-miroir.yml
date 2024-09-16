@@ -4,8 +4,8 @@ latitude: 46.16306
 longitude: -1.15179
 postcode: "17000"
 city: La Rochelle
-street: "Rue du Minage"
-housenumber: 50
+street: Rue du Minage
+housenumber: "50"
 phone: "+33546417971"
-opening_hours: "Tu-Fr 09:00-18:00; Mo 13:00-18:00; Sa 09:00-17:00"
+opening_hours: Tu-Fr 09:00-18:00; Mo 13:00-18:00; Sa 09:00-17:00
 website: ""

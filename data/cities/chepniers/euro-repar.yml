@@ -1,11 +1,11 @@
 id: 64964420
-type: way
+type: node
 latitude: 45.2536
 longitude: -0.29948
 postcode: "17210"
 city: Chepniers
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "Mo 14:00-19:00; Tu-Sa 08:30-12:30,14:00-19:00; Su,PH off"
+opening_hours: Mo 14:00-19:00; Tu-Sa 08:30-12:30,14:00-19:00; Su,PH off
 website: ""

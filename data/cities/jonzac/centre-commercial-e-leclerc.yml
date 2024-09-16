@@ -1,11 +1,11 @@
 id: 46732444
-type: way
+type: node
 latitude: 45.45174
 longitude: -0.43888
 postcode: "17500"
 city: Jonzac
-street: "Avenue Monseigneur Chauvin"
-housenumber: 
-phone: "+33 5 46 48 45 11"
-opening_hours: "Mo-Sa 08:30-20:00; Su 09:00-12:30"
-website: "https://www.e-leclerc.com"
+street: Avenue Monseigneur Chauvin
+housenumber: ""
+phone: +33 5 46 48 45 11
+opening_hours: Mo-Sa 08:30-20:00; Su 09:00-12:30
+website: https://www.e-leclerc.com

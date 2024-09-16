@@ -4,8 +4,8 @@ latitude: 47.01064
 longitude: 0.08227
 postcode: "86200"
 city: Loudun
-street: "Rue Gambetta"
-housenumber: 1
-phone: "+33 5 49 98 00 32"
-opening_hours: "Mo-Tu 09:30-12:30; We 13:30-17:15; Th-Fr 09:30-12:30"
+street: Rue Gambetta
+housenumber: "1"
+phone: +33 5 49 98 00 32
+opening_hours: Mo-Tu 09:30-12:30; We 13:30-17:15; Th-Fr 09:30-12:30
 website: ""

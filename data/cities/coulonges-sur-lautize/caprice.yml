@@ -1,11 +1,11 @@
 id: 74390357
-type: way
+type: node
 latitude: 46.48227
 longitude: -0.59868
 postcode: "79160"
 city: Coulonges-sur-l'Autize
-street: "Rue du Château"
-housenumber: 4
+street: Rue du Château
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

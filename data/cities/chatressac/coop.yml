@@ -4,8 +4,8 @@ latitude: 45.73683
 longitude: -1.06002
 postcode: "17890"
 city: Chatressac
-street: "Place de Chatressac"
-housenumber: 9
+street: Place de Chatressac
+housenumber: "9"
 phone: ""
 opening_hours: ""
-website: "https://www.coop-atlantique.fr/"
+website: https://www.coop-atlantique.fr/

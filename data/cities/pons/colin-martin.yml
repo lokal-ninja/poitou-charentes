@@ -1,11 +1,11 @@
 id: 294814196
-type: way
+type: node
 latitude: 45.57338
 longitude: -0.55359
 postcode: "17800"
 city: Pons
-street: "Rue Barthélémy Gautier"
-housenumber: 41
-phone: "+33 5 46 94 00 25"
+street: Rue Barthélémy Gautier
+housenumber: "41"
+phone: +33 5 46 94 00 25
 opening_hours: ""
 website: ""

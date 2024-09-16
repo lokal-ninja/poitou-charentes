@@ -4,8 +4,8 @@ latitude: 46.1601
 longitude: -1.15309
 postcode: "17000"
 city: La Rochelle
-street: "Rue Dupaty"
-housenumber: 27
-phone: "+33 6 65 50 80 94"
-opening_hours: "Tu-Fr 10:00-13:00, Mo-Fr 14:00-19:00, Sa 10:00-19:00"
-website: "https://www.infinithe.fr/"
+street: Rue Dupaty
+housenumber: "27"
+phone: +33 6 65 50 80 94
+opening_hours: Tu-Fr 10:00-13:00, Mo-Fr 14:00-19:00, Sa 10:00-19:00
+website: https://www.infinithe.fr/

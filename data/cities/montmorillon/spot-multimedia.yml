@@ -4,8 +4,8 @@ latitude: 46.42622
 longitude: 0.86922
 postcode: "86500"
 city: Montmorillon
-street: "Grand Rue"
-housenumber: 6
+street: Grand Rue
+housenumber: "6"
 phone: "+33549912597"
-opening_hours: "Tu-Sa 10:00-12:00; Tu-Sa 14:00-19:00"
-website: "https://www.spotmultimedia.net"
+opening_hours: Tu-Sa 10:00-12:00; Tu-Sa 14:00-19:00
+website: https://www.spotmultimedia.net

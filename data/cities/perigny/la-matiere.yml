@@ -1,11 +1,11 @@
 id: 118089675
-type: way
+type: node
 latitude: 46.15452
 longitude: -1.11048
 postcode: "17180"
 city: Périgny
-street: "Rond-Point de la République"
-housenumber: 8
-phone: "+33 5 46 44 36 25"
-opening_hours: "Mo-Fr 09:00-12:30,14:00-17:30; Sa 09:00-12:30"
-website: "https://www.lm-lr.com/"
+street: Rond-Point de la République
+housenumber: "8"
+phone: +33 5 46 44 36 25
+opening_hours: Mo-Fr 09:00-12:30,14:00-17:30; Sa 09:00-12:30
+website: https://www.lm-lr.com/

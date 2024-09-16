@@ -4,8 +4,8 @@ latitude: 46.22097
 longitude: -0.1439
 postcode: "79500"
 city: Melle
-street: "Avenue du Commandant Bernier"
-housenumber: 3
+street: Avenue du Commandant Bernier
+housenumber: "3"
 phone: ""
 opening_hours: ""
-website: "http://epicerie-fermiere.com/"
+website: http://epicerie-fermiere.com/

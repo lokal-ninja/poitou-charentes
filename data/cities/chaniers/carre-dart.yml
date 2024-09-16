@@ -1,11 +1,11 @@
 id: 67207852
-type: way
+type: node
 latitude: 45.71856
 longitude: -0.55766
 postcode: "17610"
 city: Chaniers
-street: "Avenue du 8 Mai 1945"
-housenumber: 3
+street: Avenue du 8 Mai 1945
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

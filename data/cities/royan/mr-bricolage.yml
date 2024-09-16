@@ -1,11 +1,11 @@
 id: 72974346
-type: way
+type: node
 latitude: 45.63051
 longitude: -1.00268
 postcode: "17200"
 city: Royan
-street: "Rue Jean Delay"
+street: Rue Jean Delay
 housenumber: 2-4
-phone: "+33 5 46 05 06 28"
-opening_hours: "Mo-Sa 09:00-12:00,14:00-19:00"
-website: "https://magasin.mr-bricolage.fr/195-mr-bricolage-royan"
+phone: +33 5 46 05 06 28
+opening_hours: Mo-Sa 09:00-12:00,14:00-19:00
+website: https://magasin.mr-bricolage.fr/195-mr-bricolage-royan

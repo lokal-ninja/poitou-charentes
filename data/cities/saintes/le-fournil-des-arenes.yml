@@ -1,11 +1,11 @@
 id: 136636719
-type: way
+type: node
 latitude: 45.74885
 longitude: -0.64557
 postcode: "17100"
 city: Saintes
-street: "Cours du Maréchal Leclerc"
-housenumber: 11
+street: Cours du Maréchal Leclerc
+housenumber: "11"
 phone: ""
-opening_hours: "Mo-Sa 06:00-20:30"
+opening_hours: Mo-Sa 06:00-20:30
 website: ""

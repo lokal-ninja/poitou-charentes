@@ -1,11 +1,11 @@
 id: 144071392
-type: way
+type: node
 latitude: 45.49019
 longitude: 0.27475
 postcode: "16320"
 city: Villebois-Lavalette
-street: "Chemin de Sigalaud"
-housenumber: 
-phone: "+33 5 45 64 95 95"
-opening_hours: "Mo-Sa 09:00-19:30; Su 09:00-12:30"
-website: "https://www.magasins-u.com/magasin/superu-villeboislavalette"
+street: Chemin de Sigalaud
+housenumber: ""
+phone: +33 5 45 64 95 95
+opening_hours: Mo-Sa 09:00-19:30; Su 09:00-12:30
+website: https://www.magasins-u.com/magasin/superu-villeboislavalette

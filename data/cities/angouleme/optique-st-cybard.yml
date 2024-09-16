@@ -1,11 +1,11 @@
 id: 64574682
-type: way
+type: node
 latitude: 45.65715
 longitude: 0.14674
 postcode: "16000"
 city: Angoulême
 street: ""
-housenumber: 67
-phone: "+33 5 45 92 16 69"
-opening_hours: "Mo-Fr 09:00-12:00,14:00-19:00; Sa 09:00-12:00,14:00-17:00"
-website: "https://www.optique-saintcybard.com/"
+housenumber: "67"
+phone: +33 5 45 92 16 69
+opening_hours: Mo-Fr 09:00-12:00,14:00-19:00; Sa 09:00-12:00,14:00-17:00
+website: https://www.optique-saintcybard.com/

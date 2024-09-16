@@ -1,11 +1,11 @@
 id: 136006120
-type: way
+type: node
 latitude: 46.30476
 longitude: -0.44063
 postcode: "79000"
 city: Niort
-street: "Rue André Galle"
-housenumber: 5
-phone: "+33 5 49 33 56 31"
-opening_hours: "Mo-Sa 09:30-12:30,14:00-19:00"
-website: "https://www.jmt-alimentation-animale.com/"
+street: Rue André Galle
+housenumber: "5"
+phone: +33 5 49 33 56 31
+opening_hours: Mo-Sa 09:30-12:30,14:00-19:00
+website: https://www.jmt-alimentation-animale.com/

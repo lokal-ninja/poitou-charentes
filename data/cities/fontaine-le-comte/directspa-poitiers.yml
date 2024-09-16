@@ -4,8 +4,8 @@ latitude: 46.5313
 longitude: 0.28243
 postcode: "86240"
 city: Fontaine-le-Comte
-street: "Rue du Vercors"
-housenumber: 60
-phone: "+33 9 77718565"
-opening_hours: "Mo-Sa 10:00-12:00,14:00-18:00"
-website: "https://www.directspa.fr/"
+street: Rue du Vercors
+housenumber: "60"
+phone: +33 9 77718565
+opening_hours: Mo-Sa 10:00-12:00,14:00-18:00
+website: https://www.directspa.fr/

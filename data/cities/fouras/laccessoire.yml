@@ -4,8 +4,8 @@ latitude: 45.98745
 longitude: -1.09428
 postcode: "17450"
 city: Fouras
-street: "Rue de la Halle"
-housenumber: 71
+street: Rue de la Halle
+housenumber: "71"
 phone: "+33623435775"
-opening_hours: "Mo-Sa 09:30-12:30, 15:00-19:00; Su 09:30-12:30"
+opening_hours: Mo-Sa 09:30-12:30, 15:00-19:00; Su 09:30-12:30
 website: ""

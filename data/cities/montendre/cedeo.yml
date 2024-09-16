@@ -1,11 +1,11 @@
 id: 64275536
-type: way
+type: node
 latitude: 45.2825
 longitude: -0.39973
 postcode: "17130"
 city: Montendre
-street: "Avenue de la République"
-housenumber: 56
+street: Avenue de la République
+housenumber: "56"
 phone: ""
 opening_hours: ""
 website: ""

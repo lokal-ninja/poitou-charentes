@@ -1,11 +1,11 @@
 id: 122634288
-type: way
+type: node
 latitude: 45.75973
 longitude: -0.55502
 postcode: "17100"
 city: La Chapelle-des-Pots
-street: "Route de Saintes"
-housenumber: 
+street: Route de Saintes
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

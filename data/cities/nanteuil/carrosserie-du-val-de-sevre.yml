@@ -1,11 +1,11 @@
 id: 76485623
-type: way
+type: node
 latitude: 46.41922
 longitude: -0.19004
 postcode: "79400"
 city: Nanteuil
-street: "Avenue de la Renaissance"
-housenumber: 25
+street: Avenue de la Renaissance
+housenumber: "25"
 phone: ""
 opening_hours: ""
 website: ""

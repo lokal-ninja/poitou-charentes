@@ -4,8 +4,8 @@ latitude: 45.9316
 longitude: -0.66413
 postcode: "17380"
 city: Les Nouillers
-street: "Grande Rue"
-housenumber: 64
+street: Grande Rue
+housenumber: "64"
 phone: ""
-opening_hours: "Mo,Tu,Th-Su,PH 06:30-13:00"
+opening_hours: Mo,Tu,Th-Su,PH 06:30-13:00
 website: ""

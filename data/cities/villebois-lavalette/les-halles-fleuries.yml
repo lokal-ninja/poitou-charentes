@@ -4,8 +4,8 @@ latitude: 45.48425
 longitude: 0.2783
 postcode: "16320"
 city: Villebois-Lavalette
-street: "Rue de la Croix de Quart"
-housenumber: 31
+street: Rue de la Croix de Quart
+housenumber: "31"
 phone: "+33545647601"
-opening_hours: "Mo 14:30-18:30; Tu-Sa 09:00-12:30,14:30-19:00; Su 09:30-12:30"
-website: "http://www.fleuriste-leshallesfleuries.com"
+opening_hours: Mo 14:30-18:30; Tu-Sa 09:00-12:30,14:30-19:00; Su 09:30-12:30
+website: http://www.fleuriste-leshallesfleuries.com

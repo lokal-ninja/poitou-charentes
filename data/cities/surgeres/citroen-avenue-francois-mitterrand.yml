@@ -1,11 +1,11 @@
 id: 1302043478
-type: way
+type: node
 latitude: 46.10948
 longitude: -0.76297
 postcode: "17700"
 city: Surgères
-street: "Avenue François Mitterrand"
-housenumber: 9
+street: Avenue François Mitterrand
+housenumber: "9"
 phone: ""
 opening_hours: ""
 website: ""

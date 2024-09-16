@@ -1,11 +1,12 @@
 id: 86702985
-type: way
+type: node
 latitude: 46.6785
 longitude: 0.84415
 postcode: "86260"
 city: Saint-Pierre-de-Maillé
-street: "Rue de la Piloterie"
-housenumber: 4
+street: Rue de la Piloterie
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Tu, Th-Sa 09:00-12:30,15:30-19:00; We 09:00-12:30; Su 09:30-12:30; PH off"
-website: "https://clicdrive.fr"
+opening_hours: Mo-Tu, Th-Sa 09:00-12:30,15:30-19:00; We 09:00-12:30; Su 09:30-12:30;
+    PH off
+website: https://clicdrive.fr

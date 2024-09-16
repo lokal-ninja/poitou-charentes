@@ -1,11 +1,11 @@
 id: 317411881
-type: way
+type: node
 latitude: 46.22739
 longitude: -0.87337
 postcode: "17170"
 city: Ferrières d’Aunis
-street: "Centre commercial d'Aunis"
-housenumber: 
+street: Centre commercial d'Aunis
+housenumber: ""
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

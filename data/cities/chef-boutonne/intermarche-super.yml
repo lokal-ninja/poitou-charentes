@@ -1,11 +1,11 @@
 id: 75431312
-type: way
+type: node
 latitude: 46.10675
 longitude: -0.07016
 postcode: "79110"
 city: Chef-Boutonne
-street: "Avenue Louis Doignon"
-housenumber: 6
+street: Avenue Louis Doignon
+housenumber: "6"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

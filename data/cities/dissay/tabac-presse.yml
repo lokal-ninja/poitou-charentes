@@ -4,8 +4,8 @@ latitude: 46.69868
 longitude: 0.4286
 postcode: "86130"
 city: Dissay
-street: "Place Pierre d'Amboise"
-housenumber: 18
-phone: "+33 5 49 52 40 25"
-opening_hours: "Mo-Sa 07:00-12:30,14:30-19:00; Su 09:00-12:00"
+street: Place Pierre d'Amboise
+housenumber: "18"
+phone: +33 5 49 52 40 25
+opening_hours: Mo-Sa 07:00-12:30,14:30-19:00; Su 09:00-12:00
 website: ""

@@ -1,11 +1,11 @@
 id: 128105539
-type: way
+type: node
 latitude: 45.68471
 longitude: 0.24019
 postcode: "16600"
 city: Ruelle sur Touvre
-street: "Avenue du Maréchal Foch"
-housenumber: 830
+street: Avenue du Maréchal Foch
+housenumber: "830"
 phone: ""
-opening_hours: "Mo-Sa 09:00-19:00"
+opening_hours: Mo-Sa 09:00-19:00
 website: ""

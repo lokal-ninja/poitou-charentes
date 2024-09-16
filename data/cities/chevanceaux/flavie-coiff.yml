@@ -4,8 +4,9 @@ latitude: 45.30354
 longitude: -0.23286
 postcode: "17210"
 city: Chevanceaux
-street: "Avenue de Paris"
-housenumber: 
+street: Avenue de Paris
+housenumber: "45"
 phone: ""
-opening_hours: ""
+opening_hours: Mo 14:00-18:30; Tu,Th 09:00-12:00,14:00-18:30; We 09:00-12:00; Fr 09:00-18:30;
+    Sa 09:00-17:30; Su,PH off
 website: ""

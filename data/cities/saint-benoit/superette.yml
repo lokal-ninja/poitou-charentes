@@ -1,11 +1,11 @@
 id: 62762119
-type: way
+type: node
 latitude: 46.55423
 longitude: 0.31913
 postcode: "86280"
 city: Saint-Benoît
-street: "Route de Ligugé"
-housenumber: 90
+street: Route de Ligugé
+housenumber: "90"
 phone: ""
 opening_hours: ""
 website: ""

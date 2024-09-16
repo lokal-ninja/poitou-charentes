@@ -4,8 +4,8 @@ latitude: 45.69399
 longitude: -0.32596
 postcode: "16100"
 city: cognac
-street: "Rue d'Angoulême"
-housenumber: 22
-phone: "+33 5 45 83 42 47"
-opening_hours: "Su,Mo off; Tu-Sa 09:30-12:30,14:00-19:00"
-website: "https://opticiens.optic2000.com/opticien-cognac-16100-2053"
+street: Rue d'Angoulême
+housenumber: "22"
+phone: +33 5 45 83 42 47
+opening_hours: Su,Mo off; Tu-Sa 09:30-12:30,14:00-19:00
+website: https://opticiens.optic2000.com/opticien-cognac-16100-2053

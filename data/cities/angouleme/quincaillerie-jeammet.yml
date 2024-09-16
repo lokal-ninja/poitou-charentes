@@ -1,11 +1,11 @@
 id: 64576420
-type: way
+type: node
 latitude: 45.65685
 longitude: 0.14789
 postcode: "16000"
 city: Angoulême
 street: ""
-housenumber: 45
-phone: "+33 5 45951857"
-opening_hours: "Mo-Sa 09:00-12:00,14:00-18:00"
+housenumber: "45"
+phone: +33 5 45951857
+opening_hours: Mo-Sa 09:00-12:00,14:00-18:00
 website: ""

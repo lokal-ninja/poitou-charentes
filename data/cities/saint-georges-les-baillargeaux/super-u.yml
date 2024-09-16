@@ -1,11 +1,11 @@
 id: 85145889
-type: way
+type: node
 latitude: 46.67019
 longitude: 0.4046
 postcode: "86130"
 city: Saint-Georges-lès-Baillargeaux
-street: "Avenue du Clos de l’Ormeau"
-housenumber: 6
+street: Avenue du Clos de l’Ormeau
+housenumber: "6"
 phone: "+33549522805"
-opening_hours: "Mo-Sa 09:00-19:30; Su 09:00-12:15"
-website: "https://www.coursesu.com/f-superu-saintgeorgeslesbaillargeaux-informations"
+opening_hours: Mo-Sa 09:00-19:30; Su 09:00-12:15
+website: https://www.coursesu.com/f-superu-saintgeorgeslesbaillargeaux-informations

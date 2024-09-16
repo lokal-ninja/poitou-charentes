@@ -4,8 +4,8 @@ latitude: 46.16044
 longitude: -1.16976
 postcode: "17000"
 city: La Rochelle
-street: "Avenue Jean Guiton"
-housenumber: 104
-phone: "+33 5 46 68 28 79"
-opening_hours: "Mo-We 06:30-19:30; Fr-Sa 06:30-19:30; Su 06:30-13:30"
+street: Avenue Jean Guiton
+housenumber: "104"
+phone: +33 5 46 68 28 79
+opening_hours: Mo-We 06:30-19:30; Fr-Sa 06:30-19:30; Su 06:30-13:30
 website: ""

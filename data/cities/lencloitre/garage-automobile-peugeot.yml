@@ -1,11 +1,11 @@
 id: 85830823
-type: way
+type: node
 latitude: 46.81681
 longitude: 0.33177
 postcode: "86140"
 city: Lencloître
-street: "Rue Saint-Exupéry"
-housenumber: 23
+street: Rue Saint-Exupéry
+housenumber: "23"
 phone: ""
 opening_hours: ""
 website: ""

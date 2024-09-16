@@ -4,8 +4,9 @@ latitude: 46.76254
 longitude: 0.479
 postcode: "86530"
 city: Naintré
-street: "Avenue Carnot"
-housenumber: 15
+street: Avenue Carnot
+housenumber: "15"
 phone: ""
-opening_hours: "Tu 15:00 - 18:30; We 10:00-12:30, 15:00-18:30; Th 12:00-13:30, 16:00-18:30; Fr 15:00- 19:00; Sa 10:00- 12:30"
+opening_hours: Tu 15:00 - 18:30; We 10:00-12:30, 15:00-18:30; Th 12:00-13:30, 16:00-18:30;
+    Fr 15:00- 19:00; Sa 10:00- 12:30
 website: ""

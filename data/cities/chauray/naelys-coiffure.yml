@@ -1,11 +1,11 @@
 id: 534830403
-type: way
+type: node
 latitude: 46.34569
 longitude: -0.40072
 postcode: "79180"
 city: Chauray
-street: "Rue André Bellot"
-housenumber: 20
+street: Rue André Bellot
+housenumber: "20"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 100752075
-type: way
+type: node
 latitude: 45.63095
 longitude: -0.98509
 postcode: "17600"
 city: Médis
-street: "Rue Marco Polo"
-housenumber: 3
+street: Rue Marco Polo
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

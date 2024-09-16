@@ -1,11 +1,11 @@
 id: 88121233
-type: way
+type: node
 latitude: 46.57691
 longitude: 0.37298
 postcode: "86000"
 city: Poitiers
 street: ""
-housenumber: 
-phone: "+33 5 49 56 12 67"
-opening_hours: "Mo-Sa 08:30-19:45; Su 08:30-12:45"
-website: "https://magasin.netto.fr/288-netto-poitiers"
+housenumber: ""
+phone: +33 5 49 56 12 67
+opening_hours: Mo-Sa 08:30-19:45; Su 08:30-12:45
+website: https://magasin.netto.fr/288-netto-poitiers

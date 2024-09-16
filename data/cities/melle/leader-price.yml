@@ -1,11 +1,11 @@
 id: 74759794
-type: way
+type: node
 latitude: 46.2235
 longitude: -0.14048
 postcode: "79500"
 city: Melle
-street: "Chemin des Perruquiers"
-housenumber: 
+street: Chemin des Perruquiers
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 72741382
-type: way
+type: node
 latitude: 46.41687
 longitude: -0.19689
 postcode: "79400"
 city: Saint-Maixent-l'École
-street: "Avenue de Blossac"
-housenumber: 17
+street: Avenue de Blossac
+housenumber: "17"
 phone: ""
 opening_hours: ""
 website: ""

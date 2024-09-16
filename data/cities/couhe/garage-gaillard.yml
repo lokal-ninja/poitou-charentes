@@ -1,11 +1,11 @@
 id: 84613306
-type: way
+type: node
 latitude: 46.29238
 longitude: 0.17623
 postcode: "86700"
 city: Couhé
-street: "Avenue de Bordeaux"
-housenumber: 38
+street: Avenue de Bordeaux
+housenumber: "38"
 phone: ""
 opening_hours: ""
 website: ""

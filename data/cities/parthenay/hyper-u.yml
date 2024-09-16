@@ -1,11 +1,11 @@
 id: 60762764
-type: way
+type: node
 latitude: 46.6438
 longitude: -0.25413
 postcode: "79200"
 city: Parthenay
-street: "Boulevard François Mitterrand"
-housenumber: 1
-phone: "+33 5 49 64 32 22"
-opening_hours: "Mo-Sa 08:30-20:00"
-website: "https://www.magasins-u.com/magasin/hyperu-parthenay"
+street: Boulevard François Mitterrand
+housenumber: "1"
+phone: +33 5 49 64 32 22
+opening_hours: Mo-Sa 08:30-20:00
+website: https://www.magasins-u.com/magasin/hyperu-parthenay

@@ -4,8 +4,8 @@ latitude: 45.48249
 longitude: 0.27987
 postcode: "16320"
 city: Villebois-Lavalette
-street: "Grand'Rue"
-housenumber: 2
-phone: "+33 5 45 64 71 49"
-opening_hours: "Tu-Sa 07:00-13:30,15:30-20:00; Su 07:00-13:30"
+street: Grand'Rue
+housenumber: "2"
+phone: +33 5 45 64 71 49
+opening_hours: Tu-Sa 07:00-13:30,15:30-20:00; Su 07:00-13:30
 website: ""

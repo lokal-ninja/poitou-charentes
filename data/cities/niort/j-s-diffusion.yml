@@ -1,11 +1,11 @@
 id: 71308698
-type: way
+type: node
 latitude: 46.33474
 longitude: -0.42386
 postcode: "79000"
 city: Niort
-street: "Rue du Fief des Amourette"
-housenumber: 82
+street: Rue du Fief des Amourette
+housenumber: "82"
 phone: ""
 opening_hours: ""
 website: ""

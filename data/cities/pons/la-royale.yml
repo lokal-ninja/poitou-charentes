@@ -1,11 +1,11 @@
 id: 123364213
-type: way
+type: node
 latitude: 45.57992
 longitude: -0.54794
 postcode: "17800"
 city: Pons
-street: "Rue Émile Combes"
-housenumber: 10
-phone: "+33 5 46 91 30 06"
+street: Rue Émile Combes
+housenumber: "10"
+phone: +33 5 46 91 30 06
 opening_hours: ""
 website: ""

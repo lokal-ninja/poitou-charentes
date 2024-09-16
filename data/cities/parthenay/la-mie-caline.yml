@@ -1,11 +1,11 @@
 id: 64332271
-type: way
+type: node
 latitude: 46.64792
 longitude: -0.24789
 postcode: "79200"
 city: Parthenay
-street: "Boulevard de la Meilleraye"
-housenumber: 69
+street: Boulevard de la Meilleraye
+housenumber: "69"
 phone: ""
-opening_hours: "Mo-Su 06:30-19:15"
+opening_hours: Mo-Su 06:30-19:15
 website: ""

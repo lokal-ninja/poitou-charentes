@@ -1,11 +1,11 @@
 id: 64330966
-type: way
+type: node
 latitude: 46.64654
 longitude: -0.21874
 postcode: "79200"
 city: Parthenay
-street: "Avenue Aristide Briand"
-housenumber: 114
+street: Avenue Aristide Briand
+housenumber: "114"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1151092313
-type: way
+type: node
 latitude: 46.55146
 longitude: 0.29985
 postcode: "86000"
 city: Poitiers
-street: "Avenue du 8 Mai 1945"
-housenumber: 252
+street: Avenue du 8 Mai 1945
+housenumber: "252"
 phone: ""
-opening_hours: "Mo-Sa 09:00-20:00"
-website: "https://www.juliendorcel.com/fr-fr/bijouterie/poitiers-sud"
+opening_hours: Mo-Sa 09:00-20:00
+website: https://www.juliendorcel.com/fr-fr/bijouterie/poitiers-sud

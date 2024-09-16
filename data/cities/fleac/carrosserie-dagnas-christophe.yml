@@ -1,11 +1,11 @@
 id: 114808332
-type: way
+type: node
 latitude: 45.68345
 longitude: 0.10156
 postcode: "16730"
 city: Fléac
-street: "Rue de l'Europe"
-housenumber: 10
+street: Rue de l'Europe
+housenumber: "10"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00"
+opening_hours: Mo-Fr 09:00-18:00
 website: ""

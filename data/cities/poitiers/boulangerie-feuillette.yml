@@ -4,8 +4,8 @@ latitude: 46.58272
 longitude: 0.36813
 postcode: "86000"
 city: Poitiers
-street: "Rue de Chalons"
-housenumber: 3
-phone: "+33 5 49 11 72 62"
-opening_hours: "Mo-Su 07:00-20:00"
+street: Rue de Chalons
+housenumber: "3"
+phone: +33 5 49 11 72 62
+opening_hours: Mo-Su 07:00-20:00
 website: ""

@@ -1,11 +1,11 @@
 id: 259652139
-type: way
+type: node
 latitude: 46.35306
 longitude: -0.47852
 postcode: "79000"
 city: Niort
-street: "Route de Coulonges"
+street: Route de Coulonges
 housenumber: 286 bis
 phone: ""
-opening_hours: "Tu-Th 10:00-12:30,16:00-19:00; Fr 10:00-13:00,15:00-19:00; Sa 09:30-13:00,15:00-19:00"
-website: "https://www.plaisirs-fermiers.fr/"
+opening_hours: Tu-Th 10:00-12:30,16:00-19:00; Fr 10:00-13:00,15:00-19:00; Sa 09:30-13:00,15:00-19:00
+website: https://www.plaisirs-fermiers.fr/

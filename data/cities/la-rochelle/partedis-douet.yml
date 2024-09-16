@@ -1,11 +1,11 @@
 id: 119851339
-type: way
+type: node
 latitude: 46.17149
 longitude: -1.20678
 postcode: "17000"
 city: La Rochelle
-street: "Avenue de la Repentie"
-housenumber: 35
+street: Avenue de la Repentie
+housenumber: "35"
 phone: ""
 opening_hours: ""
 website: ""

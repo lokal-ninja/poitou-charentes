@@ -1,11 +1,11 @@
 id: 64524240
-type: way
+type: node
 latitude: 46.53397
 longitude: -0.32222
 postcode: "79310"
 city: Mazières-en-Gâtine
-street: "Place des Marronniers"
-housenumber: 
-phone: "+33 5 49 63 20 72"
-opening_hours: "Mo-Sa 08:00-20:00; Su 09:00-13:00"
-website: "https://www.carrefour.fr/magasin/express-mazieres-en-gatine"
+street: Place des Marronniers
+housenumber: ""
+phone: +33 5 49 63 20 72
+opening_hours: Mo-Sa 08:00-20:00; Su 09:00-13:00
+website: https://www.carrefour.fr/magasin/express-mazieres-en-gatine

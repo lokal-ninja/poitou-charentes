@@ -1,11 +1,11 @@
 id: 64336761
-type: way
+type: node
 latitude: 46.64905
 longitude: -0.22046
 postcode: "79200"
 city: Parthenay
-street: "Boulevard de l'Europe"
-housenumber: 
+street: Boulevard de l'Europe
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 45.75001
 longitude: -0.66661
 postcode: "17100"
 city: Saintes
-street: "Rue de la Roue"
-housenumber: 4
-phone: "+33 6 19 92 86 62"
-opening_hours: "open"
-website: "https://www.randstad.fr/agence/640/"
+street: Rue de la Roue
+housenumber: "4"
+phone: +33 6 19 92 86 62
+opening_hours: open
+website: https://www.randstad.fr/agence/640/

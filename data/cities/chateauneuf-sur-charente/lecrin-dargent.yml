@@ -1,11 +1,12 @@
 id: 122902204
-type: way
+type: node
 latitude: 45.59982
 longitude: -0.05428
 postcode: "16120"
 city: Châteauneuf-sur-Charente
 street: ""
-housenumber: 
-phone: "+33 5 45 66 26 87"
-opening_hours: "Tu 9:15-12:30, 15:00-19:00; We 9:15-12:30, 15:00-19:00; Th 9:15-12:30, 15:00-19:00; Fr 9:15-12:30, 15:00-19:00; Sa 9:15-12:30, 15:00-19:00"
+housenumber: ""
+phone: +33 5 45 66 26 87
+opening_hours: Tu 9:15-12:30, 15:00-19:00; We 9:15-12:30, 15:00-19:00; Th 9:15-12:30,
+    15:00-19:00; Fr 9:15-12:30, 15:00-19:00; Sa 9:15-12:30, 15:00-19:00
 website: ""

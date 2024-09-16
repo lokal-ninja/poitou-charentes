@@ -4,8 +4,8 @@ latitude: 45.48237
 longitude: 0.27861
 postcode: "16320"
 city: Villebois-Lavalette
-street: "Grand'Rue"
-housenumber: 25
-phone: "+33 5 45 21 30 80"
-opening_hours: "Tu-Sa 08:00-13:00,15:30-19:30; Su 08:00-12:30"
-website: "https://www.pays-ruthenois.fr/"
+street: Grand'Rue
+housenumber: "25"
+phone: +33 5 45 21 30 80
+opening_hours: Tu-Sa 08:00-13:00,15:30-19:30; Su 08:00-12:30
+website: https://www.pays-ruthenois.fr/

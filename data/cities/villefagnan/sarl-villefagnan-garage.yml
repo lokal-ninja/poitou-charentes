@@ -1,11 +1,11 @@
 id: 945484311
-type: way
+type: node
 latitude: 46.00485
 longitude: 0.07758
 postcode: "16240"
 city: Villefagnan
-street: "Route d'Aigre"
-housenumber: 
-phone: "+33 5 45 3174 52"
-opening_hours: "Mo-Fr 08:30-12:00,14:00-18:00; Sa 08:30-12:00"
+street: Route d'Aigre
+housenumber: ""
+phone: +33 5 45 3174 52
+opening_hours: Mo-Fr 08:30-12:00,14:00-18:00; Sa 08:30-12:00
 website: ""

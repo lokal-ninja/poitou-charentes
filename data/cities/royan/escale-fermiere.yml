@@ -1,11 +1,11 @@
 id: 72951576
-type: way
+type: node
 latitude: 45.63289
 longitude: -0.99437
 postcode: "17200"
 city: Royan
-street: "Rue François Arago"
-housenumber: 66
-phone: "+33 546 028 240"
-opening_hours: "We-Fr 09:30-13:00,14:30-18:00; Sa 09:30-13:00"
+street: Rue François Arago
+housenumber: "66"
+phone: +33 546 028 240
+opening_hours: We-Fr 09:30-13:00,14:30-18:00; Sa 09:30-13:00
 website: ""

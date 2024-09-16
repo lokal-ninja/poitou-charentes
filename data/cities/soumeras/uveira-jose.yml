@@ -1,11 +1,11 @@
 id: 63542701
-type: way
+type: node
 latitude: 45.2978
 longitude: -0.42523
 postcode: "17130"
 city: Souméras
-street: "Rue du Grand Sable"
-housenumber: 8
+street: Rue du Grand Sable
+housenumber: "8"
 phone: ""
 opening_hours: ""
 website: ""

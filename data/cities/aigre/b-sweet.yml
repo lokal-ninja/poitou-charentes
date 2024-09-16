@@ -4,8 +4,8 @@ latitude: 45.89497
 longitude: 0.00966
 postcode: "16140"
 city: Aigre
-street: "Grande Rue"
-housenumber: 9
-phone: "+33 5 45 21 11 66"
-opening_hours: "Tu-Sa 05:00-13:30,16:00-19:30; Su 05:00-13:00"
-website: "https://www.b-sweet.fr/"
+street: Grande Rue
+housenumber: "9"
+phone: +33 5 45 21 11 66
+opening_hours: Tu-Sa 05:00-13:30,16:00-19:30; Su 05:00-13:00
+website: https://www.b-sweet.fr/

@@ -1,11 +1,11 @@
 id: 65284373
-type: way
+type: node
 latitude: 45.47028
 longitude: -0.16786
 postcode: "16300"
 city: Barbezieux-Saint-Hilaire
-street: "Avenue de l'Europe"
-housenumber: 
+street: Avenue de l'Europe
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 09:00-18:00"
+opening_hours: Mo-Sa 09:00-18:00
 website: ""

@@ -1,11 +1,11 @@
 id: 68933109
-type: way
+type: node
 latitude: 45.69233
 longitude: 0.18554
 postcode: "16430"
 city: Champniers
-street: "Zone d'activités des Montagnes"
-housenumber: 
+street: Zone d'activités des Montagnes
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 09:00-19:30"
-website: "https://www.decathlon.fr/fr/store?store_id"
+opening_hours: Mo-Sa 09:00-19:30
+website: https://www.decathlon.fr/fr/store?store_id

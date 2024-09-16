@@ -1,11 +1,11 @@
 id: 381263007
-type: way
+type: node
 latitude: 46.18148
 longitude: -1.38224
 postcode: "17580"
 city: Le Bois-Plage-en-Ré
-street: "chemin des Guignardes"
-housenumber: 
+street: chemin des Guignardes
+housenumber: ""
 phone: ""
-opening_hours: "Th,Sa 09:00-13:00; Fr 09:00-13:00,15:00-19:00"
+opening_hours: Th,Sa 09:00-13:00; Fr 09:00-13:00,15:00-19:00
 website: ""

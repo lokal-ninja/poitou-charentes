@@ -1,11 +1,11 @@
 id: 62524981
-type: way
+type: node
 latitude: 46.59
 longitude: 0.36997
 postcode: "86180"
 city: Buxerolles
-street: "Rue de la Charletterie"
-housenumber: 10
+street: Rue de la Charletterie
+housenumber: "10"
 phone: "+33549441197"
-opening_hours: "Mo-Sa 08:30-19:30; Su 09:00-12:30"
-website: "https://www.magasins-u.com/magasin/superu-buxerolles.m39040"
+opening_hours: Mo-Sa 08:30-19:30; Su 09:00-12:30
+website: https://www.magasins-u.com/magasin/superu-buxerolles.m39040

@@ -1,11 +1,11 @@
 id: 64768094
-type: way
+type: node
 latitude: 46.84051
 longitude: -0.55098
 postcode: "79300"
 city: breuil-chaussée
-street: "route de bressuire"
-housenumber: 
+street: route de bressuire
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

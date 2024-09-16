@@ -4,8 +4,8 @@ latitude: 46.57161
 longitude: 0.36864
 postcode: "86000"
 city: Poitiers
-street: "Avenue Jacques Cœur"
-housenumber: 42
-phone: "+33 549460408"
-opening_hours: "Tu-Sa 10:00-19:00"
-website: "https://guitare.poitiers.net/"
+street: Avenue Jacques Cœur
+housenumber: "42"
+phone: +33 549460408
+opening_hours: Tu-Sa 10:00-19:00
+website: https://guitare.poitiers.net/

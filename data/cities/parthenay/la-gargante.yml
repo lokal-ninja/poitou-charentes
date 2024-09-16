@@ -1,11 +1,11 @@
 id: 64329586
-type: way
+type: node
 latitude: 46.65033
 longitude: -0.24986
 postcode: "79200"
 city: Parthenay
-street: "Rue de la Vau Saint-Jacques"
-housenumber: 69
-phone: "+33 6 09 73 19 12"
+street: Rue de la Vau Saint-Jacques
+housenumber: "69"
+phone: +33 6 09 73 19 12
 opening_hours: ""
-website: "https://www.lagargante.fr/"
+website: https://www.lagargante.fr/

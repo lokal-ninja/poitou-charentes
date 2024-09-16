@@ -1,11 +1,11 @@
 id: 134387376
-type: way
+type: node
 latitude: 46.33531
 longitude: -0.42452
 postcode: "79000"
 city: Niort
-street: "avenue de Paris"
-housenumber: 326
-phone: "+33 5 49260369"
-opening_hours: "We-Sa 10:00-19:00"
+street: avenue de Paris
+housenumber: "326"
+phone: +33 5 49260369
+opening_hours: We-Sa 10:00-19:00
 website: ""

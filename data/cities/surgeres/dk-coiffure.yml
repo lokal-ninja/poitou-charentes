@@ -1,11 +1,11 @@
 id: 72794261
-type: way
+type: node
 latitude: 46.10729
 longitude: -0.75193
 postcode: ""
 city: Surgères
-street: "Rue du Minage"
-housenumber: 
-phone: "+33 5 46 44 60 65"
-opening_hours: "Mo-Th 09:00-12:00,14:00-19:00; Fr,Sa 09:00-19:00"
+street: Rue du Minage
+housenumber: ""
+phone: +33 5 46 44 60 65
+opening_hours: Mo-Th 09:00-12:00,14:00-19:00; Fr,Sa 09:00-19:00
 website: ""

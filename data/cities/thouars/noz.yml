@@ -1,11 +1,11 @@
 id: 64208409
-type: way
+type: node
 latitude: 46.98844
 longitude: -0.21099
 postcode: "79102"
 city: Thouars
-street: "Avenue Émile Zola"
-housenumber: 51
+street: Avenue Émile Zola
+housenumber: "51"
 phone: ""
-opening_hours: "Mo-Sa 09:30-19:30; Su 10:00-12:30,13:30-18:00"
-website: "https://nozarrivages.com/magasin/thouars/"
+opening_hours: Mo-Sa 09:30-19:30; Su 10:00-12:30,13:30-18:00
+website: https://nozarrivages.com/magasin/thouars/

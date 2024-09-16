@@ -1,11 +1,11 @@
 id: 85074315
-type: way
+type: node
 latitude: 46.63567
 longitude: 0.3578
 postcode: "86360"
 city: Chasseneuil du Poitou
-street: "Route de Paris"
+street: Route de Paris
 housenumber: 24 bis
 phone: "+33549301527"
-opening_hours: "Tu-Th 09:00-12:30,14:00-19:00; Fr-Sa 09:00-19:00"
-website: "https://www.lauxance-artisan-torrefacteur.fr/"
+opening_hours: Tu-Th 09:00-12:30,14:00-19:00; Fr-Sa 09:00-19:00
+website: https://www.lauxance-artisan-torrefacteur.fr/

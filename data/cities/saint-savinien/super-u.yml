@@ -1,11 +1,11 @@
 id: 516881531
-type: way
+type: node
 latitude: 45.87181
 longitude: -0.66969
 postcode: "17350"
 city: Saint - Savinien
-street: "Rue Fond Boulet"
-housenumber: 2
-phone: "+33 5 46 90 10 54"
-opening_hours: "09:00-19:30"
-website: "https://www.magasins-u.com/magasin/superu-saintsavinien"
+street: Rue Fond Boulet
+housenumber: "2"
+phone: +33 5 46 90 10 54
+opening_hours: 09:00-19:30
+website: https://www.magasins-u.com/magasin/superu-saintsavinien

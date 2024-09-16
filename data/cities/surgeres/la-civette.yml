@@ -1,11 +1,11 @@
 id: 72809839
-type: way
+type: node
 latitude: 46.10766
 longitude: -0.75203
 postcode: "17700"
 city: Surgères
-street: "Rue Audry de Puyravault"
-housenumber: 63
+street: Rue Audry de Puyravault
+housenumber: "63"
 phone: ""
 opening_hours: ""
 website: ""

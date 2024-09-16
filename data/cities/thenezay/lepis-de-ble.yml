@@ -1,11 +1,11 @@
 id: 63742666
-type: way
+type: node
 latitude: 46.7198
 longitude: -0.02596
 postcode: ""
 city: Thénezay
-street: "Rue du Général de Gaulle"
-housenumber: 47
+street: Rue du Général de Gaulle
+housenumber: "47"
 phone: ""
 opening_hours: ""
 website: ""

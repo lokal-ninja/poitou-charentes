@@ -1,11 +1,11 @@
 id: 136641167
-type: way
+type: node
 latitude: 45.74985
 longitude: -0.66895
 postcode: "17100"
 city: Saintes
-street: "Rue de la Côte de Beauté"
-housenumber: 15
-phone: "+33 5 46 94 08 18"
-opening_hours: "Mo-Fr 08:30-12:00,14:00-18:00"
+street: Rue de la Côte de Beauté
+housenumber: "15"
+phone: +33 5 46 94 08 18
+opening_hours: Mo-Fr 08:30-12:00,14:00-18:00
 website: ""

@@ -1,11 +1,11 @@
 id: 454542054
-type: way
+type: node
 latitude: 46.68613
 longitude: 0.26843
 postcode: "86170"
 city: Neuville de Poitou
-street: "Place de la Liberté"
-housenumber: 4
+street: Place de la Liberté
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

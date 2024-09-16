@@ -4,8 +4,9 @@ latitude: 45.64903
 longitude: 0.15608
 postcode: "16000"
 city: Angoulême
-street: "Place de l'Hôtel de Ville"
-housenumber: 16
+street: Place de l'Hôtel de Ville
+housenumber: "16"
 phone: ""
-opening_hours: "Tu 10:00-12:30,14:00-19:00; We,Th 09:00-12:30,14:00-19:00; Fr,Sa 09:00-12:30,14:00-19:15; Su 09:30-12:00"
+opening_hours: Tu 10:00-12:30,14:00-19:00; We,Th 09:00-12:30,14:00-19:00; Fr,Sa 09:00-12:30,14:00-19:15;
+    Su 09:30-12:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 46.64694
 longitude: -0.25161
 postcode: "79200"
 city: Parthenay
-street: "Rue Jean Jaurès"
-housenumber: 94
-phone: "+33 5 49 63 92 45"
-opening_hours: "Tu,Th-Sa 10:00-13:00,15:00-19:00; We 09:00-13:00,15:00-19:00"
-website: "http://librairie-lantidote.fr"
+street: Rue Jean Jaurès
+housenumber: "94"
+phone: +33 5 49 63 92 45
+opening_hours: Tu,Th-Sa 10:00-13:00,15:00-19:00; We 09:00-13:00,15:00-19:00
+website: http://librairie-lantidote.fr

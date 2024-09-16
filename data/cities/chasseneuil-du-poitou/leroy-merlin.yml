@@ -1,11 +1,11 @@
 id: 1038106583
-type: way
+type: node
 latitude: 46.64654
 longitude: 0.36071
 postcode: "86360"
 city: Chasseneuil-du-Poitou
-street: "Allée du Haut-Poitou"
-housenumber: 2
+street: Allée du Haut-Poitou
+housenumber: "2"
 phone: "+33755546997"
-opening_hours: "Mo-Sa 09:00-20:00"
-website: "https://www.leroymerlin.fr/magasins/chasseneuil-du-poitou-poitiers.html"
+opening_hours: Mo-Sa 09:00-20:00
+website: https://www.leroymerlin.fr/magasins/chasseneuil-du-poitou-poitiers.html

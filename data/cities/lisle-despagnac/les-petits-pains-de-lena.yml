@@ -1,11 +1,11 @@
 id: 779848697
-type: way
+type: node
 latitude: 45.66331
 longitude: 0.19292
 postcode: "16340"
 city: l'isle d'espagnac
-street: "Avenue de la République"
-housenumber: 119
+street: Avenue de la République
+housenumber: "119"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 136643100
-type: way
+type: node
 latitude: 45.7468
 longitude: -0.6593
 postcode: "17100"
 city: Saintes
-street: "Rue du Docteur Armand Trousseau"
-housenumber: 1
-phone: "+33 5 46 91 22 02"
-opening_hours: "Mo-Sa 06:00-19:00"
+street: Rue du Docteur Armand Trousseau
+housenumber: "1"
+phone: +33 5 46 91 22 02
+opening_hours: Mo-Sa 06:00-19:00
 website: ""

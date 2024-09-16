@@ -1,11 +1,11 @@
 id: 71310388
-type: way
+type: node
 latitude: 46.33185
 longitude: -0.40872
 postcode: "79000"
 city: Niort
-street: "Rue Toussaint Louverture"
-housenumber: 8
+street: Rue Toussaint Louverture
+housenumber: "8"
 phone: ""
 opening_hours: ""
 website: ""

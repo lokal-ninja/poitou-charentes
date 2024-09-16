@@ -1,11 +1,11 @@
 id: 64329522
-type: way
+type: node
 latitude: 46.64734
 longitude: -0.25165
 postcode: "79200"
 city: Parthenay
-street: "Rue Louis Aguillon"
-housenumber: 75
+street: Rue Louis Aguillon
+housenumber: "75"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 46.16766
 longitude: -1.13332
 postcode: "17000"
 city: La Rochelle
-street: "Boulevard André Sautel"
-housenumber: 60
-phone: "+33 5 46 50 64 55"
-opening_hours: "Mo-Sa 08:00-19:00, Su 08:00-13:00"
-website: "https://la-toque-cuivree.fr"
+street: Boulevard André Sautel
+housenumber: "60"
+phone: +33 5 46 50 64 55
+opening_hours: Mo-Sa 08:00-19:00, Su 08:00-13:00
+website: https://la-toque-cuivree.fr

@@ -4,8 +4,8 @@ latitude: 46.65345
 longitude: 0.36435
 postcode: "86360"
 city: Chasseneuil-du-Poitou
-street: "Allée du Haut-Poitou"
-housenumber: 7
-phone: "+33 5 49 62 56 22"
-opening_hours: "Tu-Fr 10:00-12:30, 14:00-19:00; Mo 14:00-19:00; Sa 10:00-19:00"
+street: Allée du Haut-Poitou
+housenumber: "7"
+phone: +33 5 49 62 56 22
+opening_hours: Tu-Fr 10:00-12:30, 14:00-19:00; Mo 14:00-19:00; Sa 10:00-19:00
 website: ""

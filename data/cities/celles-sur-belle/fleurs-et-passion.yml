@@ -1,11 +1,11 @@
 id: 1212029188
-type: way
+type: node
 latitude: 46.26745
 longitude: -0.22201
 postcode: "79370"
 city: Celles-sur-Belle
-street: "Avenue de Niort"
-housenumber: 68
+street: Avenue de Niort
+housenumber: "68"
 phone: ""
 opening_hours: ""
 website: ""

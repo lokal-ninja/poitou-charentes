@@ -1,11 +1,11 @@
 id: 158681071
-type: way
+type: node
 latitude: 46.65273
 longitude: 0.36279
 postcode: "86360"
 city: Chasseneuil-du-Poitou
-street: "Allée du Haut-Poitou"
-housenumber: 58
+street: Allée du Haut-Poitou
+housenumber: "58"
 phone: ""
 opening_hours: ""
-website: "https://www.nozarrivages.com/magasin/chasseneuil-du-poitou/"
+website: https://www.nozarrivages.com/magasin/chasseneuil-du-poitou/

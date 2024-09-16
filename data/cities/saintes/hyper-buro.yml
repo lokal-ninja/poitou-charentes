@@ -4,8 +4,8 @@ latitude: 45.75451
 longitude: -0.65627
 postcode: "17100"
 city: Saintes
-street: "Boulevard de Recouvrance"
-housenumber: 2
-phone: "+33 5 46 74 19 82"
-opening_hours: "Mo 09:30-12:30; We-Fr 09:30-12:30"
+street: Boulevard de Recouvrance
+housenumber: "2"
+phone: +33 5 46 74 19 82
+opening_hours: Mo 09:30-12:30; We-Fr 09:30-12:30
 website: ""

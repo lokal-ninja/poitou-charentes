@@ -1,11 +1,11 @@
 id: 61294642
-type: way
+type: node
 latitude: 45.73072
 longitude: -0.35179
 postcode: "16370"
 city: Cherves-Richemont
-street: "Avenue de Cognac"
-housenumber: 25
+street: Avenue de Cognac
+housenumber: "25"
 phone: ""
 opening_hours: ""
 website: ""

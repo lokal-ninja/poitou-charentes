@@ -1,11 +1,11 @@
 id: 64208954
-type: way
+type: node
 latitude: 46.98806
 longitude: -0.21759
 postcode: "79101"
 city: Thouars
-street: "Boulevard Auguste Rodin"
-housenumber: 10
-phone: "+33 5 49 68 08 66"
+street: Boulevard Auguste Rodin
+housenumber: "10"
+phone: +33 5 49 68 08 66
 opening_hours: ""
 website: ""

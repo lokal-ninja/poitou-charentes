@@ -1,11 +1,11 @@
 id: 64567061
-type: way
+type: node
 latitude: 45.65785
 longitude: 0.14577
 postcode: "16000"
 city: Angoulême
 street: ""
-housenumber: 95
-phone: "+33 5 45 68 22 73"
-opening_hours: "09:00-23:00"
-website: "https://www.coop-atlantique.fr/"
+housenumber: "95"
+phone: +33 5 45 68 22 73
+opening_hours: 09:00-23:00
+website: https://www.coop-atlantique.fr/

@@ -4,8 +4,8 @@ latitude: 45.93727
 longitude: -0.962
 postcode: "17300"
 city: Rochefort
-street: "Rue Audry de Puyravault"
-housenumber: 47
-phone: "+33 5 46 87 00 30"
-opening_hours: "Mo 13:30-19:00; Tu-Th 09:00-19:00; Fr 08:30-19:30; Sa 08:30-18:00"
+street: Rue Audry de Puyravault
+housenumber: "47"
+phone: +33 5 46 87 00 30
+opening_hours: Mo 13:30-19:00; Tu-Th 09:00-19:00; Fr 08:30-19:30; Sa 08:30-18:00
 website: ""

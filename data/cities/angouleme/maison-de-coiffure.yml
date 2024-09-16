@@ -1,11 +1,11 @@
 id: 64581071
-type: way
+type: node
 latitude: 45.65574
 longitude: 0.16
 postcode: "16000"
 city: Angoulême
 street: ""
-housenumber: 38
-phone: "+33 545692295"
-opening_hours: "Tu-We 09:00-18:00; Th-Fr 09:00-19:00; Sa 08:00-16:00"
-website: "https://www.planity.com/maison-de-coiffure-16000-angouleme"
+housenumber: "38"
+phone: +33 545692295
+opening_hours: Tu-We 09:00-18:00; Th-Fr 09:00-19:00; Sa 08:00-16:00
+website: https://www.planity.com/maison-de-coiffure-16000-angouleme

@@ -1,11 +1,11 @@
 id: 1151092281
-type: way
+type: node
 latitude: 46.55071
 longitude: 0.29975
 postcode: "86000"
 city: Poitiers
-street: "Avenue du 8 Mai 1945"
-housenumber: 252
+street: Avenue du 8 Mai 1945
+housenumber: "252"
 phone: ""
-opening_hours: "Mo-Sa 09:30-20:00"
-website: "https://boutiques.bouyguestelecom.fr/bouyguestelecom/fr/shop/france/nouvelle-aquitaine/vienne/poitiers/cc-poitiers-pte-sud/9932167"
+opening_hours: Mo-Sa 09:30-20:00
+website: https://boutiques.bouyguestelecom.fr/bouyguestelecom/fr/shop/france/nouvelle-aquitaine/vienne/poitiers/cc-poitiers-pte-sud/9932167

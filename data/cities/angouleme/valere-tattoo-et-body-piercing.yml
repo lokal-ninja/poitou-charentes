@@ -4,8 +4,8 @@ latitude: 45.6514
 longitude: 0.15562
 postcode: "16000"
 city: Angoulême
-street: "Place du Palet"
-housenumber: 1
-phone: "+33 5 45 38 18 61"
-opening_hours: "Mo-Sa 12:00-20:00"
-website: "https://www.valere-tattoo.com/"
+street: Place du Palet
+housenumber: "1"
+phone: +33 5 45 38 18 61
+opening_hours: Mo-Sa 12:00-20:00
+website: https://www.valere-tattoo.com/

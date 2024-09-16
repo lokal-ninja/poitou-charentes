@@ -1,11 +1,12 @@
 id: 114809475
-type: way
+type: node
 latitude: 45.66388
 longitude: 0.09408
 postcode: "16730"
 city: Fléac
-street: "Rue des Petits Prés"
+street: Rue des Petits Prés
 housenumber: 9 Bis
-phone: "+33 5 45 91 01 99"
-opening_hours: "Mo 13:30-18:00; Tu-Th 08:30-18:30; Fr 08:30-19:00; Sa 08:00-16:30; PH off"
+phone: +33 5 45 91 01 99
+opening_hours: Mo 13:30-18:00; Tu-Th 08:30-18:30; Fr 08:30-19:00; Sa 08:00-16:30;
+    PH off
 website: ""

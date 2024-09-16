@@ -1,11 +1,11 @@
 id: 110595101
-type: way
+type: node
 latitude: 46.18525
 longitude: -1.39339
 postcode: "17580"
 city: Le Bois-Plage-en-Ré
-street: "Place Raymond Dupeux"
-housenumber: 
-phone: "+33 5 46 09 22 82"
-opening_hours: "Mo-Sa 08:00-19:45; Su 09:00-12:45"
-website: "https://www.carrefour.fr/magasin/contact-le-bois-plage"
+street: Place Raymond Dupeux
+housenumber: ""
+phone: +33 5 46 09 22 82
+opening_hours: Mo-Sa 08:00-19:45; Su 09:00-12:45
+website: https://www.carrefour.fr/magasin/contact-le-bois-plage

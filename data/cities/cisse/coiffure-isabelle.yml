@@ -1,11 +1,11 @@
 id: 86540105
-type: way
+type: node
 latitude: 46.64582
 longitude: 0.22824
 postcode: "86170"
 city: Cissé
-street: "Rue du Plat d'Étain"
-housenumber: 2
-phone: "+33 5 49 53 38 62"
-opening_hours: "Tu-Th 08:00-12:00,14:00-19:00; Fr 09:00-19:00; Sa 08:30-16:30"
+street: Rue du Plat d'Étain
+housenumber: "2"
+phone: +33 5 49 53 38 62
+opening_hours: Tu-Th 08:00-12:00,14:00-19:00; Fr 09:00-19:00; Sa 08:30-16:30
 website: ""

@@ -1,11 +1,11 @@
 id: 90824079
-type: way
+type: node
 latitude: 45.95471
 longitude: -0.9789
 postcode: "17300"
 city: Rochefort
-street: "Rue de Villeneuve Montigny"
-housenumber: 4
+street: Rue de Villeneuve Montigny
+housenumber: "4"
 phone: "+33546992424"
-opening_hours: "Mo-Fr 09:30-12:30,14:00-19:00; Sa 09:30-19:00"
-website: "https://www.lahalle.com/magasins-charente-maritime-17-rochefort-496.html"
+opening_hours: Mo-Fr 09:30-12:30,14:00-19:00; Sa 09:30-19:00
+website: https://www.lahalle.com/magasins-charente-maritime-17-rochefort-496.html

@@ -1,11 +1,11 @@
 id: 75465418
-type: way
+type: node
 latitude: 46.32226
 longitude: -0.2178
 postcode: "79370"
 city: Prailles
-street: "Rue du Petit Bourg"
-housenumber: 11
+street: Rue du Petit Bourg
+housenumber: "11"
 phone: ""
 opening_hours: ""
 website: ""

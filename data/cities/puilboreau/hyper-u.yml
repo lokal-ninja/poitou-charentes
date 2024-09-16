@@ -1,11 +1,11 @@
 id: 1193038883
-type: way
+type: node
 latitude: 46.17426
 longitude: -1.118
 postcode: "17138"
 city: Puilboreau
-street: "Route de Nantes"
-housenumber: 
+street: Route de Nantes
+housenumber: ""
 phone: "+33546680322"
-opening_hours: "Mo-Sa 09:00-21:00"
-website: "https://www.magasins-u.com/magasin/hyperu-larochellebeaulieu"
+opening_hours: Mo-Sa 09:00-21:00
+website: https://www.magasins-u.com/magasin/hyperu-larochellebeaulieu

@@ -1,11 +1,11 @@
 id: 84992561
-type: way
+type: node
 latitude: 46.1739
 longitude: -1.12044
 postcode: "17138"
 city: Puilboreau
-street: "Rue du 11 Novembre"
-housenumber: 4
+street: Rue du 11 Novembre
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

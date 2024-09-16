@@ -1,11 +1,11 @@
 id: 63428016
-type: way
+type: node
 latitude: 46.5691
 longitude: 0.63441
 postcode: "86300"
 city: Chauvigny
-street: "Rue de la Verrerie"
-housenumber: 2
-phone: "+33 5 49 46 56 28"
-opening_hours: "Mo-Sa 08:30-19:30; Su 09:00-12:30"
-website: "https://www.magasins-u.com/magasin/uexpress-chauvigny"
+street: Rue de la Verrerie
+housenumber: "2"
+phone: +33 5 49 46 56 28
+opening_hours: Mo-Sa 08:30-19:30; Su 09:00-12:30
+website: https://www.magasins-u.com/magasin/uexpress-chauvigny

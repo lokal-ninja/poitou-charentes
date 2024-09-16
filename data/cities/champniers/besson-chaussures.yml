@@ -1,11 +1,12 @@
 id: 68932075
-type: way
+type: node
 latitude: 45.68798
 longitude: 0.17914
 postcode: "16430"
 city: Champniers
-street: "Zac les Montagnes 2"
-housenumber: 
+street: Zac les Montagnes 2
+housenumber: ""
 phone: "+33825351134"
-opening_hours: "Mo-Tu 10:00-12:30, 14:00-19:00; We 10:00-19:00; Th-Fr 10:00-12:30, 14:00-19:00; Sa 10:00-19:00"
-website: "https://www.besson-chaussures.com/fr/BESSON_CHAUSSURES_Magasin_ANGOULEME-p2296"
+opening_hours: Mo-Tu 10:00-12:30, 14:00-19:00; We 10:00-19:00; Th-Fr 10:00-12:30,
+    14:00-19:00; Sa 10:00-19:00
+website: https://www.besson-chaussures.com/fr/BESSON_CHAUSSURES_Magasin_ANGOULEME-p2296

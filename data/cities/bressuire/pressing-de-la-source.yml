@@ -4,8 +4,9 @@ latitude: 46.84659
 longitude: -0.48178
 postcode: "79300"
 city: Bressuire
-street: "Avenue d'Angers"
-housenumber: 2
-phone: "+33 9 67 08 07 75"
-opening_hours: "Mo 14:00-18:00; Tu-Fr 07:45-12:15,14:00-18:00; We 07:45-11:45,13:45-17:00; Sa 09:30-13:00"
+street: Avenue d'Angers
+housenumber: "2"
+phone: +33 9 67 08 07 75
+opening_hours: Mo 14:00-18:00; Tu-Fr 07:45-12:15,14:00-18:00; We 07:45-11:45,13:45-17:00;
+    Sa 09:30-13:00
 website: ""

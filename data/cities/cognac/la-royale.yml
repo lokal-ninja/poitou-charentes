@@ -1,11 +1,11 @@
 id: 65530508
-type: way
+type: node
 latitude: 45.69535
 longitude: -0.32836
 postcode: "16100"
 city: Cognac
-street: "Rue du Canton"
-housenumber: 15
-phone: "+33 5 45 82 08 47"
+street: Rue du Canton
+housenumber: "15"
+phone: +33 5 45 82 08 47
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 510578576
-type: way
+type: node
 latitude: 46.55358
 longitude: 0.29896
 postcode: "86000"
 city: Poitiers
-street: "Rue Gustave Eiffel"
-housenumber: 3
+street: Rue Gustave Eiffel
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 136645247
-type: way
+type: node
 latitude: 45.7365
 longitude: -0.64396
 postcode: "17100"
 city: SAINTES
-street: "Avenue du Président Salvador Allende"
-housenumber: 13
-phone: "+33 5 46 74 60 31"
-opening_hours: "Tu-Sa 09:00-12:30 15:00-19:30"
+street: Avenue du Président Salvador Allende
+housenumber: "13"
+phone: +33 5 46 74 60 31
+opening_hours: Tu-Sa 09:00-12:30 15:00-19:30
 website: ""

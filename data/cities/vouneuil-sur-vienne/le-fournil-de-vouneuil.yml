@@ -1,11 +1,11 @@
 id: 86623760
-type: way
+type: node
 latitude: 46.71723
 longitude: 0.54081
 postcode: "86210"
 city: Vouneuil-sur-Vienne
-street: "Avenue Jean Jaurès"
-housenumber: 3
+street: Avenue Jean Jaurès
+housenumber: "3"
 phone: ""
-opening_hours: "Tu-Sa 06:30-20:00; Su 06:30-13:30; Mo 06:30-12:30"
+opening_hours: Tu-Sa 06:30-20:00; Su 06:30-13:30; Mo 06:30-12:30
 website: ""

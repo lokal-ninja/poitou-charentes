@@ -5,7 +5,7 @@ longitude: -0.79444
 postcode: ""
 city: Saint-Amand-sur-Sèvre
 street: ""
-housenumber: 5
-phone: "+33 5 49 81 67 34"
-opening_hours: "Tu-Fr 07:00-13:30,16:00-19:45; Sa 07:00-13:30,16:00-19:15; Su 07:00-13:00"
+housenumber: "5"
+phone: +33 5 49 81 67 34
+opening_hours: Tu-Fr 07:00-13:30,16:00-19:45; Sa 07:00-13:30,16:00-19:15; Su 07:00-13:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 45.73293
 longitude: -0.64361
 postcode: "17100"
 city: Saintes
-street: "Avenue de Bellevue"
-housenumber: 6
-phone: "+33 5 16 86 96 15"
-opening_hours: "Tu-Fr 07:00-19:00, Sa-Su 07:00-13:00"
+street: Avenue de Bellevue
+housenumber: "6"
+phone: +33 5 16 86 96 15
+opening_hours: Tu-Fr 07:00-19:00, Sa-Su 07:00-13:00
 website: ""

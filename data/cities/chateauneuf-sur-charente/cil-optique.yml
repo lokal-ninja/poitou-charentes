@@ -1,11 +1,11 @@
 id: 122902146
-type: way
+type: node
 latitude: 45.59825
 longitude: -0.05385
 postcode: "16120"
 city: Châteauneuf-sur-Charente
-street: "Rue Aristide Briand"
-housenumber: 42
-phone: "+33 5 45 97 04 22"
-opening_hours: "Tu-Fr 09:00-12:15,14:30-19:00"
-website: "https://www.ciloptique-opticien.fr/"
+street: Rue Aristide Briand
+housenumber: "42"
+phone: +33 5 45 97 04 22
+opening_hours: Tu-Fr 09:00-12:15,14:30-19:00
+website: https://www.ciloptique-opticien.fr/

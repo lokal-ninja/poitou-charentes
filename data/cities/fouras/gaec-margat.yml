@@ -1,11 +1,11 @@
 id: 92520897
-type: way
+type: node
 latitude: 46.00201
 longitude: -1.1157
 postcode: "17450"
 city: Fouras
-street: "Boulevard de la Fumée"
-housenumber: 
-phone: "+33666468857;+33677521361"
+street: Boulevard de la Fumée
+housenumber: ""
+phone: +33666468857;+33677521361
 opening_hours: ""
-website: "https://www.degustation-fruitsdemer-fouras.com"
+website: https://www.degustation-fruitsdemer-fouras.com

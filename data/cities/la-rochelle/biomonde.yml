@@ -4,8 +4,8 @@ latitude: 46.16268
 longitude: -1.18179
 postcode: "17000"
 city: La Rochelle
-street: "Rue des Quatrefages"
-housenumber: 10
-phone: "+33 5 46 56 72 26"
-opening_hours: "Mo-Sa 09:30-13:30, Mo-Fr 15:00-19:30"
-website: "https://www.biomonde.fr/biomonde-la-rochelle,3,253"
+street: Rue des Quatrefages
+housenumber: "10"
+phone: +33 5 46 56 72 26
+opening_hours: Mo-Sa 09:30-13:30, Mo-Fr 15:00-19:30
+website: https://www.biomonde.fr/biomonde-la-rochelle,3,253

@@ -1,11 +1,11 @@
 id: 84252269
-type: way
+type: node
 latitude: 46.83858
 longitude: 0.54553
 postcode: "86100"
 city: Châtellerault
-street: "Rue Nungesser"
-housenumber: 
+street: Rue Nungesser
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "https://www.nozarrivages.com/magasin/chatellerault/"
+website: https://www.nozarrivages.com/magasin/chatellerault/

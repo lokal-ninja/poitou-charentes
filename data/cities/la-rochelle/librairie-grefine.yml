@@ -4,8 +4,8 @@ latitude: 46.1565
 longitude: -1.14889
 postcode: "17000"
 city: La Rochelle
-street: "Rue Saint-Nicolas"
-housenumber: 57
-phone: "+33 5 46 41 46 85"
-opening_hours: "Mo 14:00-19:00; Tu-Sa 09:30-19:00"
-website: "http://grefine.com/"
+street: Rue Saint-Nicolas
+housenumber: "57"
+phone: +33 5 46 41 46 85
+opening_hours: Mo 14:00-19:00; Tu-Sa 09:30-19:00
+website: http://grefine.com/

@@ -1,11 +1,11 @@
 id: 876279304
-type: way
+type: node
 latitude: 45.94855
 longitude: -0.50335
 postcode: "17400"
 city: Saint-Jean-d'Angély
 street: ""
-housenumber: 
-phone: "+33 5 46 26 43 93"
-opening_hours: "Tu-Fr 09:00-12:00,14:00-18:00"
-website: "https://www.mondial-piscine.eu/"
+housenumber: ""
+phone: +33 5 46 26 43 93
+opening_hours: Tu-Fr 09:00-12:00,14:00-18:00
+website: https://www.mondial-piscine.eu/

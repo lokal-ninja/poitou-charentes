@@ -1,11 +1,11 @@
 id: 42514816
-type: way
+type: node
 latitude: 46.54927
 longitude: 0.29985
 postcode: "86000"
 city: Poitiers
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

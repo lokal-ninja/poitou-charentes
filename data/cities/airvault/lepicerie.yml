@@ -1,11 +1,11 @@
 id: 64521414
-type: way
+type: node
 latitude: 46.82667
 longitude: -0.13806
 postcode: "79600"
 city: Airvault
-street: "place Saint-Pierre"
-housenumber: 2
+street: place Saint-Pierre
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

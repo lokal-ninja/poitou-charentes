@@ -4,8 +4,8 @@ latitude: 45.88152
 longitude: -0.07234
 postcode: "16140"
 city: Verdille
-street: "Rue Saint-Vincent"
-housenumber: 4
+street: Rue Saint-Vincent
+housenumber: "4"
 phone: ""
-opening_hours: "on appointment"
+opening_hours: '"on appointment"'
 website: ""

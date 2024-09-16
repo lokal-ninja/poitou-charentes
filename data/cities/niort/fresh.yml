@@ -1,11 +1,11 @@
 id: 841970607
-type: way
+type: node
 latitude: 46.30712
 longitude: -0.48436
 postcode: "79000"
 city: Niort
-street: "Rue Thomas Portau"
-housenumber: 3
+street: Rue Thomas Portau
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Sa 08:30-19:30; Su 08:30-12:00"
-website: "https://www.fresh.fr/magasin/niort/"
+opening_hours: Mo-Sa 08:30-19:30; Su 08:30-12:00
+website: https://www.fresh.fr/magasin/niort/

@@ -1,11 +1,11 @@
 id: 519548474
-type: way
+type: node
 latitude: 45.68466
 longitude: -0.30362
 postcode: "16100"
 city: Châteaubernard
-street: "Rue Samuel de Champlain"
-housenumber: 
+street: Rue Samuel de Champlain
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 08:00-12:30,14:00-19:00"
+opening_hours: Mo-Sa 08:00-12:30,14:00-19:00
 website: ""

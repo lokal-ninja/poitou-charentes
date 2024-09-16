@@ -1,11 +1,11 @@
 id: 69328110
-type: way
+type: node
 latitude: 45.61507
 longitude: -0.21832
 postcode: "16130"
 city: Segonzac
-street: "Rue Gaston Briand"
-housenumber: 42
+street: Rue Gaston Briand
+housenumber: "42"
 phone: ""
-opening_hours: "Tu-Fr 08:00-12:15,14:00-19:00; Sa 09:00-12:15,14:00-19:00"
+opening_hours: Tu-Fr 08:00-12:15,14:00-19:00; Sa 09:00-12:15,14:00-19:00
 website: ""

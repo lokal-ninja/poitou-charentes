@@ -1,11 +1,11 @@
 id: 88421458
-type: way
+type: node
 latitude: 46.58819
 longitude: 0.37209
 postcode: "86000"
 city: Poitiers
-street: "Rue Nelson Mandela"
-housenumber: 25
+street: Rue Nelson Mandela
+housenumber: "25"
 phone: ""
 opening_hours: ""
 website: ""

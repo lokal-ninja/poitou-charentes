@@ -1,11 +1,11 @@
 id: 121098819
-type: way
+type: node
 latitude: 45.87253
 longitude: -1.20608
 postcode: "17480"
 city: Le Château-d'Oléron
-street: "Rue des Pêcheurs"
-housenumber: 8
+street: Rue des Pêcheurs
+housenumber: "8"
 phone: ""
 opening_hours: ""
 website: ""

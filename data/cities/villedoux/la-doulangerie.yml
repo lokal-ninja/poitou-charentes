@@ -5,7 +5,7 @@ longitude: -1.06715
 postcode: "17230"
 city: Villedoux
 street: ""
-housenumber: 22
+housenumber: "22"
 phone: ""
-opening_hours: "Tu-Sa 07:00-13:00,16:00-19:00; Su 07:00-13:00"
-website: "https://le-pinocchio.business.site/"
+opening_hours: Tu-Sa 07:00-13:00,16:00-19:00; Su 07:00-13:00
+website: https://le-pinocchio.business.site/

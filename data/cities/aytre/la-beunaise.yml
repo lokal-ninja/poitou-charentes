@@ -1,11 +1,11 @@
 id: 71919084
-type: way
+type: node
 latitude: 46.12844
 longitude: -1.09276
 postcode: "17440"
 city: Aytré
-street: "Rue Thalès"
-housenumber: 13
+street: Rue Thalès
+housenumber: "13"
 phone: ""
-opening_hours: "We-Th 16:00-19:00; Fr 10:00-12:00"
-website: "http://www.labeunaise.fr/"
+opening_hours: We-Th 16:00-19:00; Fr 10:00-12:00
+website: http://www.labeunaise.fr/

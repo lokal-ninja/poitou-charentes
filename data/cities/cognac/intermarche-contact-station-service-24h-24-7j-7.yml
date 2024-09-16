@@ -4,8 +4,8 @@ latitude: 45.69144
 longitude: -0.30943
 postcode: "16100"
 city: Cognac
-street: "Rue de l'Echassier"
-housenumber: 70
+street: Rue de l'Echassier
+housenumber: "70"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

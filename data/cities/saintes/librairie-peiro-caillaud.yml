@@ -4,8 +4,8 @@ latitude: 45.74705
 longitude: -0.63263
 postcode: "17100"
 city: Saintes
-street: "Cours National"
-housenumber: 41
-phone: "+33 5 46 93 04 34"
-opening_hours: "08:30-12:00,14:30-19:00"
-website: "https://lalibrairie.peiro-caillaud.com/"
+street: Cours National
+housenumber: "41"
+phone: +33 5 46 93 04 34
+opening_hours: 08:30-12:00,14:30-19:00
+website: https://lalibrairie.peiro-caillaud.com/

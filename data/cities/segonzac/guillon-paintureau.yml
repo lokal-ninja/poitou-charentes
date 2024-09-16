@@ -4,8 +4,8 @@ latitude: 45.62718
 longitude: -0.23843
 postcode: "16130"
 city: Segonzac
-street: "Rue du Coteau"
-housenumber: 7
-phone: "+33 5 45 83 41 95"
-opening_hours: "on call"
-website: "https://www.cognac-guillon-painturaud.fr/"
+street: Rue du Coteau
+housenumber: "7"
+phone: +33 5 45 83 41 95
+opening_hours: '"on call"'
+website: https://www.cognac-guillon-painturaud.fr/

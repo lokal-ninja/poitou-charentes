@@ -1,11 +1,11 @@
 id: 683052111
-type: way
+type: node
 latitude: 46.09908
 longitude: -0.94103
 postcode: "17290"
 city: Le Thou
-street: "Rue du Petit Bois"
-housenumber: 3
+street: Rue du Petit Bois
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

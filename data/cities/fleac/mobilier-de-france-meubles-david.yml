@@ -1,11 +1,11 @@
 id: 114811850
-type: way
+type: node
 latitude: 45.67661
 longitude: 0.08499
 postcode: "16730"
 city: Fléac
-street: "Route de Cognac"
-housenumber: 
-phone: "+33 5 45 91 03 39"
-opening_hours: "Mo 14:00-19:00; Tu-Sa 09:30-12:00,14:00-19:00"
+street: Route de Cognac
+housenumber: ""
+phone: +33 5 45 91 03 39
+opening_hours: Mo 14:00-19:00; Tu-Sa 09:30-12:00,14:00-19:00
 website: ""

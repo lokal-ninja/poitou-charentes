@@ -4,8 +4,8 @@ latitude: 45.73547
 longitude: -0.65096
 postcode: "17100"
 city: Saintes
-street: "Rue Gustave Courbet"
-housenumber: 2
-phone: "+33 5 46 94 91 86"
-opening_hours: "Mo-Tu 07:30-12:30 16:00-19:00; Tu-Su 07:30-12:30 16:00-19:00"
+street: Rue Gustave Courbet
+housenumber: "2"
+phone: +33 5 46 94 91 86
+opening_hours: Mo-Tu 07:30-12:30 16:00-19:00; Tu-Su 07:30-12:30 16:00-19:00
 website: ""
