@@ -7,5 +7,5 @@ city: La Rochelle
 street: Cour Saint-Michel
 housenumber: "4"
 phone: +33 5 46 45 08 52
-opening_hours: Mo-Su 10:00-13:00 15:00-18:00
+opening_hours: Mo,Tu 15:00-18:00; We-Sa 10:00-13:00,15:00-18:00
 website: ""
