@@ -1,5 +1,5 @@
 ---
 title: "Intermarché"
 url: /la-flotte/intermarche/
-shop: supermarché
+shop: gaz
 ---
