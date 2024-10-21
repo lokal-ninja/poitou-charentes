@@ -1,5 +1,5 @@
 ---
 title: "Envie Charente"
 url: /lisle-despagnac/envie-charente/
-shop: électronique
+shop: appareil ménager
 ---

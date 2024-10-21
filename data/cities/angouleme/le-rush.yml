@@ -4,8 +4,9 @@ latitude: 45.63498
 longitude: 0.15393
 postcode: "16000"
 city: Angoulême
-street: ""
+street: Avenue de Navarre
 housenumber: "267"
 phone: ""
-opening_hours: Mo-Fr 07:30-13:00,16:00-18:30; Sa 08:00-13:00,16:00-18:30; Su 08:30-12:00
-website: ""
+opening_hours: Mo-Tu 07:00-14:00,16:00-20:00; We 07:00-14:00; Th-Fr 07:00-14:00,16:00-20:00;
+    Sa 08:00-14:00,16:00-20:00; Su 08:00-14:00
+website: http://www.cotevap.fr/
