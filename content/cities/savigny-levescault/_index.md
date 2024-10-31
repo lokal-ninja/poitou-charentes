@@ -1,6 +1,6 @@
 ---
-title: Savigny-Levescault
+title: Savigny-Lévescault
 url: /savigny-levescault/
-latitude: 46.533
+latitude: 46.534
 longitude: 0.479
 ---
