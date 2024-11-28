@@ -1,5 +1,5 @@
 ---
-title: "La panière des pains"
+title: "La Panière des Pains"
 url: /ruffec/la-paniere-des-pains/
 shop: boulangerie
 ---
