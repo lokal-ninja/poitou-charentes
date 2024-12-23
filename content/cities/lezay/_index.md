@@ -1,6 +1,6 @@
 ---
 title: Lezay
 url: /lezay/
-latitude: 46.266
-longitude: -0.003
+latitude: 46.263
+longitude: -0.014
 ---
