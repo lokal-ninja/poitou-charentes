@@ -1,6 +1,6 @@
 ---
 title: Niort
 url: /niort/
-latitude: 46.325
-longitude: -0.463
+latitude: 46.324
+longitude: -0.461
 ---
