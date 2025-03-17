@@ -1,5 +1,5 @@
 ---
 title: "Les Chocolats Yves Thuriès"
 url: /niort/les-chocolats-yves-thuries/
-shop: commodité
+shop: chocolat
 ---
