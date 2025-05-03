@@ -1,5 +1,5 @@
 ---
-title: "Coop Saint Cybard"
+title: "Coop Saint-Cybard"
 url: /angouleme/coop-saint-cybard/
 shop: commodité
 ---

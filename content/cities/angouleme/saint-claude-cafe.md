@@ -1,5 +1,5 @@
 ---
-title: "Saint Claude Café"
+title: "Saint-Claude Café"
 url: /angouleme/saint-claude-cafe/
 shop: tabac
 ---
