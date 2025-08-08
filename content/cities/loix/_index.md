@@ -1,6 +1,6 @@
 ---
 title: Loix
 url: /loix/
-latitude: 46.228
-longitude: -1.43
+latitude: 46.224
+longitude: -1.44
 ---

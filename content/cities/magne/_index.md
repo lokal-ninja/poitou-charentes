@@ -1,6 +1,6 @@
 ---
 title: Magné
 url: /magne/
-latitude: 46.314
-longitude: -0.544
+latitude: 46.316
+longitude: -0.555
 ---

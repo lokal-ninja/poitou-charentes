@@ -1,5 +1,5 @@
 ---
 title: "Larivière"
 url: /niort/lariviere/
-shop: shop
+shop: à faire soi-même
 ---
