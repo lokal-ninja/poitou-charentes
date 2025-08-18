@@ -1,5 +1,5 @@
 ---
-title: "coop"
+title: "Coop"
 url: /montils/coop/
 shop: commodité
 ---

@@ -1,6 +1,6 @@
 ---
 title: Bressuire
 url: /bressuire/
-latitude: 46.842
-longitude: -0.492
+latitude: 46.833
+longitude: -0.452
 ---
