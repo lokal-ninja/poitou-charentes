@@ -1,5 +1,5 @@
 ---
-title: "Autour de bébé"
+title: "Autour de Bébé"
 url: /medis/autour-de-bebe/
-shop: vêtements
+shop: produits pour bébés
 ---
