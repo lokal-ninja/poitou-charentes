@@ -7,6 +7,5 @@ city: Rochefort
 street: Rue du 14 Juillet
 housenumber: "19"
 phone: +33 5 46 99 03 27
-opening_hours: Tu 09:00-13:00,14:00-18:30; We-Th 09:00-12:00,14:00-18:30; Fr 09:00-18:30;
-    Sa 09:00-17:00
+opening_hours: Tu,We,Fr 09:00-18:30; Th 09:00-12:00,13:30-18:30
 website: https://www.sophie-baucais.com/

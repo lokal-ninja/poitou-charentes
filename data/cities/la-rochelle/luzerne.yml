@@ -7,5 +7,6 @@ city: La Rochelle
 street: Avenue Jean Guiton
 housenumber: "67"
 phone: +33 5 46 30 20 77
-opening_hours: ""
+opening_hours: Tu,We 10:00-12:30,15:00-19:00; Fr,Sa 10:00-12:30,15:00-19:00; Su 10:00-13:00;
+    Mo,Th off
 website: ""
