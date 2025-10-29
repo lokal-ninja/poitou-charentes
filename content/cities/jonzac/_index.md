@@ -1,6 +1,6 @@
 ---
 title: Jonzac
 url: /jonzac/
-latitude: 45.436
-longitude: -0.452
+latitude: 45.439
+longitude: -0.447
 ---
