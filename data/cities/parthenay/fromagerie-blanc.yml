@@ -6,8 +6,7 @@ postcode: "79200"
 city: Parthenay
 street: Rue Marcel Beau
 housenumber: "11"
-phone: 05 49 95 75 80
-opening_hours: Mardi de 09h00 à 13h00 et de 15h00 à 19h00 Mercredi de 09h00 à 13h00
-    et de 15h00 à 19h00 Jeudi de 09h00 à 13h00 et de 15h00 à 19h00 Vendredi de 09h00
-    à 13h00 et de 15h00 à 19h00 Samedi de 09h00 à 13h00 et de 15h00 à 19h00
+phone: +33 5 49 95 75 80
+opening_hours: Tu 09:00-13:00, 15:00-19:00; We 09:00-13:00, 15:00-19:00; Th 09:00-13:00,
+    15:00-19:00; Fr 09:00-13:00, 15:00-19:00; Sa 09:00-13:00, 15:00-19:00
 website: ""
