@@ -1,6 +1,6 @@
 ---
 title: Gensac-la-Pallue
 url: /gensac-la-pallue/
-latitude: 45.651
-longitude: -0.252
+latitude: 45.677
+longitude: -0.278
 ---
