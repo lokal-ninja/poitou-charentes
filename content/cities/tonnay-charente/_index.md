@@ -1,6 +1,6 @@
 ---
 title: Tonnay-Charente
 url: /tonnay-charente/
-latitude: 45.956
-longitude: -0.862
+latitude: 45.953
+longitude: -0.88
 ---
