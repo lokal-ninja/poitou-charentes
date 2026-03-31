@@ -1,6 +1,6 @@
 ---
-title: Migné-Auxances
+title: Migné Auxances
 url: /migne-auxances/
-latitude: 46.613
-longitude: 0.318
+latitude: 46.62
+longitude: 0.312
 ---
