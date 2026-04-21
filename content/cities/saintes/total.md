@@ -1,5 +1,5 @@
 ---
 title: "Total"
-url: /saint-jean-de-thouars/total/
+url: /saintes/total/
 shop: commodité
 ---
