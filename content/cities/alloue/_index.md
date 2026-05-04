@@ -1,6 +1,6 @@
 ---
 title: Alloue
 url: /alloue/
-latitude: 46.017
-longitude: 0.532
+latitude: 46.025
+longitude: 0.502
 ---
