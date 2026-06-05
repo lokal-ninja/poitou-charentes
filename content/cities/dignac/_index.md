@@ -1,6 +1,6 @@
 ---
 title: Dignac
 url: /dignac/
-latitude: 45.554
-longitude: 0.276
+latitude: 45.555
+longitude: 0.277
 ---

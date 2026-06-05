@@ -1,6 +1,6 @@
 ---
 title: Reignac
 url: /reignac/
-latitude: 45.419
-longitude: -0.162
+latitude: 45.43
+longitude: -0.174
 ---
