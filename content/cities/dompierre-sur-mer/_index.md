@@ -2,5 +2,5 @@
 title: Dompierre-sur-Mer
 url: /dompierre-sur-mer/
 latitude: 46.188
-longitude: -1.068
+longitude: -1.065
 ---
