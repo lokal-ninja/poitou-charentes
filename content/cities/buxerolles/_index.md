@@ -1,6 +1,6 @@
 ---
 title: Buxerolles
 url: /buxerolles/
-latitude: 46.609
-longitude: 0.364
+latitude: 46.596
+longitude: 0.351
 ---
