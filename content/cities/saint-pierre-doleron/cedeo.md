@@ -1,5 +1,5 @@
 ---
-title: "Cedeo"
+title: "CEDEO"
 url: /saint-pierre-doleron/cedeo/
-shop: salle de bains
+shop: à faire soi-même
 ---
