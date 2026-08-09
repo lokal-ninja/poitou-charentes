@@ -7,7 +7,5 @@ city: Lusignan
 street: place du 8 mai 1945
 housenumber: "10"
 phone: ""
-opening_hours: lundi FERMÉ mardi 10:00 - 13:00 15:30 - 19:00 mercredi 10:00 - 13:00
-    15:30 - 19:00 jeudi 10:00 - 13:00 15:30 - 19:00 vendredi 10:00 - 13:00 15:30 -
-    19:00 samedi 10:00 - 13:00 15:30 - 19:00 dimanche 10:00 - 12:30
+opening_hours: Mo off; Tu-Sa 10:00-13:00,15:30-19:00; Su 10:00-12:30
 website: https://www.facebook.com/Le-Chaudron-de-M%C3%A9lusine-624075238231962/

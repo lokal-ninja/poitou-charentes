@@ -1,6 +1,6 @@
 ---
 title: Saintes
 url: /saintes/
-latitude: 45.743
-longitude: -0.636
+latitude: 45.736
+longitude: -0.645
 ---
