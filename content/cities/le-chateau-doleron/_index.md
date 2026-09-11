@@ -1,6 +1,6 @@
 ---
-title: Le Château d'Oléron
+title: Le Château-d'Oléron
 url: /le-chateau-doleron/
-latitude: 45.878
-longitude: -1.219
+latitude: 45.869
+longitude: -1.211
 ---

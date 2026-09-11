@@ -1,5 +1,5 @@
 ---
-title: "La Maison d'Ambre"
+title: "La maison d'ambre"
 url: /la-rochelle/la-maison-dambre/
-shop: cadeau
+shop: bijoux
 ---
