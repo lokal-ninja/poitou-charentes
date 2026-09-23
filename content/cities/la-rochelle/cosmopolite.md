@@ -1,5 +1,5 @@
 ---
 title: "Cosmopolite"
 url: /la-rochelle/cosmopolite/
-shop: coiffeur
+shop: chaussures
 ---
