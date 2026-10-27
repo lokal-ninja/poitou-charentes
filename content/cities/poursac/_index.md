@@ -1,6 +1,6 @@
 ---
 title: Poursac
 url: /poursac/
-latitude: 45.96
-longitude: 0.262
+latitude: 45.964
+longitude: 0.289
 ---
